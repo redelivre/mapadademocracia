@@ -40,9 +40,9 @@ $(document).ready(function() {
         lista.sort(compare)
         for (var i=0; i<lista.length; i++) {
             var tr = $('<tr>').addClass('deputado').appendTo(table);
-            //var a = $('<a>').attr('href', 'deputado?id='+lista[i].politico_id_planilha).text(lista[i].title)
-            //$('<td>').append(a).appendTo(tr);
-            $('<td>').text(lista[i].title).appendTo(tr);
+            var a = $('<a>').attr('href', 'deputado?id='+lista[i].politico_id_planilha).text(lista[i].title)
+            $('<td>').append(a).appendTo(tr);
+            //$('<td>').text(lista[i].title).appendTo(tr);
             $('<td>').text(lista[i].politico_partido + '/' + lista[i].politico_estado).appendTo(tr);
         }
     };
