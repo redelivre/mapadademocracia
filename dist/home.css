@@ -1,0 +1,18 @@
+.box {
+    padding: 1em;
+    border: 0 !important;
+}
+.box h2 {
+    width: 100%;
+    text-align: center;
+    padding: 1em 1em 0 1em;
+}
+.box div {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0.5em 0;
+}
+#deputados-contra tr.deputado { background-color: #FF9C9C }
+#deputados-indecisos tr.deputado { background-color: #FFF3B0 }
+#deputados-favor tr.deputado { background-color: #86A9C2 }
