@@ -1,13 +1,13 @@
-.box {
+#deputados-contra .box, #deputados-indecisos .box, #deputados-favor .box {
     padding: 1em;
     border: 0 !important;
 }
-.box h2 {
+#deputados-contra .box h2, #deputados-indecisos .box h2, #deputados-favor .box h2 {
     width: 100%;
     text-align: center;
     padding: 1em 1em 0 1em;
 }
-.box div {
+#deputados-contra .box div, #deputados-indecisos .box div, #deputados-favor .box div {
     width: 100%;
     text-align: center;
     font-size: 1.5em;
