@@ -27,9 +27,13 @@ $(document).ready(function() {
     $('#dias-faltando').attr('data-number-value', dias_faltam);
 
     var compare = function(a, b) {
-        if (a.title < b.title)
+        if (a.politico_comissao && !b.politico_comissao) {
             return -1;
-        return 1;        
+        }
+        if (!a.politico_comissao && b.politico_comissao) {
+            return 1;
+        }
+        return Math.random() - 0.5;
     }
 
     var listaDeputados = function(lista, table) {
