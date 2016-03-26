@@ -25,7 +25,7 @@ $(document).ready(function() {
             posicao_sufixo.text(' em relação ao Golpe');
         }
         if (deputado.politico_impeachment == 'FAVOR') {
-            posicao.text('À FAVOR');
+            posicao.text('A FAVOR');
             posicao_sufixo.text(' do Golpe');
         }
         if (deputado.politico_impeachment == 'CONTRA') {
