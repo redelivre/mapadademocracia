@@ -1,3 +1,14 @@
+
+#deputados-contra-container .box-lista-deputado {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+#deputados-contra-container .small-title {
+    font-size: 0.8em;
+}
+
 #deputados-contra .box, #deputados-indecisos .box, #deputados-favor .box {
     padding: 1em;
     border: 0 !important;
