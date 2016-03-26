@@ -15,24 +15,30 @@
     font-size: 0.8em;
 }
 
-#lista-comissao-contra .box, #lista-comissao-indecisos .box, #lista-comissao-favor .box {
+#lista-comissao-contra .box, #lista-comissao-indecisos .box, #lista-comissao-favor .box,
+#lista-plenaria-contra .box, #lista-plenaria-indecisos .box, #lista-plenaria-favor .box
+{
     padding: 1em;
     border: 0 !important;
 }
-#lista-comissao-contra .box h2, #lista-comissao-indecisos .box h2, #lista-comissao-favor .box h2 {
+#lista-comissao-contra .box h2, #lista-comissao-indecisos .box h2, #lista-comissao-favor .box h2,
+#lista-plenaria-contra .box h2, #lista-plenaria-indecisos .box h2, #lista-plenaria-favor .box h2
+{
     width: 100%;
     text-align: center;
     padding: 1em 1em 0 1em;
 }
-#lista-comissao-contra .box div, #lista-comissao-indecisos .box div, #lista-comissao-favor .box div {
+#lista-comissao-contra .box div, #lista-comissao-indecisos .box div, #lista-comissao-favor .box div,
+#lista-plenaria-contra .box div, #lista-plenaria-indecisos .box div, #lista-plenaria-favor .box div
+{
     width: 100%;
     text-align: center;
     font-size: 1em;
     margin: 0.5em 0;
 }
-#lista-comissao-contra tr.deputado { background-color: #4CAF50; }
-#lista-comissao-indecisos tr.deputado { background-color: #FFC107 }
-#lista-comissao-favor tr.deputado { background-color: #3F51B5 }
+#lista-comissao-contra tr.deputado, #lista-plenaria-contra tr.deputado { background-color: #4CAF50; }
+#lista-comissao-indecisos tr.deputado, #lista-plenaria-indecisos tr.deputado { background-color: #FFC107 }
+#lista-comissao-favor tr.deputado, #lista-plenaria-favor tr.deputado { background-color: #3F51B5 }
 
 tr.deputado {color: #FFF; font-weight: bold;}
 
