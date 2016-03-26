@@ -30,9 +30,15 @@
     font-size: 1em;
     margin: 0.5em 0;
 }
-#deputados-contra tr.deputado { background-color: #4CAF50 }
+#deputados-contra tr.deputado { background-color: #4CAF50; }
 #deputados-indecisos tr.deputado { background-color: #FFEB3B }
 #deputados-favor tr.deputado { background-color: #3F51B5 }
+
+tr.deputado {color: #FFF; font-weight: bold;}
+
+tr.deputado a { color: #000; }
+
+tr.deputado a:hover { text-decoration: underline; }
 
 
 #posicao-deputado-text{
