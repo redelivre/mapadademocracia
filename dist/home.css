@@ -33,3 +33,8 @@
 #deputados-contra tr.deputado { background-color: #FF9C9C }
 #deputados-indecisos tr.deputado { background-color: #FFF3B0 }
 #deputados-favor tr.deputado { background-color: #86A9C2 }
+
+
+#posicao-deputado-text{
+    line-height: 35px;
+}
