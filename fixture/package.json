@@ -1,0 +1,14 @@
+{
+  "name": "get-democracia-fixture",
+  "version": "0.0.1",
+  "description": "Get fixture json from spreadsheet",
+  "main": "get-fixture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niv sardi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "google-docs-cms": "0.0.5"
+  }
+}
