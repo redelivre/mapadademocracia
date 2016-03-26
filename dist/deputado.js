@@ -3,9 +3,18 @@ $(document).ready(function() {
     var getURLParameter = function(name) {
         return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
     }
-    var deputado = deputados[getURLParameter('id')]
+    window.deputadosPromise.done(function(deputados) {
+        var id = Number(getURLParameter('id'));
+        var deputado;
 
-    if (deputado !== undefined) {
+        deputados.forEach (function (dep) {
+            if (dep.politico_id_planilha === id)
+                deputado = dep
+        })
+
+        if (!deputado) {
+            return console.error ('couldnt find deputado', id);
+        }
 
         var pessoa = $('#nome-deputado').find('strong');
         pessoa.text(deputado.title);
@@ -76,5 +85,6 @@ $(document).ready(function() {
         } else {
             telefone.hide();
         }
-    }
+
+    })
 })
