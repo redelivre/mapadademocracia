@@ -15,24 +15,24 @@
     font-size: 0.8em;
 }
 
-#deputados-contra .box, #deputados-indecisos .box, #deputados-favor .box {
+#lista-comissao-contra .box, #lista-comissao-indecisos .box, #lista-comissao-favor .box {
     padding: 1em;
     border: 0 !important;
 }
-#deputados-contra .box h2, #deputados-indecisos .box h2, #deputados-favor .box h2 {
+#lista-comissao-contra .box h2, #lista-comissao-indecisos .box h2, #lista-comissao-favor .box h2 {
     width: 100%;
     text-align: center;
     padding: 1em 1em 0 1em;
 }
-#deputados-contra .box div, #deputados-indecisos .box div, #deputados-favor .box div {
+#lista-comissao-contra .box div, #lista-comissao-indecisos .box div, #lista-comissao-favor .box div {
     width: 100%;
     text-align: center;
     font-size: 1em;
     margin: 0.5em 0;
 }
-#deputados-contra tr.deputado { background-color: #4CAF50; }
-#deputados-indecisos tr.deputado { background-color: #FFC107 }
-#deputados-favor tr.deputado { background-color: #3F51B5 }
+#lista-comissao-contra tr.deputado { background-color: #4CAF50; }
+#lista-comissao-indecisos tr.deputado { background-color: #FFC107 }
+#lista-comissao-favor tr.deputado { background-color: #3F51B5 }
 
 tr.deputado {color: #FFF; font-weight: bold;}
 
