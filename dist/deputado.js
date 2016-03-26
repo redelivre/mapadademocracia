@@ -60,5 +60,6 @@ $(document).ready(function() {
         var telefone = $('#telefone-deputado');
         var fone_href = 'tel:+5561' + deputado.politico_phone;
         telefone.attr('href', fone_href);
+        $('#telefone-deputado-span').html('+5561' + deputado.politico_phone)
     }
 })
