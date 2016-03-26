@@ -34,9 +34,9 @@ $(document).ready(function() {
     $('#deputados-faltando').attr('data-number-value', deputados_faltam);
     $('#deputados-percentual').text(percentual + '%');
 
-    $('.num-deputados-contra').text(contra.length);
-    $('.num-deputados-indecisos').text(indeciso.length);
-    $('.num-deputados-favor').text(favor.length);
+    $('.num-deputados-contra').text(contra_comissao.length);
+    $('.num-deputados-indecisos').text(indeciso_comissao.length);
+    $('.num-deputados-favor').text(favor_comissao.length);
 
     var dias_faltam = parseInt((new Date(2016, 3, 11).getTime() - new Date().getTime()) / (3600000*24));
     $('#dias-faltando').attr('data-number-value', dias_faltam);
