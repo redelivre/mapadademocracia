@@ -1,0 +1,11 @@
+Os identificadores dos elementos seguem os seguinte padrão:
+
+(num|lista|percentual)-(comissao|plenaria)-(contra|indecisos|favor)
+
+Os seguintes elementos são automaticamente preenchidos:
+
+#num-dias-faltando: dias que faltam pra 11/04/2016
+#num-plenaria-faltando: número de votos que faltam pra barrar o impeachment
+#percentual-plenaria-faltando: percentual de votos dos indecisos que faltam pra barrar o impeachment
+#num-(comissao|plenaria)-(contra|indecisos|favor) - número de deputados da comissão ou plenária com determinada posição
+#lista-(comissao|plenaria)-(contra|indecisos|favor) - tem que ser uma <table>, vai enfiar linhas com links pros nomes dos deputados
