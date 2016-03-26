@@ -1,15 +1,30 @@
 $ = jQuery;
 $(document).ready(function() {
     var favor = [];
+    var favor_comissao = [];
     var contra = [];
+    var contra_comissao = [];
     var indeciso = [];
+    var indeciso_comissao = [];
     for (var i in deputados) {
-        if (deputados[i].politico_impeachment == 'INDECISO')
+        if (deputados[i].politico_impeachment == 'INDECISO') {
             indeciso.push(deputados[i]);
-        if (deputados[i].politico_impeachment == 'FAVOR')
+            if (deputados[i].politico_comissao) {
+                indeciso_comissao.push(deputados[i]);
+            }
+        }
+        if (deputados[i].politico_impeachment == 'FAVOR') {
             favor.push(deputados[i]);
-        if (deputados[i].politico_impeachment == 'CONTRA')
+            if (deputados[i].politico_comissao) {
+                favor_comissao.push(deputados[i]);
+            }
+        }
+        if (deputados[i].politico_impeachment == 'CONTRA') {
             contra.push(deputados[i]);
+            if (deputados[i].politico_comissao) {
+                contra_comissao.push(deputados[i]);
+            }
+        }
     }
 
     var deputados_faltam = 171 - contra.length;
@@ -37,7 +52,7 @@ $(document).ready(function() {
     }
 
     var listaDeputados = function(lista, table) {
-        lista.sort(compare)
+        // lista.sort(compare)
         for (var i=0; i<lista.length; i++) {
             var tr = $('<tr>').addClass('deputado').appendTo(table);
             var a = $('<a>').attr('href', 'deputado?id='+lista[i].politico_id_planilha).text(lista[i].title)
@@ -47,14 +62,17 @@ $(document).ready(function() {
         }
     };
 
-    
+
     //$('#deputados-contra').append($('<tr class="box"><td colspan="2"><h2>'+contra.length+' Deputados</h2><div>apoiam a democracia</div></td></tr>'))
-    listaDeputados(contra, $('#deputados-contra'));
+    // listaDeputados(contra, $('#deputados-contra'));
+    listaDeputados(contra_comissao, $('#deputados-contra'));
 
     //$('#deputados-indecisos').append($('<tr class="box"><td colspan="2"><h2>'+indeciso.length+' Indecisos</h2><div>Pressione!</div></td></tr>'))
-    listaDeputados(indeciso, $('#deputados-indecisos'));
+    // listaDeputados(indeciso, $('#deputados-indecisos'));
+    listaDeputados(indeciso_comissao, $('#deputados-indecisos'));
 
     //$('#deputados-favor').append($('<tr class="box"><td colspan="2"><h2>'+favor.length+' Golpistas!</h2><div>A história não os perdoará</div></td></tr>'))
-    listaDeputados(favor, $('#deputados-favor'));
+    // listaDeputados(favor, $('#deputados-favor'));
+    listaDeputados(favor_comissao, $('#deputados-favor'));
 
 })
