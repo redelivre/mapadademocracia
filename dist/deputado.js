@@ -13,7 +13,7 @@ $(document).ready(function() {
         pessoa.text(deputado.title);
 
         var foto = $('#imagem-deputado').find('img');
-        foto.attr('src', 'http://mapadademocracia.org.br/files/fotos/' + deputado.politico_picture)
+        foto.attr('src', 'http://mapadademocracia.org.br/files/fotos/' + deputado.politico_id_planilha + '.jpg')
         foto.attr('alt', deputado.title)
 
         var partido = $('#partido-deputado').find('strong');
