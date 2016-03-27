@@ -167,8 +167,11 @@ $(document).ready(function() {
     if (uf) {
         $('#nome-estado').text(estados[uf][0]);
         $('#prefixo-estado').text(estados[uf][1]);
+        $('.nome-estado').text(estados[uf][0]);
+        $('.prefixo-estado').text(estados[uf][1]);
     } else {
         $('#bloco-estado').hide();
+        $('.bloco-estado').hide();
     }
 
 
