@@ -1,12 +1,24 @@
 $ = jQuery;
 $(document).ready(function() {
+    var getURLParameter = function(name) {
+        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+    }
+    var uf = getURLParameter('uf')
+    if (uf) {
+        uf = uf.substring(0, 2)
+    }
     var favor = [];
     var favor_comissao = [];
     var contra = [];
     var contra_comissao = [];
     var indeciso = [];
     var indeciso_comissao = [];
+    var precisa = 0;
     for (var i in deputados) {
+        if (uf && deputados[i].politico_estado != uf) {
+            continue;
+        }
+        precisa += 1;
         if (deputados[i].politico_impeachment == 'INDECISO') {
             indeciso.push(deputados[i]);
             if (deputados[i].politico_comissao) {
@@ -26,8 +38,8 @@ $(document).ready(function() {
             }
         }
     }
-
-    var deputados_faltam = 171 - contra.length;
+    precisa = parseInt(precisa / 3 + 1);
+    var deputados_faltam = precisa - contra.length;
     if (deputados_faltam < 0)
         deputados_faltam = 0;
     var percentual = parseInt(100 * deputados_faltam / indeciso.length);
