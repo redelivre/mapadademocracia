@@ -76,5 +76,15 @@ $(document).ready(function() {
         } else {
             telefone.hide();
         }
+
+        var erro_deputado = $('.et_pb_promo_button');
+        var erro_deputado_email_body = 'Link da página: '+ window.location.href + '%0D%0A%0D%0ADescreva aqui o erro que encontrou:';
+        var erro_deputado_url_email = 'mailto:mapadademocracia@culturalivre.org' +
+            '?subject=Erro na página do Deputado ' +
+            'deputado.title' +
+            '&body=' +
+            erro_deputado_email_body;
+
+        erro_deputado.attr('href', erro_deputado_url_email);
     }
 })
