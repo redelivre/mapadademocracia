@@ -7,14 +7,14 @@ $(document).ready(function() {
 
     if (deputado !== undefined) {
 
-        var pessoa = $('#nome-deputado').find('strong');
+        var pessoa = $('#nome-deputado').find('h1');
         pessoa.text(deputado.title);
 
         var foto = $('#imagem-deputado').find('img');
         foto.attr('src', 'http://mapadademocracia.org.br/files/fotos/' + deputado.politico_id_planilha + '.jpg')
         foto.attr('alt', deputado.title)
 
-        var partido = $('#partido-deputado').find('strong');
+        var partido = $('#partido-deputado').find('h1');
         partido.text(deputado.politico_partido + ' / ' + deputado.politico_estado);
 
         var posicao = $('#posicao-deputado');
