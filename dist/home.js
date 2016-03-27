@@ -103,7 +103,7 @@ $(document).ready(function() {
                     'Aprovar o impeachment da presidenta significa escrever na história um episódio de golpe, protagonizado pelo judiciário, validado pelo congresso e inflamado pela mídia. Promover o impeachment da presidente é abrir um precedente para que o direito de presunção de inocência seja determinado pela opinião pública e não pela lei.%0D%0A%0D%0A%0D%0A\n\n' +
                     '#ContraOImpeachment #GolpeNuncaMais%0D%0A%0D%0A\n';
 
-        var href_mailto="mailto:?to=" + addresses + "?bcc=" + bcc + '&subject=' + subject + '&body=' + body;
+        var href_mailto="mailto:" + addresses + "?bcc=" + bcc + '&subject=' + subject + '&body=' + body;
         
         $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button').attr('href', href_mailto);
     };
