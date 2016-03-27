@@ -219,7 +219,7 @@ $(function(){
 			// .css('cursor','pointer')
 			.click(function(){
 				// $modal.show();
-				document.location = "/plenaria/?uf=" + UF;
+				document.location = "/estado/?uf=" + UF;
 				//document.location = "/estado.php?uf=" + UF;
 			})
 			.mouseenter(function(){
