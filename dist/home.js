@@ -1,12 +1,24 @@
 $ = jQuery;
 $(document).ready(function() {
+    var getURLParameter = function(name) {
+        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
+    }
+    var uf = getURLParameter('uf')
+    if (uf) {
+        uf = uf.substring(0, 2)
+    }
     var favor = [];
     var favor_comissao = [];
     var contra = [];
     var contra_comissao = [];
     var indeciso = [];
     var indeciso_comissao = [];
+    var precisa = 0;
     for (var i in deputados) {
+        if (uf && deputados[i].politico_estado != uf) {
+            continue;
+        }
+        precisa += 1;
         if (deputados[i].politico_impeachment == 'INDECISO') {
             indeciso.push(deputados[i]);
             if (deputados[i].politico_comissao) {
@@ -27,7 +39,8 @@ $(document).ready(function() {
         }
     }
 
-    var deputados_faltam = 171 - contra.length;
+    precisa = parseInt(precisa / 3 + 1);
+    var deputados_faltam = precisa - contra.length;
     if (deputados_faltam < 0)
         deputados_faltam = 0;
     var percentual = parseInt(100 * deputados_faltam / indeciso.length);
@@ -120,5 +133,43 @@ $(document).ready(function() {
     listaDeputados(contra, $('#lista-plenaria-contra'));
     listaDeputados(indeciso, $('#lista-plenaria-indecisos'));
     listaDeputados(favor, $('#lista-plenaria-favor'));
+
+    var estados = {
+        AC: ['Acre', 'do'],
+        AL: ['Alagoas', 'de'],
+        AP: ['Amapá', 'do'],
+        AM: ['Amazonas', 'do'],
+        BA: ['Bahia', 'da'],
+        CE: ['Ceará', 'do'],
+        DF: ['Distrito Federal', 'do'],
+        ES: ['Espírito Santo', 'do'],
+        GO: ['Goiás', 'de'],
+        MA: ['Maranhão', 'do'],
+        MT: ['Mato Grosso', 'do'],
+        MS: ['Mato Grosso do Sul', 'do'],
+        MG: ['Minas Gerais', 'de'],
+        PA: ['Pará', 'do'],
+        PB: ['Paraíba', 'da'],
+        PR: ['Paraná', 	'do'],
+        PE: ['Pernambuco', 'de'],
+        PI: ['Piauí', 'do'],
+        RJ: ['Rio de Janeiro', 'do'],
+	RN: ['Rio Grande do Norte', 'do'],
+        RS: ['Rio Grande do Sul', 'do'],
+        RO: ['Rondônia', 'de'],
+        RR: ['Roraima', 'de'],
+        SC: ['Santa Catarina', 'de'],
+        SP: ['São Paulo', 'de'],
+        SE: ['Sergipe', 'de'],
+        TO: ['Tocantins', 'do']
+    }
+
+    if (uf) {
+        $('#nome-estado').text(estados[uf][0]);
+        $('#prefixo-estado').text(estados[uf][1]);
+    } else {
+        $('#bloco-estado').hide();
+    }
+
 
 })
