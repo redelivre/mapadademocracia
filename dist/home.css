@@ -42,6 +42,8 @@
 
 tr.deputado {color: #FFF; font-weight: bold;}
 
+tr.deputado:hover { opacity: 0.8; }
+
 tr.deputado a { color: #FFF; text-shadow:1px 1px #424242;}
 
 tr.deputado a:hover { text-decoration: underline; }
