@@ -86,8 +86,6 @@ $(document).ready(function() {
         });
         
 
-        console.log(grupo, addresses.length);
-
         var bcc = "mapadademocracia@culturalivre.org";
 
         addresses = addresses.join(',');
