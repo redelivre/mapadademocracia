@@ -64,12 +64,12 @@ var deputados = {
         "politico_picture": "6.jpg", 
         "politico_profissao": "Jornalista,radialista", 
         "politico_anexo": "4", 
-        "politico_facebook": "https://twitter.com/adelson_barreto", 
+        "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "ADELSON BARRETO", 
         "politico_cargo": "DF", 
         "politico_email": "dep.adelsonbarreto@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_twitter": "https://twitter.com/adelson_barreto"
     }, 
     "5": {
         "politico_phone": "3215-5804", 
@@ -1066,7 +1066,7 @@ var deputados = {
         "politico_whatsapp": "", 
         "politico_id_planilha": "60", 
         "politico_partido": "PSB", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "INDECISO", 
         "politico_comissao": true, 
         "politico_estado": "BA", 
         "politico_picture": "62.jpg", 
@@ -6214,7 +6214,7 @@ var deputados = {
         "politico_whatsapp": "", 
         "politico_id_planilha": "346", 
         "politico_partido": "PMDB", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": true, 
         "politico_estado": "SC", 
         "politico_picture": "348.jpg", 
