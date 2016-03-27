@@ -45,6 +45,7 @@ $(document).ready(function() {
         deputados_faltam = 0;
     var percentual = parseInt(100 * deputados_faltam / indeciso.length);
     $('#num-plenaria-faltando').attr('data-number-value', deputados_faltam);
+    $('#num-plenaria-faltando-text').text(deputados_faltam);
     $('#percentual-plenaria-faltando').text(percentual + '%');
 
     $('.num-comissao-contra').text(contra_comissao.length);
@@ -97,12 +98,12 @@ $(document).ready(function() {
                 addresses.push(e);
             }
         });
-        
+
 
         var bcc = "mapadademocracia@culturalivre.org";
 
         addresses = addresses.join(',');
-        
+
         var subject = "Excelentissimo Deputado Federal";
 
         var body = 'Exmo. Deputado,%0D%0A%0D%0A\n'+
@@ -115,17 +116,17 @@ $(document).ready(function() {
                     '#ContraOImpeachment #GolpeNuncaMais%0D%0A%0D%0A\n';
 
         var href_mailto="mailto:" + addresses + "?bcc=" + bcc + '&subject=' + subject + '&body=' + body;
-        
+
         $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button').attr('href', href_mailto);
     };
 
-    
+
 
     adicionaBotaoCompartilhaco(contra_comissao, contra, 'contra');
     adicionaBotaoCompartilhaco(indeciso_comissao, indeciso, 'indecisos');
     adicionaBotaoCompartilhaco(favor_comissao, favor, 'favor');
-    
-    
+
+
     listaDeputados(contra_comissao, $('#lista-comissao-contra'));
     listaDeputados(indeciso_comissao, $('#lista-comissao-indecisos'));
     listaDeputados(favor_comissao, $('#lista-comissao-favor'));
