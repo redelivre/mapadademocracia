@@ -18,10 +18,8 @@ for line in fh:
 
     if line_data['politico_comissao'] == 'sim':
         line_data['politico_comissao'] = True
-    elif line_data['politico_comissao'].startswith('n'):
-        line_data['politico_comissao'] = False
     else:
-        raise Exception()
+        line_data['politico_comissao'] = False
            
 
     data[int(line_data['politico_id_planilha'])] = line_data
