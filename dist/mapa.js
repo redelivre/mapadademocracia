@@ -79,8 +79,8 @@ $(function(){
 
 	};
 
-	console.log('estado:', deputadosPorEstado);
-	console.log('partido:', deputadosPorPartido)
+	// console.log('estado:', deputadosPorEstado);
+	// console.log('partido:', deputadosPorPartido);
 
 
 
@@ -219,7 +219,7 @@ $(function(){
 			// .css('cursor','pointer')
 			.click(function(){
 				// $modal.show();
-				document.location = "/estado/?uf=" + UF;
+				document.location = "/plenaria/?uf=" + UF;
 				//document.location = "/estado.php?uf=" + UF;
 			})
 			.mouseenter(function(){
