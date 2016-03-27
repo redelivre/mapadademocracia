@@ -223,6 +223,7 @@ $(function(){
 				//document.location = "/estado.php?uf=" + UF;
 			})
 			.mouseenter(function(){
+				$(this).css('opacity',0.8);
 				$modal.show();
 				$modal.find('.js-estado').text(estados[UF]);
 				$modal.find('.js-indeciso span').text(deputadosPorEstado[UF].INDECISO);
@@ -237,6 +238,7 @@ $(function(){
 
 			})
 			.mouseleave(function(){
+				$(this).css('opacity',1);
 				$modal.hide();
 			});
 
