@@ -95,12 +95,12 @@ $(function(){
 			return "#ffc107";
 
 		} else if( diff > 0 ){
-			// golpista
-			return "#4caf50";
-
-		} else if ( diff < 0 ){
 			// democrático
 			return "#3f51b5";
+
+		} else if ( diff < 0 ){
+			// golpista
+			return "#4caf50";
 		}
 
 
