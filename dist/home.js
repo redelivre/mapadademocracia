@@ -45,7 +45,7 @@ $(document).ready(function() {
         deputados_faltam = 0;
     var percentual = parseInt(100 * deputados_faltam / indeciso.length);
     $('#num-plenaria-faltando').attr('data-number-value', deputados_faltam);
-    $('#num-plenaria-faltando-text').text(deputados_faltam);
+    $('.num-plenaria-faltando-text').text(deputados_faltam);
     $('#percentual-plenaria-faltando').text(percentual + '%');
 
     $('.num-comissao-contra').text(contra_comissao.length);
