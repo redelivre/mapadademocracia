@@ -105,9 +105,7 @@ $(document).ready(function() {
 
         var href_mailto="mailto:?to=" + addresses + "?bcc=" + bcc + '&subject=' + subject + '&body=' + body;
         
-        var button_mailto = $('a.js-mailto-' + grupo).attr('target','_blank').attr('href', href_mailto);
-
-        $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button').attr('href', button_mailto);
+        $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button').attr('href', href_mailto);
     };
 
     
