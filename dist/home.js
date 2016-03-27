@@ -80,7 +80,7 @@ $(document).ready(function() {
         var _addresses = shuffleArray(deputados.map(function(e){ return e.politico_email; }));
 
         _addresses.forEach(function(e){
-            if(addresses.indexOf(e) < 0 && addresses.length < 130){
+            if(addresses.indexOf(e) < 0 && addresses.length < 115){
                 addresses.push(e);
             }
         });
