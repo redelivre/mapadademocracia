@@ -39,7 +39,7 @@ $(document).ready(function() {
         }
     }
 
-    precisa = parseInt(precisa / 3 + 1);
+    precisa = parseInt(precisa / 3);
     var deputados_faltam = precisa - contra.length;
     if (deputados_faltam < 0)
         deputados_faltam = 0;
