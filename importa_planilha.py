@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-import json
+import json, urllib
 
-fh = open('dados.csv')
+fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1H_cnrYN6GjkTNynyL4PpJLMdIP-kaLrrOdtyukrwcAs/export?format=tsv&id=1H_cnrYN6GjkTNynyL4PpJLMdIP-kaLrrOdtyukrwcAs&gid=198072564')
 
 labels = fh.readline().strip().split('\t')
 
@@ -24,4 +24,6 @@ for line in fh:
 
     data[int(line_data['politico_id_planilha'])] = line_data
 
-open('fixture.json', 'w').write(json.dumps(data, indent=4))
+json_data = json.dumps(data, indent=4)
+
+open('dist/deputados.js', 'w').write('var deputados = %s' % json_data)
