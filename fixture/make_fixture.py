@@ -4,7 +4,6 @@ import json
 
 fh = open('dados.csv')
 
-fh.readline()
 labels = fh.readline().strip().split('\t')
 
 data = {}
