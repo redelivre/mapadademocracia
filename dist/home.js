@@ -38,6 +38,7 @@ $(document).ready(function() {
             }
         }
     }
+
     precisa = parseInt(precisa / 3 + 1);
     var deputados_faltam = precisa - contra.length;
     if (deputados_faltam < 0)
@@ -132,5 +133,43 @@ $(document).ready(function() {
     listaDeputados(contra, $('#lista-plenaria-contra'));
     listaDeputados(indeciso, $('#lista-plenaria-indecisos'));
     listaDeputados(favor, $('#lista-plenaria-favor'));
+
+    var estados = {
+        AC: ['Acre', 'do'],
+        AL: ['Alagoas', 'de'],
+        AP: ['Amapá', 'do'],
+        AM: ['Amazonas', 'do'],
+        BA: ['Bahia', 'da'],
+        CE: ['Ceará', 'do'],
+        DF: ['Distrito Federal', 'do'],
+        ES: ['Espírito Santo', 'do'],
+        GO: ['Goiás', 'de'],
+        MA: ['Maranhão', 'do'],
+        MT: ['Mato Grosso', 'do'],
+        MS: ['Mato Grosso do Sul', 'do'],
+        MG: ['Minas Gerais', 'de'],
+        PA: ['Pará', 'do'],
+        PB: ['Paraíba', 'da'],
+        PR: ['Paraná', 	'do'],
+        PE: ['Pernambuco', 'de'],
+        PI: ['Piauí', 'do'],
+        RJ: ['Rio de Janeiro', 'do'],
+	RN: ['Rio Grande do Norte', 'do'],
+        RS: ['Rio Grande do Sul', 'do'],
+        RO: ['Rondônia', 'de'],
+        RR: ['Roraima', 'de'],
+        SC: ['Santa Catarina', 'de'],
+        SP: ['São Paulo', 'de'],
+        SE: ['Sergipe', 'de'],
+        TO: ['Tocantins', 'do']
+    }
+
+    if (uf) {
+        $('#nome-estado').text(estados[uf][0]);
+        $('#prefixo-estado').text(estados[uf][1]);
+    } else {
+        $('#bloco-estado').hide();
+    }
+
 
 })
