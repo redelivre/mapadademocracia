@@ -9,3 +9,9 @@ Os seguintes elementos são automaticamente preenchidos:
 #percentual-plenaria-faltando: percentual de votos dos indecisos que faltam pra barrar o impeachment
 #num-(comissao|plenaria)-(contra|indecisos|favor) - número de deputados da comissão ou plenária com determinada posição
 #lista-(comissao|plenaria)-(contra|indecisos|favor) - tem que ser uma <table>, vai enfiar linhas com links pros nomes dos deputados
+
+Para filtrar por estado, basta passar o parâmetro ?uf=XX na URL que todos os deputados serão filtrados por estado. São três os seletores relevantes:
+
+#bloco-estado: esse elemento só será exibido se tiver um parâmetro de UF
+#prefixo-estado: "do", "de", "da", de acordo com o estado
+#nome-estado: o nome por extenso do estado
