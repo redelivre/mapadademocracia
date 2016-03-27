@@ -4,6 +4,7 @@ $(document).ready(function() {
         return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
     }
     var uf = getURLParameter('uf')
+    var partido = getURLParameter('partido')
     if (uf) {
         uf = uf.substring(0, 2)
     }
@@ -16,6 +17,9 @@ $(document).ready(function() {
     var precisa = 0;
     for (var i in deputados) {
         if (uf && deputados[i].politico_estado != uf) {
+            continue;
+        }
+        if (partido && deputados[i].politico_partido != partido) {
             continue;
         }
         precisa += 1;
