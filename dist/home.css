@@ -42,7 +42,7 @@
 
 tr.deputado {color: #FFF; font-weight: bold;}
 
-tr.deputado a { color: #000; }
+tr.deputado a { color: #FFF; text-shadow:1px 1px #424242;}
 
 tr.deputado a:hover { text-decoration: underline; }
 
