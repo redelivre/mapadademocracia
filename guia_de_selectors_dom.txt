@@ -15,3 +15,8 @@ Para filtrar por estado, basta passar o parâmetro ?uf=XX na URL que todos os de
 #bloco-estado: esse elemento só será exibido se tiver um parâmetro de UF
 #prefixo-estado: "do", "de", "da", de acordo com o estado
 #nome-estado: o nome por extenso do estado
+
+Para filtrar por partido, basta passar o parâmetro ?partido=XXX na URL. Seletor relevante:
+
+.bloco-partido: esse elemento só será exibido se tiver um parâmetro de partido
+.nome-partido: Nome por extenso do partido

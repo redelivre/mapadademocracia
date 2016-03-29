@@ -4,9 +4,12 @@ $(document).ready(function() {
         return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null;
     }
     var uf = getURLParameter('uf')
-    var partido = getURLParameter('partido')
     if (uf) {
         uf = uf.substring(0, 2)
+    }
+    var partido = getURLParameter('partido')
+    if (partido && partido[partido.length-1] == '/') {
+        partido = partido.substring(0, partido.length-1)
     }
     var favor = [];
     var favor_comissao = [];
@@ -180,5 +183,10 @@ $(document).ready(function() {
         $('.bloco-estado').hide();
     }
 
+    if (partido) {
+        $('.nome-partido').text(partido);
+    } else {
+        $('.bloco-partido').hide();
+    }
 
 })
