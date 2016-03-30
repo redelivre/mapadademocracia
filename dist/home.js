@@ -17,6 +17,8 @@ $(document).ready(function() {
     var contra_comissao = [];
     var indeciso = [];
     var indeciso_comissao = [];
+    var todos_comissao = [];
+    var todos = [];
     var precisa = 0;
     for (var i in deputados) {
         if (uf && deputados[i].politico_estado != uf) {
@@ -43,6 +45,10 @@ $(document).ready(function() {
             if (deputados[i].politico_comissao) {
                 contra_comissao.push(deputados[i]);
             }
+        }
+        todos.push(deputados[i])
+        if (deputados[i].politico_comissao) {
+            todos_comissao.push(deputados[i]);
         }
     }
 
@@ -133,6 +139,7 @@ $(document).ready(function() {
     adicionaBotaoCompartilhaco(contra_comissao, contra, 'contra');
     adicionaBotaoCompartilhaco(indeciso_comissao, indeciso, 'indecisos');
     adicionaBotaoCompartilhaco(favor_comissao, favor, 'favor');
+    adicionaBotaoCompartilhaco(todos_comissao, todos, 'todos');
 
 
     listaDeputados(contra_comissao, $('#lista-comissao-contra'));
