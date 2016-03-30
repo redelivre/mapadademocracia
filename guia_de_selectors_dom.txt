@@ -20,3 +20,15 @@ Para filtrar por partido, basta passar o parâmetro ?partido=XXX na URL. Seletor
 
 .bloco-partido: esse elemento só será exibido se tiver um parâmetro de partido
 .nome-partido: Nome por extenso do partido
+
+PARA ENVIAR E-MAIL
+
+Um elemento com id "home-acao(contra|indecisos|favor|todos)" é uma caixa de enviar e-mails. Dentro deve haver um botão com as classes "et_pb_promo_button" e "et_pb_button".
+
+Além disso, pode haver um <span class="message-data"> para configurar a mensagem:
+
+<span class="message-data">
+      <subject>assunto do e-mail</subject>
+      <msg-body>Corpo do e-mail</msg-body>
+</span>
+

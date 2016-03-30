@@ -52,3 +52,5 @@ tr.deputado a:hover { text-decoration: underline; }
 #posicao-deputado-text{
     line-height: 35px;
 }
+
+.message-data { display: none; }

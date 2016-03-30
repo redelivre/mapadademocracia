@@ -118,20 +118,19 @@ $(document).ready(function() {
 
         addresses = addresses.join(',');
 
-        var element = $('#home-acao-' + grupo)
+        var element = $('#home-acao-' + grupo + ' span.message-data')
         var subject;
         var body;
 
-        if (element.attr('msg-subject')) {
-            subject = element.attr('msg-subject')
+        if (element.length > 0) {
+            var subjects = element.find('subject');
+            var index = Math.floor(Math.random() * (subjects.length));
+            subject = $(subjects[index]).text();
+            console.log(index)
+            body = element.find('msg-body').text().replace(/\n/g, '%0D%0A%0D%0A\n');
+            element.hide();
         } else {
             subject = "Excelentissimo Deputado Federal";
-        }
-
-        if (element.attr('msg-body')) {
-            body = element.attr('msg-body').replace(/\n/g, '%0D%0A%0D%0A\n');
-            console.log(element.attr('msg-body'))
-        } else {
             body = 'Exmo. Deputado,%0D%0A%0D%0A\n'+
                     'Nossa democracia está em risco! A conduta política no judiciário brasileiro e as arbitrariedades na condução da Lava Jato estão colocando sob ameaça nosso estado democrático de direito. A investigação que deveria ser um processo formalmente jurídico, a cada dia, deixa mais evidente sua natureza política e o objetivo de abrir caminhos para o golpe.%0D%0A%0D%0A\n' +
                     'O processo de impeachment tem de ser denunciado e enfrentado, tendo em vista que extrapola os termos da legalidade. O impeachment é um processo de punição por crime de responsabilidade, no entanto não há provas de que tais crimes tenham sido cometidos no governo Dilma Rousseff.%0D%0A%0D%0A\n' +
