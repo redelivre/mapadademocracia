@@ -178,11 +178,14 @@ $(document).ready(function() {
 
         $addresses = $('<div id="emails-' + grupo + '">')
             .css({position:'absolute', display:'none', width:'1px', height:'1px', overflow:'hidden'})
-            .text(deputados.map(mapEmail).join(','))
+            .text(deputados.map(mapEmail).join(','));
+
+        $body = $('<div id="corpo-' + grupo + '">')
+            .css({position:'absolute', display:'none', width:'1px', height:'1px', overflow:'hidden'})
+            .text(decodeURIComponent(body));
 
         $(document.body).append($addresses);
-
-        console.log($addresses);
+        $(document.body).append($body);
 
         var $button = $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button')
             .attr('href', href_mailto);
@@ -250,7 +253,7 @@ $(document).ready(function() {
             .text('Copiar texto do email')
             .appendTo($box)
             .click(function(){
-                copyToClipboard(document.getElementById('emails-' + grupo));
+                copyToClipboard(document.getElementById('corpo-' + grupo));
                 $(this).focus();
                 return false;
             });
