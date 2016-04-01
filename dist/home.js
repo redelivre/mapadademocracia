@@ -150,6 +150,10 @@ $(document).ready(function() {
         }
 
         var href_mailto="mailto:" + addresses + "?bcc=" + bcc + '&subject=' + subject + '&body=' + body;
+        
+
+        var $button = $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button')
+            .attr('href', href_mailto);
 
         
         if(isMobile.any){
@@ -187,9 +191,6 @@ $(document).ready(function() {
 
         $(document.body).append($addresses);
         $(document.body).append($body);
-
-        var $button = $('#home-acao-' + grupo + ' a.et_pb_promo_button.et_pb_button')
-            .attr('href', href_mailto);
 
 
 
