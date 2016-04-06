@@ -7438,7 +7438,7 @@ var deputados = {
         "politico_whatsapp": "", 
         "politico_id_planilha": "414", 
         "politico_partido": "PTN", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "INDECISO", 
         "politico_comissao": false, 
         "politico_estado": "PE", 
         "politico_picture": "415.jpg", 
