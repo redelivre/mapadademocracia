@@ -7,8 +7,10 @@ fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1H_cnrYN6GjkTNynyL4P
 labels = fh.readline().strip().split('\t')
 
 data = {}
-
+already = {}
+n = 0
 for line in fh:
+    n += 1
     line_data = {}
     pieces = line.split('\t')
     for i, label in enumerate(labels):
@@ -22,7 +24,15 @@ for line in fh:
         line_data['politico_comissao'] = False
            
 
-    data[int(line_data['politico_id_planilha'])] = line_data
+    try:
+        ide = int(line_data['politico_id_planilha'])
+    except ValueError:
+        raise Exception("Erro de ID na linha %d" % n)
+        
+    if already.get(ide, None) is not None:
+        raise Exception("ID %d repetido na linha %d" % (ide, n))
+    already[ide] = True
+    data[ide] = line_data
 
 json_data = json.dumps(data, indent=4)
 
