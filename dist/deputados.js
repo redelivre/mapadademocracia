@@ -15,8 +15,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "ABEL MESQUITA JR.", 
-        "politico_email": "dep.abelmesquitajr@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.abelmesquitajr@camara.leg.br"
     }, 
     "2": {
         "politico_profissao": "Administrador de Empresas", 
@@ -34,8 +33,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.adalberto.cavalcanti", 
         "politico_instagram": "", 
         "title": "ADALBERTO CAVALCANTI", 
-        "politico_email": "dep.adalbertocavalcanti@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_adalbertoc"
+        "politico_email": "dep.adalbertocavalcanti@camara.leg.br"
     }, 
     "3": {
         "politico_profissao": "Professor(a)", 
@@ -53,8 +51,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoadelmo", 
         "politico_instagram": "", 
         "title": "ADELMO CARNEIRO LE\u00c3O", 
-        "politico_email": "dep.adelmocarneiroleao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoadelmo"
+        "politico_email": "dep.adelmocarneiroleao@camara.leg.br"
     }, 
     "4": {
         "politico_profissao": "Jornalista,radialista", 
@@ -72,8 +69,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/adelsonbarretofilho/?fref=ts", 
         "politico_instagram": "", 
         "title": "ADELSON BARRETO", 
-        "politico_email": "dep.adelsonbarreto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/adelson_barreto"
+        "politico_email": "dep.adelsonbarreto@camara.leg.br"
     }, 
     "5": {
         "politico_profissao": "M\u00e9dico, Advogado", 
@@ -91,8 +87,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoAdemirCamilo/", 
         "politico_instagram": "", 
         "title": "ADEMIR CAMILO", 
-        "politico_email": "dep.ademircamilo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depademircamilo"
+        "politico_email": "dep.ademircamilo@camara.leg.br"
     }, 
     "6": {
         "politico_profissao": "Arquiteto", 
@@ -110,8 +105,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AdiltonSachetti", 
         "politico_instagram": "https://instagram.com/adiltonsachetti", 
         "title": "ADILTON SACHETTI", 
-        "politico_email": "dep.adiltonsachetti@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/adiltonsachetti"
+        "politico_email": "dep.adiltonsachetti@camara.leg.br"
     }, 
     "7": {
         "politico_profissao": "Produtor Rural, Empres\u00e1rio, Engenheiro Agr\u00f4nomo", 
@@ -129,8 +123,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AeltonFreitasMG/", 
         "politico_instagram": "", 
         "title": "AELTON FREITAS", 
-        "politico_email": "dep.aeltonfreitas@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/aeltonfreitasmg"
+        "politico_email": "dep.aeltonfreitas@camara.leg.br"
     }, 
     "8": {
         "politico_profissao": "Professor de Hist\u00f3ria, Servidor P\u00fablico", 
@@ -148,8 +141,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/afonsoflorence13", 
         "politico_instagram": "https://www.instagram.com/afonsoflorence/", 
         "title": "AFONSO FLORENCE", 
-        "politico_email": "dep.afonsoflorence@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/afonso_florence"
+        "politico_email": "dep.afonsoflorence@camara.leg.br"
     }, 
     "9": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo", 
@@ -167,8 +159,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Afonso-Hamm-Jaguar%25C3%25A3o-RS-1537371759814828", 
         "politico_instagram": "", 
         "title": "AFONSO HAMM", 
-        "politico_email": "dep.afonsohamm@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depafonsohamm"
+        "politico_email": "dep.afonsohamm@camara.leg.br"
     }, 
     "10": {
         "politico_profissao": "", 
@@ -186,8 +177,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AfonsoMottaOpina/", 
         "politico_instagram": "https://instagram.com/afonso_motta/", 
         "title": "AFONSO MOTTA", 
-        "politico_email": "dep.afonsomotta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/afonso_motta"
+        "politico_email": "dep.afonsomotta@camara.leg.br"
     }, 
     "11": {
         "politico_profissao": "Administrador", 
@@ -205,8 +195,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Aguinaldo-Ribeiro-139579162731192/", 
         "politico_instagram": "", 
         "title": "AGUINALDO RIBEIRO", 
-        "politico_email": "dep.aguinaldoribeiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/aguinaldo1111"
+        "politico_email": "dep.aguinaldoribeiro@camara.leg.br"
     }, 
     "12": {
         "politico_profissao": "Administrador de Empresas,jornalista", 
@@ -224,8 +213,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/alanrickm?fref=ts", 
         "politico_instagram": "", 
         "title": "ALAN RICK", 
-        "politico_email": "dep.alanrick@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.alanrick@camara.leg.br"
     }, 
     "13": {
         "politico_profissao": "Bacharel Em Direito", 
@@ -243,8 +231,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Alberto-Filho-1522-1514803892083442/", 
         "politico_instagram": "", 
         "title": "ALBERTO FILHO", 
-        "politico_email": "dep.albertofilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depalbertofilho"
+        "politico_email": "dep.albertofilho@camara.leg.br"
     }, 
     "14": {
         "politico_profissao": "Coronel da Pol\u00edcia Militar do DF", 
@@ -262,8 +249,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/albertofraga.oficial/", 
         "politico_instagram": "https://instagram.com/joaoalbertofraga", 
         "title": "ALBERTO FRAGA", 
-        "politico_email": "dep.albertofraga@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alberto_fraga"
+        "politico_email": "dep.albertofraga@camara.leg.br"
     }, 
     "15": {
         "politico_profissao": "Comerciante", 
@@ -281,8 +267,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depalceumoreira/", 
         "politico_instagram": "", 
         "title": "ALCEU MOREIRA", 
-        "politico_email": "dep.alceumoreira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alceu_moreira"
+        "politico_email": "dep.alceumoreira@camara.leg.br"
     }, 
     "16": {
         "politico_profissao": "Advogado, Professor Universit\u00e1rio", 
@@ -300,8 +285,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MolonRJ/", 
         "politico_instagram": "https://instagram.com/molonrj", 
         "title": "ALESSANDRO MOLON", 
-        "politico_email": "dep.alessandromolon@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alessandromolon"
+        "politico_email": "dep.alessandromolon@camara.leg.br"
     }, 
     "17": {
         "politico_profissao": "Registrador de Im\u00f3veis", 
@@ -319,8 +303,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/alexcanziani1414", 
         "politico_instagram": "https://www.instagram.com/alex_canziani/", 
         "title": "ALEX CANZIANI", 
-        "politico_email": "dep.alexcanziani@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/canzianialex"
+        "politico_email": "dep.alexcanziani@camara.leg.br"
     }, 
     "18": {
         "politico_profissao": "Bacharel Em Direito", 
@@ -338,8 +321,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/alexmanentesbc/", 
         "politico_instagram": "https://www.instagram.com/alexmanente/", 
         "title": "ALEX MANENTE", 
-        "politico_email": "dep.alexmanente@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alexmanentepps"
+        "politico_email": "dep.alexmanente@camara.leg.br"
     }, 
     "19": {
         "politico_profissao": "", 
@@ -357,8 +339,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/alexandrebaldyoficial/", 
         "politico_instagram": "https://www.instagram.com/alexandrebaldy/", 
         "title": "ALEXANDRE BALDY", 
-        "politico_email": "dep.alexandrebaldy@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alexandrebaldy"
+        "politico_email": "dep.alexandrebaldy@camara.leg.br"
     }, 
     "20": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -376,8 +357,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoFederalAlexandreLeite/", 
         "politico_instagram": "", 
         "title": "ALEXANDRE LEITE", 
-        "politico_email": "dep.alexandreleite@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/lexandreleite"
+        "politico_email": "dep.alexandreleite@camara.leg.br"
     }, 
     "21": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -395,8 +375,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/alexandreserfiotis/", 
         "politico_instagram": "", 
         "title": "ALEXANDRE SERFIOTIS", 
-        "politico_email": "dep.alexandreserfiotis@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/aleserfiotis"
+        "politico_email": "dep.alexandreserfiotis@camara.leg.br"
     }, 
     "22": {
         "politico_profissao": "", 
@@ -414,8 +393,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Valle.Alexandre/", 
         "politico_instagram": "", 
         "title": "ALEXANDRE VALLE", 
-        "politico_email": "dep.alexandrevalle@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.alexandrevalle@camara.leg.br"
     }, 
     "23": {
         "politico_profissao": "Industrial", 
@@ -433,8 +411,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Dep.AlfredoKaefer/", 
         "politico_instagram": "https://www.instagram.com/alfredokaefer/", 
         "title": "ALFREDO KAEFER", 
-        "politico_email": "dep.alfredokaefer@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alfredokaefer"
+        "politico_email": "dep.alfredokaefer@camara.leg.br"
     }, 
     "24": {
         "politico_profissao": "", 
@@ -452,8 +429,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AlfredoNascimentoOficial", 
         "politico_instagram": "https://www.instagram.com/AlfredoNascimentoOficial/", 
         "title": "ALFREDO NASCIMENTO", 
-        "politico_email": "dep.alfredonascimento@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.alfredonascimento@camara.leg.br"
     }, 
     "25": {
         "politico_profissao": "Qu\u00edmica Industrial e Farmac\u00eautica Bioqu\u00edmica", 
@@ -471,8 +447,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadaaliceportugal", 
         "politico_instagram": "https://www.instagram.com/aliceportugal/", 
         "title": "ALICE PORTUGAL", 
-        "politico_email": "dep.aliceportugal@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alice_portugal"
+        "politico_email": "dep.aliceportugal@camara.leg.br"
     }, 
     "26": {
         "politico_profissao": "", 
@@ -490,8 +465,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AlielMachadoVereador/", 
         "politico_instagram": "https://instagram.com/alielmachado", 
         "title": "ALIEL MACHADO", 
-        "politico_email": "dep.alielmachado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/alielmachado"
+        "politico_email": "dep.alielmachado@camara.leg.br"
     }, 
     "27": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -509,8 +483,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/altineucortes/", 
         "politico_instagram": "", 
         "title": "ALTINEU C\u00d4RTES", 
-        "politico_email": "dep.altineucortes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/altineu"
+        "politico_email": "dep.altineucortes@camara.leg.br"
     }, 
     "28": {
         "politico_profissao": "Funcion\u00e1rio P\u00fablico Federal", 
@@ -528,8 +501,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AluisioMendesOficial", 
         "politico_instagram": "", 
         "title": "ALUISIO MENDES", 
-        "politico_email": "dep.aluisiomendes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/a_mendes2727"
+        "politico_email": "dep.aluisiomendes@camara.leg.br"
     }, 
     "29": {
         "politico_profissao": "Advogada", 
@@ -547,8 +519,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ana.perugini/", 
         "politico_instagram": "https://instagram.com/anaperugini", 
         "title": "ANA PERUGINI", 
-        "politico_email": "dep.anaperugini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoana"
+        "politico_email": "dep.anaperugini@camara.leg.br"
     }, 
     "30": {
         "politico_profissao": "", 
@@ -566,8 +537,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/andersonferreirafederal/", 
         "politico_instagram": "", 
         "title": "ANDERSON FERREIRA", 
-        "politico_email": "dep.andersonferreira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/federalanderson"
+        "politico_email": "dep.andersonferreira@camara.leg.br"
     }, 
     "31": {
         "politico_profissao": "Engenheiro Florestal", 
@@ -585,8 +555,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depandreabdon", 
         "politico_instagram": "https://instagram.com/dep_andreabdon/", 
         "title": "ANDR\u00c9 ABDON", 
-        "politico_email": "dep.andreabdon@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_andreabdon"
+        "politico_email": "dep.andreabdon@camara.leg.br"
     }, 
     "32": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -604,8 +573,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Andr%25C3%25A9-Fufuca-474257199269888/", 
         "politico_instagram": "https://www.instagram.com/andre_fufuca/", 
         "title": "ANDR\u00c9 FUFUCA", 
-        "politico_email": "dep.andrefufuca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depandrefufuca"
+        "politico_email": "dep.andrefufuca@camara.leg.br"
     }, 
     "33": {
         "politico_profissao": "Pol\u00edtico", 
@@ -623,8 +591,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/OficialAndreMoura/", 
         "politico_instagram": "https://www.instagram.com/andremourapsc/", 
         "title": "ANDRE MOURA", 
-        "politico_email": "dep.andremoura@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/andremourapsc_"
+        "politico_email": "dep.andremoura@camara.leg.br"
     }, 
     "34": {
         "politico_profissao": "Administrador", 
@@ -642,8 +609,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/torcidaandres", 
         "politico_instagram": "https://www.instagram.com/torcidaandres/", 
         "title": "ANDRES SANCHEZ", 
-        "politico_email": "dep.andressanchez@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/torcidaandres"
+        "politico_email": "dep.andressanchez@camara.leg.br"
     }, 
     "36": {
         "politico_profissao": "Economista", 
@@ -661,8 +627,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/angelim.acre", 
         "politico_instagram": "", 
         "title": "ANGELIM", 
-        "politico_email": "dep.angelim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/RaimundoAngelim"
+        "politico_email": "dep.angelim@camara.leg.br"
     }, 
     "37": {
         "politico_profissao": "Cirurgi\u00e3o-dentista e Agropecuarista", 
@@ -680,8 +645,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "AN\u00cdBAL GOMES", 
-        "politico_email": "dep.anibalgomes@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.anibalgomes@camara.leg.br"
     }, 
     "38": {
         "politico_profissao": "Administrador de Empresas", 
@@ -699,8 +663,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/antoniobritobahia/", 
         "politico_instagram": "", 
         "title": "ANTONIO BRITO", 
-        "politico_email": "dep.antoniobrito@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/antoniobritoba"
+        "politico_email": "dep.antoniobrito@camara.leg.br"
     }, 
     "39": {
         "politico_profissao": "Apresentador de Televis\u00e3o, Administrador, Te\u00f3logo e Bispo Evang\u00e9lico", 
@@ -718,8 +681,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/antonio.bulhoes.7/", 
         "politico_instagram": "https://www.instagram.com/antoniobulhoes/", 
         "title": "ANTONIO BULH\u00d5ES", 
-        "politico_email": "dep.antoniobulhoes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depbulhoes"
+        "politico_email": "dep.antoniobulhoes@camara.leg.br"
     }, 
     "41": {
         "politico_profissao": "Engenheiro Eletricista", 
@@ -737,8 +699,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/antonio.imbassahy/", 
         "politico_instagram": "https://www.instagram.com/antonioimbassahy/", 
         "title": "ANTONIO IMBASSAHY", 
-        "politico_email": "dep.antonioimbassahy@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_imbassahy"
+        "politico_email": "dep.antonioimbassahy@camara.leg.br"
     }, 
     "42": {
         "politico_profissao": "Advogado(a),m\u00e9dico(a),te\u00f3logo", 
@@ -756,8 +717,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jacomern", 
         "politico_instagram": "https://www.instagram.com/jacomern/", 
         "title": "ANT\u00d4NIO J\u00c1COME", 
-        "politico_email": "dep.antoniojacome@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/antoniojacome"
+        "politico_email": "dep.antoniojacome@camara.leg.br"
     }, 
     "43": {
         "politico_profissao": "Professor Universit\u00e1rio e Engenheiro Civil", 
@@ -775,8 +735,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoariostoholanda", 
         "politico_instagram": "https://www.instagram.com/ariostoholanda/", 
         "title": "ARIOSTO HOLANDA", 
-        "politico_email": "dep.ariostoholanda@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoariosto"
+        "politico_email": "dep.ariostoholanda@camara.leg.br"
     }, 
     "44": {
         "politico_profissao": "M\u00e9dico", 
@@ -794,8 +753,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depchinaglia/", 
         "politico_instagram": "https://www.instagram.com/depchinaglia/", 
         "title": "ARLINDO CHINAGLIA", 
-        "politico_email": "dep.arlindochinaglia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/achinaglia"
+        "politico_email": "dep.arlindochinaglia@camara.leg.br"
     }, 
     "45": {
         "politico_profissao": "Contabilista, Radialista, Professor e Advogado", 
@@ -813,8 +771,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoarnaldofariadesa/", 
         "politico_instagram": "", 
         "title": "ARNALDO FARIA DE S\u00c1", 
-        "politico_email": "dep.arnaldofariadesa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_arnaldo1452"
+        "politico_email": "dep.arnaldofariadesa@camara.leg.br"
     }, 
     "46": {
         "politico_profissao": "Pol\u00edtico", 
@@ -832,8 +789,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoarnaldojordy", 
         "politico_instagram": "https://www.instagram.com/arnaldojordy/", 
         "title": "ARNALDO JORDY", 
-        "politico_email": "dep.arnaldojordy@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/arnaldojordy"
+        "politico_email": "dep.arnaldojordy@camara.leg.br"
     }, 
     "47": {
         "politico_profissao": "M\u00e9dico", 
@@ -851,8 +807,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Arnon-Bezerra-430249640450487", 
         "politico_instagram": "", 
         "title": "ARNON BEZERRA", 
-        "politico_email": "dep.arnonbezerra@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.arnonbezerra@camara.leg.br"
     }, 
     "48": {
         "politico_profissao": "Agropecuarista, Bacharel Em Direito, Empres\u00e1rio", 
@@ -870,8 +825,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/arthurliradeputadofederal", 
         "politico_instagram": "", 
         "title": "ARTHUR LIRA", 
-        "politico_email": "dep.arthurlira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/departhurlira"
+        "politico_email": "dep.arthurlira@camara.leg.br"
     }, 
     "49": {
         "politico_profissao": "Advogado", 
@@ -889,8 +843,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/arthur.oliveiramaia/", 
         "politico_instagram": "https://www.instagram.com/departhuroliveiramaia/", 
         "title": "ARTHUR OLIVEIRA MAIA", 
-        "politico_email": "dep.arthuroliveiramaia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/departhurmaia"
+        "politico_email": "dep.arthuroliveiramaia@camara.leg.br"
     }, 
     "50": {
         "politico_profissao": "Pol\u00edtico", 
@@ -908,8 +861,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/arthurvirgiliobisneto", 
         "politico_instagram": "https://www.instagram.com/arthurbisnetooficial", 
         "title": "ARTHUR VIRG\u00cdLIO BISNETO", 
-        "politico_email": "dep.arthurvirgiliobisneto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/arthurbisneto"
+        "politico_email": "dep.arthurvirgiliobisneto@camara.leg.br"
     }, 
     "51": {
         "politico_profissao": "Funcion\u00e1rio P\u00fablico Federal", 
@@ -927,8 +879,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/assiscarvalho.pt/", 
         "politico_instagram": "https://www.instagram.com/assiscarvalho13/", 
         "title": "ASSIS CARVALHO", 
-        "politico_email": "dep.assiscarvalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/assis_carvalho"
+        "politico_email": "dep.assiscarvalho@camara.leg.br"
     }, 
     "52": {
         "politico_profissao": "Agricultor", 
@@ -946,15 +897,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoassisdocouto", 
         "politico_instagram": "", 
         "title": "ASSIS DO COUTO", 
-        "politico_email": "dep.assisdocouto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/assisdocouto"
+        "politico_email": "dep.assisdocouto@camara.leg.br"
     }, 
     "53": {
         "politico_profissao": "Bacharel Em Direito, Graduado Pela Universidade Federal do Amazonas Em 1.976; Advogado Com Inscri\u00e7\u00e3o Na Oab/am N\u00ba 1.000 ; Bacharel Em Economia, Graduado Pela Universidade Federal do Amazonas Em 1.986; Auditor Concursado do Tce/am, 1.977", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "53", 
         "politico_partido": "PSD", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5730", 
         "politico_estado": "AM", 
@@ -965,8 +915,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-%25C3%2581tila-Lins-329607960409077", 
         "politico_instagram": "", 
         "title": "\u00c1TILA LINS", 
-        "politico_email": "dep.atilalins@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.atilalins@camara.leg.br"
     }, 
     "54": {
         "politico_profissao": "Administrador de Empresas e Economista", 
@@ -984,8 +933,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/atilafreitaslira/", 
         "politico_instagram": "https://instagram.com/atilafreitaslira/", 
         "title": "\u00c1TILA LIRA", 
-        "politico_email": "dep.atilalira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoatila"
+        "politico_email": "dep.atilalira@camara.leg.br"
     }, 
     "55": {
         "politico_profissao": "Banc\u00e1rio e Soci\u00f3logo", 
@@ -1003,8 +951,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepAugustoCarvalho", 
         "politico_instagram": "", 
         "title": "AUGUSTO CARVALHO", 
-        "politico_email": "dep.augustocarvalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_augustodf"
+        "politico_email": "dep.augustocarvalho@camara.leg.br"
     }, 
     "56": {
         "politico_profissao": "Engenheiro Civil", 
@@ -1022,8 +969,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/augusto.coutinho", 
         "politico_instagram": "https://www.instagram.com/augustocmelo/", 
         "title": "AUGUSTO COUTINHO", 
-        "politico_email": "dep.augustocoutinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/augustocmelo"
+        "politico_email": "dep.augustocoutinho@camara.leg.br"
     }, 
     "57": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -1041,8 +987,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AureoDeputado/", 
         "politico_instagram": "https://www.instagram.com/aureodeputado/", 
         "title": "AUREO", 
-        "politico_email": "dep.aureo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoaureo"
+        "politico_email": "dep.aureo@camara.leg.br"
     }, 
     "58": {
         "politico_profissao": "Administrador", 
@@ -1060,8 +1005,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/bacelaroficial", 
         "politico_instagram": "http://instagram.com/deputadobacelar/", 
         "title": "BACELAR", 
-        "politico_email": "dep.bacelar@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadobacelar"
+        "politico_email": "dep.bacelar@camara.leg.br"
     }, 
     "59": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -1079,8 +1023,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/BaleiaRossi/", 
         "politico_instagram": "https://www.instagram.com/baleiarossi/", 
         "title": "BALEIA ROSSI", 
-        "politico_email": "dep.baleiarossi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/baleia_rossi"
+        "politico_email": "dep.baleiarossi@camara.leg.br"
     }, 
     "60": {
         "politico_profissao": "", 
@@ -1098,8 +1041,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/bebetogalvao", 
         "politico_instagram": "https://www.instagram.com/bebetogalvao/", 
         "title": "BEBETO", 
-        "politico_email": "dep.bebeto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadobebeto"
+        "politico_email": "dep.bebeto@camara.leg.br"
     }, 
     "61": {
         "politico_profissao": "Assistente Social, Auxiliar de Enfermagem, Professor, Servidor P\u00fablico", 
@@ -1117,8 +1059,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/blogdabenedita", 
         "politico_instagram": "", 
         "title": "BENEDITA DA SILVA", 
-        "politico_email": "dep.beneditadasilva@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/blogdabenedita"
+        "politico_email": "dep.beneditadasilva@camara.leg.br"
     }, 
     "62": {
         "politico_profissao": "Economista,professor(a)", 
@@ -1136,8 +1077,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Benito-Gama-584677634909297/", 
         "politico_instagram": "https://www.instagram.com/benitogama/", 
         "title": "BENITO GAMA", 
-        "politico_email": "dep.benitogama@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/benitogama"
+        "politico_email": "dep.benitogama@camara.leg.br"
     }, 
     "63": {
         "politico_profissao": "Cirurgi\u00e3o-dentista", 
@@ -1155,8 +1095,7 @@ var deputados = {
         "politico_facebook": "https://twitter.com/benjamimaranhao", 
         "politico_instagram": "", 
         "title": "BENJAMIN MARANH\u00c3O", 
-        "politico_email": "dep.benjaminmaranhao@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.benjaminmaranhao@camara.leg.br"
     }, 
     "64": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo", 
@@ -1174,8 +1113,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/betinho45/", 
         "politico_instagram": "", 
         "title": "BETINHO GOMES", 
-        "politico_email": "dep.betinhogomes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/betinhogomes"
+        "politico_email": "dep.betinhogomes@camara.leg.br"
     }, 
     "65": {
         "politico_profissao": "Agricultor Familiar", 
@@ -1193,8 +1131,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/beto.faro.5/", 
         "politico_instagram": "", 
         "title": "BETO FARO", 
-        "politico_email": "dep.betofaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/betofaropt"
+        "politico_email": "dep.betofaro@camara.leg.br"
     }, 
     "66": {
         "politico_profissao": "Radialista, Empres\u00e1rio e Engenheiro Eletr\u00f4nico", 
@@ -1212,8 +1149,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/betomansur/", 
         "politico_instagram": "https://www.instagram.com/betomansur10", 
         "title": "BETO MANSUR", 
-        "politico_email": "dep.betomansur@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/betomansur10"
+        "politico_email": "dep.betomansur@camara.leg.br"
     }, 
     "67": {
         "politico_profissao": "Agr\u00f4nomo", 
@@ -1231,8 +1167,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/betorosado1111/", 
         "politico_instagram": "https://www.instagram.com/betorosado1111/", 
         "title": "BETO ROSADO", 
-        "politico_email": "dep.betorosado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/betorosado"
+        "politico_email": "dep.betorosado@camara.leg.br"
     }, 
     "68": {
         "politico_profissao": "", 
@@ -1250,8 +1185,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/betosalame/", 
         "politico_instagram": "", 
         "title": "BETO SALAME", 
-        "politico_email": "dep.betosalame@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/salamefilho"
+        "politico_email": "dep.betosalame@camara.leg.br"
     }, 
     "69": {
         "politico_profissao": "Advogado", 
@@ -1269,8 +1203,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederalbilacpinto/", 
         "politico_instagram": "", 
         "title": "BILAC PINTO", 
-        "politico_email": "dep.bilacpinto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/bilac_pinto"
+        "politico_email": "dep.bilacpinto@camara.leg.br"
     }, 
     "70": {
         "politico_profissao": "Agricultor Familiar, Professor de Hist\u00f3ria", 
@@ -1288,8 +1221,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/bohngass13", 
         "politico_instagram": "", 
         "title": "BOHN GASS", 
-        "politico_email": "dep.bohngass@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/bohngass"
+        "politico_email": "dep.bohngass@camara.leg.br"
     }, 
     "71": {
         "politico_profissao": "Advogado e Professor Universit\u00e1rio", 
@@ -1307,8 +1239,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Dep.BonifacioAndrada/", 
         "politico_instagram": "", 
         "title": "BONIF\u00c1CIO DE ANDRADA", 
-        "politico_email": "dep.bonifaciodeandrada@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/bandrada"
+        "politico_email": "dep.bonifaciodeandrada@camara.leg.br"
     }, 
     "72": {
         "politico_profissao": "", 
@@ -1326,8 +1257,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/BrunaFurlanDeputadaFederal/", 
         "politico_instagram": "https://www.instagram.com/depbrunafurlan/", 
         "title": "BRUNA FURLAN", 
-        "politico_email": "dep.brunafurlan@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depbrunafurlan"
+        "politico_email": "dep.brunafurlan@camara.leg.br"
     }, 
     "73": {
         "politico_profissao": "", 
@@ -1345,8 +1275,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadabrunny", 
         "politico_instagram": "", 
         "title": "BRUNNY", 
-        "politico_email": "dep.brunny@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.brunny@camara.leg.br"
     }, 
     "74": {
         "politico_profissao": "Advogado", 
@@ -1364,8 +1293,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/BrunoAraujoPE", 
         "politico_instagram": "https://www.instagram.com/brunoaraujo4511/", 
         "title": "BRUNO ARA\u00daJO", 
-        "politico_email": "dep.brunoaraujo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/brunoaraujo4511"
+        "politico_email": "dep.brunoaraujo@camara.leg.br"
     }, 
     "75": {
         "politico_profissao": "Advogado(a),economista", 
@@ -1383,8 +1311,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/BrunoCovasOficial/", 
         "politico_instagram": "https://www.instagram.com/brunocovas/", 
         "title": "BRUNO COVAS", 
-        "politico_email": "dep.brunocovas@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/brunocovas"
+        "politico_email": "dep.brunocovas@camara.leg.br"
     }, 
     "76": {
         "politico_profissao": "Bombeiro", 
@@ -1402,8 +1329,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/TV-Daciolo-264727663651168", 
         "politico_instagram": "", 
         "title": "CABO DACIOLO", 
-        "politico_email": "dep.cabodaciolo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/cabodaciolo"
+        "politico_email": "dep.cabodaciolo@camara.leg.br"
     }, 
     "77": {
         "politico_profissao": "Corretor de Im\u00f3veis", 
@@ -1421,8 +1347,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Cabo-Sabino-697004213668375/", 
         "politico_instagram": "https://instagram.com/cabosabino/", 
         "title": "CABO SABINO", 
-        "politico_email": "dep.cabosabino@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.cabosabino@camara.leg.br"
     }, 
     "78": {
         "politico_profissao": "Comunicador de R\u00e1dio,economista", 
@@ -1440,8 +1365,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/OsCabucusOficial/", 
         "politico_instagram": "https://www.instagram.com/dr.damiao/", 
         "title": "CABU\u00c7U BORGES", 
-        "politico_email": "dep.cabucuborges@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depcabucu"
+        "politico_email": "dep.cabucuborges@camara.leg.br"
     }, 
     "79": {
         "politico_profissao": "Administrador", 
@@ -1459,8 +1383,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/CacaLeaoOficial/", 
         "politico_instagram": "http://instagram.com/diegoandrademg", 
         "title": "CAC\u00c1 LE\u00c3O", 
-        "politico_email": "dep.cacaleao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/cacaleao"
+        "politico_email": "dep.cacaleao@camara.leg.br"
     }, 
     "80": {
         "politico_profissao": "Farmac\u00eautico Bioqu\u00edmico", 
@@ -1478,8 +1401,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luiz.caetanoBA", 
         "politico_instagram": "https://www.instagram.com/goulart_oficial/", 
         "title": "CAETANO", 
-        "politico_email": "dep.caetano@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depcaetano"
+        "politico_email": "dep.caetano@camara.leg.br"
     }, 
     "81": {
         "politico_profissao": "", 
@@ -1497,8 +1419,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/caionarcio/", 
         "politico_instagram": "https://instagram.com/jeronimogoergen/", 
         "title": "CAIO NARCIO", 
-        "politico_email": "dep.caionarcio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/caionarcio"
+        "politico_email": "dep.caionarcio@camara.leg.br"
     }, 
     "82": {
         "politico_profissao": "Policial Militar", 
@@ -1516,8 +1437,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/capitaoaugustooficial/", 
         "politico_instagram": "https://instagram.com/deputadaluciana/", 
         "title": "CAPIT\u00c3O AUGUSTO", 
-        "politico_email": "dep.capitaoaugusto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/capitao_augusto"
+        "politico_email": "dep.capitaoaugusto@camara.leg.br"
     }, 
     "83": {
         "politico_profissao": "Administrador,eletricit\u00e1rio", 
@@ -1535,8 +1455,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadocarlosandrade/", 
         "politico_instagram": "https://instagram.com/deputadomarcelomatos/", 
         "title": "CARLOS ANDRADE", 
-        "politico_email": "dep.carlosandrade@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carlosandradedf"
+        "politico_email": "dep.carlosandrade@camara.leg.br"
     }, 
     "84": {
         "politico_profissao": "Industrial, Advogado e Professor", 
@@ -1554,8 +1473,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadocarlosbezerra", 
         "politico_instagram": "", 
         "title": "CARLOS BEZERRA", 
-        "politico_email": "dep.carlosbezerra@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.carlosbezerra@camara.leg.br"
     }, 
     "85": {
         "politico_profissao": "Advogado", 
@@ -1573,8 +1491,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/cadocadeputado", 
         "politico_instagram": "https://www.instagram.com/misaelvarella/", 
         "title": "CARLOS EDUARDO CADOCA", 
-        "politico_email": "dep.carloseduardocadoca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/cadoca"
+        "politico_email": "dep.carloseduardocadoca@camara.leg.br"
     }, 
     "86": {
         "politico_profissao": "", 
@@ -1592,8 +1509,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadocarlosgomes/", 
         "politico_instagram": "https://www.instagram.com/raquel.muniz/", 
         "title": "CARLOS GOMES", 
-        "politico_email": "dep.carlosgomes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carlosgomesdep"
+        "politico_email": "dep.carlosgomes@camara.leg.br"
     }, 
     "87": {
         "politico_profissao": "", 
@@ -1611,8 +1527,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/carlos.gaguim/", 
         "politico_instagram": "https://www.instagram.com/renataabreuoficial/", 
         "title": "CARLOS HENRIQUE GAGUIM", 
-        "politico_email": "dep.carloshenriquegaguim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carlos_prb"
+        "politico_email": "dep.carloshenriquegaguim@camara.leg.br"
     }, 
     "88": {
         "politico_profissao": "Medico", 
@@ -1630,8 +1545,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputado.manato", 
         "politico_instagram": "https://www.instagram.com/majorrocha45/", 
         "title": "CARLOS MANATO", 
-        "politico_email": "dep.carlosmanato@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadomanato"
+        "politico_email": "dep.carlosmanato@camara.leg.br"
     }, 
     "89": {
         "politico_profissao": "Advogado(a),engenheiro Civil", 
@@ -1649,8 +1563,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/carlos.marun", 
         "politico_instagram": "", 
         "title": "CARLOS MARUN", 
-        "politico_email": "dep.carlosmarun@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadomarun"
+        "politico_email": "dep.carlosmarun@camara.leg.br"
     }, 
     "90": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo e Empres\u00e1rio", 
@@ -1668,8 +1581,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoCarlosMelles/", 
         "politico_instagram": "https://www.instagram.com/ronaldocarletto/", 
         "title": "CARLOS MELLES", 
-        "politico_email": "dep.carlosmelles@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carlosmelles"
+        "politico_email": "dep.carlosmelles@camara.leg.br"
     }, 
     "91": {
         "politico_profissao": "Promotor de Justi\u00e7a.", 
@@ -1687,8 +1599,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoCarlosSampaio/", 
         "politico_instagram": "https://www.instagram.com/deputadotadeualencar/", 
         "title": "CARLOS SAMPAIO", 
-        "politico_email": "dep.carlossampaio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carlossampaio_"
+        "politico_email": "dep.carlossampaio@camara.leg.br"
     }, 
     "92": {
         "politico_profissao": "Economista", 
@@ -1706,8 +1617,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.zarattini/", 
         "politico_instagram": "https://www.instagram.com/zecacavalcanti/", 
         "title": "CARLOS ZARATTINI", 
-        "politico_email": "dep.carloszarattini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carloszarattini"
+        "politico_email": "dep.carloszarattini@camara.leg.br"
     }, 
     "93": {
         "politico_profissao": "Enfermeira", 
@@ -1725,8 +1635,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadaCarmenZanotto", 
         "politico_instagram": "https://www.instagram.com/dep.zenaidemaia/", 
         "title": "CARMEN ZANOTTO", 
-        "politico_email": "dep.carmenzanotto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/carmenzanotto"
+        "politico_email": "dep.carmenzanotto@camara.leg.br"
     }, 
     "94": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -1744,8 +1653,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/CelioSilveiraOficial/", 
         "politico_instagram": "https://www.instagram.com/celiosilveiradeputado/", 
         "title": "C\u00c9LIO SILVEIRA", 
-        "politico_email": "dep.celiosilveira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/csilveira4599"
+        "politico_email": "dep.celiosilveira@camara.leg.br"
     }, 
     "96": {
         "politico_profissao": "Economista, Empres\u00e1rio", 
@@ -1763,8 +1671,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/celso.maldaner/", 
         "politico_instagram": "https://www.instagram.com/maldaner_celso/", 
         "title": "CELSO MALDANER", 
-        "politico_email": "dep.celsomaldaner@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/celsomaldaner"
+        "politico_email": "dep.celsomaldaner@camara.leg.br"
     }, 
     "97": {
         "politico_profissao": "Apresentador de Televis\u00e3o, Rep\u00f3rter e Bacharel Em Direito", 
@@ -1782,8 +1689,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/celsorussomanno", 
         "politico_instagram": "https://www.instagram.com/celsorussomanno/", 
         "title": "CELSO RUSSOMANNO", 
-        "politico_email": "dep.celsorussomanno@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/celsorussomanno"
+        "politico_email": "dep.celsorussomanno@camara.leg.br"
     }, 
     "98": {
         "politico_profissao": "M\u00e9dico Veterin\u00e1rio", 
@@ -1801,8 +1707,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/cesarhalum/", 
         "politico_instagram": "https://www.instagram.com/cesarhalum/", 
         "title": "C\u00c9SAR HALUM", 
-        "politico_email": "dep.cesarhalum@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/cesarhalum"
+        "politico_email": "dep.cesarhalum@camara.leg.br"
     }, 
     "99": {
         "politico_profissao": "Pecuarista", 
@@ -1820,8 +1725,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/cesarmessiaspsb/", 
         "politico_instagram": "", 
         "title": "C\u00c9SAR MESSIAS", 
-        "politico_email": "dep.cesarmessias@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.cesarmessias@camara.leg.br"
     }, 
     "100": {
         "politico_profissao": "Professor de Ensino Superior", 
@@ -1839,8 +1743,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/chicoalencar/", 
         "politico_instagram": "https://www.instagram.com/chico.alencar", 
         "title": "CHICO ALENCAR", 
-        "politico_email": "dep.chicoalencar@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depchicoalencar"
+        "politico_email": "dep.chicoalencar@camara.leg.br"
     }, 
     "101": {
         "politico_profissao": "M\u00e9dico", 
@@ -1858,8 +1761,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/chicodangelo", 
         "politico_instagram": "https://instagram.com/chicodangelo/", 
         "title": "CHICO D'ANGELO", 
-        "politico_email": "dep.chicodangelo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/chico_dangelo"
+        "politico_email": "dep.chicodangelo@camara.leg.br"
     }, 
     "102": {
         "politico_profissao": "Professor e Auditor-fiscal", 
@@ -1877,8 +1779,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.chicolopes/", 
         "politico_instagram": "", 
         "title": "CHICO LOPES", 
-        "politico_email": "dep.chicolopes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depchicolopes"
+        "politico_email": "dep.chicolopes@camara.leg.br"
     }, 
     "103": {
         "politico_profissao": "", 
@@ -1896,8 +1797,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ChristianeYared", 
         "politico_instagram": "https://www.instagram.com/christianeyared/", 
         "title": "CHRISTIANE DE SOUZA YARED", 
-        "politico_email": "dep.christianedesouzayared@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/christianeyared"
+        "politico_email": "dep.christianedesouzayared@camara.leg.br"
     }, 
     "104": {
         "politico_profissao": "Cantor,radialista,rep\u00f3rter", 
@@ -1915,8 +1815,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ciceroalmeidapolitico", 
         "politico_instagram": "", 
         "title": "C\u00cdCERO ALMEIDA", 
-        "politico_email": "dep.ciceroalmeida@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.ciceroalmeida@camara.leg.br"
     }, 
     "105": {
         "politico_profissao": "", 
@@ -1934,8 +1833,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ClarissaGarotinhoRJ/", 
         "politico_instagram": "https://www.instagram.com/clarissagarotinho/", 
         "title": "CLARISSA GAROTINHO", 
-        "politico_email": "dep.clarissagarotinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_clarissa"
+        "politico_email": "dep.clarissagarotinho@camara.leg.br"
     }, 
     "106": {
         "politico_profissao": "Advogado", 
@@ -1953,8 +1851,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadocajado/", 
         "politico_instagram": "", 
         "title": "CLAUDIO CAJADO", 
-        "politico_email": "dep.claudiocajado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/claudio_cajado"
+        "politico_email": "dep.claudiocajado@camara.leg.br"
     }, 
     "107": {
         "politico_profissao": "Vendedor Aut\u00f4nomo, Professor, Servidor P\u00fablico, Pol\u00edtico e Bacharel Em Direito", 
@@ -1972,8 +1869,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadocleberverde/", 
         "politico_instagram": "https://www.instagram.com/cleberverde/", 
         "title": "CLEBER VERDE", 
-        "politico_email": "dep.cleberverde@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/cleberverde10"
+        "politico_email": "dep.cleberverde@camara.leg.br"
     }, 
     "108": {
         "politico_profissao": "", 
@@ -1991,8 +1887,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadaconceicaosampaio/", 
         "politico_instagram": "https://www.instagram.com/deputadaconceicaosampaio/", 
         "title": "CONCEI\u00c7\u00c3O SAMPAIO", 
-        "politico_email": "dep.conceicaosampaio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_csampaio"
+        "politico_email": "dep.conceicaosampaio@camara.leg.br"
     }, 
     "109": {
         "politico_profissao": "", 
@@ -2010,8 +1905,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/covatti.filho/", 
         "politico_instagram": "https://www.instagram.com/covattifilho/", 
         "title": "COVATTI FILHO", 
-        "politico_email": "dep.covattifilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/covattifilho"
+        "politico_email": "dep.covattifilho@camara.leg.br"
     }, 
     "110": {
         "politico_profissao": "Advogada", 
@@ -2029,8 +1923,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/cristiane.brasil/", 
         "politico_instagram": "https://www.instagram.com/deputadacristianebrasil/", 
         "title": "CRISTIANE BRASIL", 
-        "politico_email": "dep.cristianebrasil@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/Dep_CrisBrasil"
+        "politico_email": "dep.cristianebrasil@camara.leg.br"
     }, 
     "111": {
         "politico_profissao": "Advogado e Administrador de Empresas", 
@@ -2048,8 +1941,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dagobertopdt/", 
         "politico_instagram": "https://www.instagram.com/dagobertopdt/", 
         "title": "DAGOBERTO NOGUEIRA", 
-        "politico_email": "dep.dagoberto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dagobertopdt"
+        "politico_email": "dep.dagoberto@camara.leg.br"
     }, 
     "112": {
         "politico_profissao": "M\u00e9dico, Empres\u00e1rio e Radialista", 
@@ -2067,8 +1959,7 @@ var deputados = {
         "politico_facebook": "https://twitter.com/drdamiaooficial", 
         "politico_instagram": "https://www.instagram.com/dr.damiao/", 
         "title": "DAMI\u00c3O FELICIANO", 
-        "politico_email": "dep.damiaofeliciano@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.damiaofeliciano@camara.leg.br"
     }, 
     "113": {
         "politico_profissao": "", 
@@ -2086,8 +1977,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadafederaldaminapereira/", 
         "politico_instagram": "https://www.instagram.com/deputadadamina/", 
         "title": "D\u00c2MINA PEREIRA", 
-        "politico_email": "dep.daminapereira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadadamina"
+        "politico_email": "dep.daminapereira@camara.leg.br"
     }, 
     "114": {
         "politico_profissao": "Industri\u00e1rio", 
@@ -2105,8 +1995,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depdanielalmeida/", 
         "politico_instagram": "https://instagram.com/daniel_pcdob/", 
         "title": "DANIEL ALMEIDA", 
-        "politico_email": "dep.danielalmeida@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/daniel_pcdob"
+        "politico_email": "dep.danielalmeida@camara.leg.br"
     }, 
     "115": {
         "politico_profissao": "Administrador", 
@@ -2124,8 +2013,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DanielCoelho45/", 
         "politico_instagram": "https://www.instagram.com/danielcoelho45/", 
         "title": "DANIEL COELHO", 
-        "politico_email": "dep.danielcoelho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/danielcoelho45"
+        "politico_email": "dep.danielcoelho@camara.leg.br"
     }, 
     "116": {
         "politico_profissao": "", 
@@ -2143,8 +2031,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/danielvilelaoficial/", 
         "politico_instagram": "https://www.instagram.com/danielvilela15", 
         "title": "DANIEL VILELA", 
-        "politico_email": "dep.danielvilela@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/danielvilela15"
+        "politico_email": "dep.danielvilela@camara.leg.br"
     }, 
     "117": {
         "politico_profissao": "Advogado", 
@@ -2162,8 +2049,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/danilobforte/", 
         "politico_instagram": "https://www.instagram.com/depdaniloforte/", 
         "title": "DANILO FORTE", 
-        "politico_email": "dep.daniloforte@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depdaniloforte"
+        "politico_email": "dep.daniloforte@camara.leg.br"
     }, 
     "118": {
         "politico_profissao": "Atleta Profissional de Futebol", 
@@ -2181,8 +2067,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Danrlei-de-Deus-Hinterholz-128207973912311/", 
         "politico_instagram": "https://www.instagram.com/danrlei5501/", 
         "title": "DANRLEI DE DEUS HINTERHOLZ", 
-        "politico_email": "dep.danrleidedeushinterholz@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/danrleifederal"
+        "politico_email": "dep.danrleidedeushinterholz@camara.leg.br"
     }, 
     "119": {
         "politico_profissao": "M\u00e9dico", 
@@ -2200,8 +2085,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DarcisioPerondi", 
         "politico_instagram": "https://www.instagram.com/darcisioperondi/", 
         "title": "DARC\u00cdSIO PERONDI", 
-        "politico_email": "dep.darcisioperondi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/darcisioperondi"
+        "politico_email": "dep.darcisioperondi@camara.leg.br"
     }, 
     "120": {
         "politico_profissao": "", 
@@ -2219,8 +2103,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/davidson.magalhaessantos/", 
         "politico_instagram": "https://www.instagram.com/davidson.magalhaes/", 
         "title": "DAVIDSON MAGALH\u00c3ES", 
-        "politico_email": "dep.davidsonmagalhaes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/davidson65"
+        "politico_email": "dep.davidsonmagalhaes@camara.leg.br"
     }, 
     "121": {
         "politico_profissao": "Professor de Ensino M\u00e9dio e Advogado", 
@@ -2238,8 +2121,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/VotoDecioLima/", 
         "politico_instagram": "https://instagram.com/deciolimapt/", 
         "title": "D\u00c9CIO LIMA", 
-        "politico_email": "dep.deciolima@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deciolimapt"
+        "politico_email": "dep.deciolima@camara.leg.br"
     }, 
     "122": {
         "politico_profissao": "", 
@@ -2257,8 +2139,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/oficialedermauro", 
         "politico_instagram": "https://instagram.com/edermauroficial/", 
         "title": "DELEGADO \u00c9DER MAURO", 
-        "politico_email": "dep.delegadoedermauro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/edermauroficial"
+        "politico_email": "dep.delegadoedermauro@camara.leg.br"
     }, 
     "123": {
         "politico_profissao": "Advogado(a),delegado de Pol\u00edcia Civil,policial Militar,professor de Direito", 
@@ -2276,8 +2157,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DelegadoEdsonMoreiraPolitico/", 
         "politico_instagram": "https://www.instagram.com/delegadomoreira/", 
         "title": "DELEGADO EDSON MOREIRA", 
-        "politico_email": "dep.delegadoedsonmoreira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/delegadomoreira"
+        "politico_email": "dep.delegadoedsonmoreira@camara.leg.br"
     }, 
     "124": {
         "politico_profissao": "Delegado", 
@@ -2295,8 +2175,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/delegado.waldir/", 
         "politico_instagram": "", 
         "title": "DELEGADO WALDIR", 
-        "politico_email": "dep.delegadowaldir@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/delegadowaldir"
+        "politico_email": "dep.delegadowaldir@camara.leg.br"
     }, 
     "125": {
         "politico_profissao": "Atleta Profissional e Tecnico Em Desportos", 
@@ -2314,8 +2193,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadodeley/", 
         "politico_instagram": "", 
         "title": "DELEY", 
-        "politico_email": "dep.deley@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.deley@camara.leg.br"
     }, 
     "126": {
         "politico_profissao": "Administrador de Empresas", 
@@ -2333,8 +2211,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/diegoandrademg/", 
         "politico_instagram": "http://instagram.com/diegoandrademg", 
         "title": "DIEGO ANDRADE", 
-        "politico_email": "dep.diegoandrade@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.diegoandrade@camara.leg.br"
     }, 
     "127": {
         "politico_profissao": "Aut\u00f4nomo", 
@@ -2352,8 +2229,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DiegoGarciaDeputado", 
         "politico_instagram": "https://www.instagram.com/deputadodiegogarcia/", 
         "title": "DIEGO GARCIA", 
-        "politico_email": "dep.diegogarcia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/diegogarciapr"
+        "politico_email": "dep.diegogarcia@camara.leg.br"
     }, 
     "128": {
         "politico_profissao": "Industrial, Bacharel Em Direito, Fil\u00f3sofo e Agropecuarista", 
@@ -2371,8 +2247,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depsperafico/", 
         "politico_instagram": "", 
         "title": "DILCEU SPERAFICO", 
-        "politico_email": "dep.dilceusperafico@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depsperafico"
+        "politico_email": "dep.dilceusperafico@camara.leg.br"
     }, 
     "129": {
         "politico_profissao": "", 
@@ -2390,8 +2265,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depdimasfabiano.toledo", 
         "politico_instagram": "", 
         "title": "DIMAS FABIANO", 
-        "politico_email": "dep.dimasfabiano@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depdimasfabiano"
+        "politico_email": "dep.dimasfabiano@camara.leg.br"
     }, 
     "130": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -2409,8 +2283,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DomingosNetoCeara", 
         "politico_instagram": "https://www.instagram.com/domingosneto/", 
         "title": "DOMINGOS NETO", 
-        "politico_email": "dep.domingosneto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/domingos_neto"
+        "politico_email": "dep.domingosneto@camara.leg.br"
     }, 
     "131": {
         "politico_profissao": "M\u00e9dico Veterin\u00e1rio", 
@@ -2428,8 +2301,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/domingossaviomg/", 
         "politico_instagram": "https://www.instagram.com/domingossaviomg/", 
         "title": "DOMINGOS S\u00c1VIO", 
-        "politico_email": "dep.domingossavio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/domingossaviomg"
+        "politico_email": "dep.domingossavio@camara.leg.br"
     }, 
     "132": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -2447,8 +2319,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/drjoaoferreiraneto/", 
         "politico_instagram": "https://instagram.com/Drjoaooficial", 
         "title": "DR. JO\u00c3O", 
-        "politico_email": "dep.dr.joao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/DrJoaoOficial"
+        "politico_email": "dep.dr.joao@camara.leg.br"
     }, 
     "133": {
         "politico_profissao": "M\u00e9dico", 
@@ -2466,8 +2337,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DrJorgeSilva/", 
         "politico_instagram": "", 
         "title": "DR. JORGE SILVA", 
-        "politico_email": "dep.dr.jorgesilva@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jssilvajorge"
+        "politico_email": "dep.dr.jorgesilva@camara.leg.br"
     }, 
     "134": {
         "politico_profissao": "", 
@@ -2485,8 +2355,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/drsinvalmalheiros4311", 
         "politico_instagram": "https://www.instagram.com/drsinval/", 
         "title": "DR. SINVAL MALHEIROS", 
-        "politico_email": "dep.dr.sinvalmalheiros@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sinvalmalheiros"
+        "politico_email": "dep.dr.sinvalmalheiros@camara.leg.br"
     }, 
     "135": {
         "politico_profissao": "", 
@@ -2504,8 +2373,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dulcepaganimiranda", 
         "politico_instagram": "", 
         "title": "DULCE MIRANDA", 
-        "politico_email": "dep.dulcemiranda@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dulcemiranda_to"
+        "politico_email": "dep.dulcemiranda@camara.leg.br"
     }, 
     "136": {
         "politico_profissao": "Advogado, Professor", 
@@ -2523,8 +2391,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoedinhoaraujo/", 
         "politico_instagram": "", 
         "title": "EDINHO ARA\u00daJO", 
-        "politico_email": "dep.edinhoaraujo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/_edinhoaraujo"
+        "politico_email": "dep.edinhoaraujo@camara.leg.br"
     }, 
     "137": {
         "politico_profissao": "Contador e Banc\u00e1rio", 
@@ -2542,8 +2409,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/nogueiraduarte/?fref=ts", 
         "politico_instagram": "", 
         "title": "DUARTE NOGUEIRA", 
-        "politico_email": "dep.duartenogueira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/duarte_nogueira"
+        "politico_email": "dep.duartenogueira@camara.leg.br"
     }, 
     "138": {
         "politico_profissao": "Servidor P\u00fablico", 
@@ -2561,8 +2427,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoediolopes/", 
         "politico_instagram": "", 
         "title": "EDIO LOPES", 
-        "politico_email": "dep.ediolopes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ediolopes"
+        "politico_email": "dep.ediolopes@camara.leg.br"
     }, 
     "139": {
         "politico_profissao": "Professor(a)", 
@@ -2580,8 +2445,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/edmilsonpsol/", 
         "politico_instagram": "https://www.instagram.com/edmilsonpsol/", 
         "title": "EDMILSON RODRIGUES", 
-        "politico_email": "dep.edmilsonrodrigues@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/edmilsonpsol"
+        "politico_email": "dep.edmilsonrodrigues@camara.leg.br"
     }, 
     "140": {
         "politico_profissao": "M\u00e9dico", 
@@ -2599,8 +2463,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederaleduardobarbosa/", 
         "politico_instagram": "", 
         "title": "EDUARDO BARBOSA", 
-        "politico_email": "dep.eduardobarbosa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/eduardobarbosa_"
+        "politico_email": "dep.eduardobarbosa@camara.leg.br"
     }, 
     "141": {
         "politico_profissao": "Policial Federal", 
@@ -2618,8 +2481,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/bolsonaro.enb/", 
         "politico_instagram": "https://www.instagram.com/bolsonarosp/", 
         "title": "EDUARDO BOLSONARO", 
-        "politico_email": "dep.eduardobolsonaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/bolsonarosp"
+        "politico_email": "dep.eduardobolsonaro@camara.leg.br"
     }, 
     "142": {
         "politico_profissao": "Economista", 
@@ -2637,8 +2499,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoEduardoCunha", 
         "politico_instagram": "https://www.instagram.com/depeduardocunha/", 
         "title": "EDUARDO CUNHA", 
-        "politico_email": "dep.eduardocunha@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/DepEduardoCunha"
+        "politico_email": "dep.eduardocunha@camara.leg.br"
     }, 
     "143": {
         "politico_profissao": "Engenheiro Mec\u00e2nico", 
@@ -2656,8 +2517,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/EduardoCuryOficial/", 
         "politico_instagram": "https://www.instagram.com/eduardocuryoficial/", 
         "title": "EDUARDO CURY", 
-        "politico_email": "dep.eduardocury@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/eduardo_cury"
+        "politico_email": "dep.eduardocury@camara.leg.br"
     }, 
     "144": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -2675,8 +2535,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dududafonte", 
         "politico_instagram": "", 
         "title": "EDUARDO DA FONTE", 
-        "politico_email": "dep.eduardodafonte@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/eduardodafonte"
+        "politico_email": "dep.eduardodafonte@camara.leg.br"
     }, 
     "145": {
         "politico_profissao": "Advogado", 
@@ -2694,8 +2553,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Efraim-Filho_2511-810714015625617/", 
         "politico_instagram": "https://instagram.com/efraimfilhopb", 
         "title": "EFRAIM FILHO", 
-        "politico_email": "dep.efraimfilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/efraimfilho"
+        "politico_email": "dep.efraimfilho@camara.leg.br"
     }, 
     "146": {
         "politico_profissao": "Pedagoga", 
@@ -2713,8 +2571,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/elcionepmdb/", 
         "politico_instagram": "", 
         "title": "ELCIONE BARBALHO", 
-        "politico_email": "dep.elcionebarbalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/elcionepmdb"
+        "politico_email": "dep.elcionebarbalho@camara.leg.br"
     }, 
     "147": {
         "politico_profissao": "Radialista", 
@@ -2732,8 +2589,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/EliCorreaFilho/", 
         "politico_instagram": "https://www.instagram.com/elicorreafilho/", 
         "title": "ELI CORR\u00caA FILHO", 
-        "politico_email": "dep.elicorreafilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/elicorreafilho"
+        "politico_email": "dep.elicorreafilho@camara.leg.br"
     }, 
     "148": {
         "politico_profissao": "Estudante Universit\u00e1rio", 
@@ -2751,8 +2607,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dionizioelizeu/", 
         "politico_instagram": "https://www.instagram.com/elizeudionizio/", 
         "title": "ELIZEU DIONIZIO", 
-        "politico_email": "dep.elizeudionizio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/elizeudionizio"
+        "politico_email": "dep.elizeudionizio@camara.leg.br"
     }, 
     "149": {
         "politico_profissao": "", 
@@ -2770,8 +2625,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/elizianegama", 
         "politico_instagram": "https://www.instagram.com/elizianegama/", 
         "title": "ELIZIANE GAMA", 
-        "politico_email": "dep.elizianegama@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/elizianegama"
+        "politico_email": "dep.elizianegama@camara.leg.br"
     }, 
     "150": {
         "politico_profissao": "Advogado(a)", 
@@ -2789,8 +2643,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/elmarnascimento/", 
         "politico_instagram": "", 
         "title": "ELMAR NASCIMENTO", 
-        "politico_email": "dep.elmarnascimento@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depelmar"
+        "politico_email": "dep.elmarnascimento@camara.leg.br"
     }, 
     "151": {
         "politico_profissao": "", 
@@ -2808,8 +2661,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/enioverri/", 
         "politico_instagram": "https://instagram.com/enioverri", 
         "title": "ENIO VERRI", 
-        "politico_email": "dep.enioverri@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/enioverri13"
+        "politico_email": "dep.enioverri@camara.leg.br"
     }, 
     "152": {
         "politico_profissao": "Banc\u00e1ria", 
@@ -2827,8 +2679,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ErikaKokay", 
         "politico_instagram": "http://instagram.com/erikakokay", 
         "title": "ERIKA KOKAY", 
-        "politico_email": "dep.erikakokay@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/erikakokay"
+        "politico_email": "dep.erikakokay@camara.leg.br"
     }, 
     "153": {
         "politico_profissao": "Assessor Pol\u00edtico, Auxiliar de Administra\u00e7\u00e3o", 
@@ -2846,8 +2697,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoeriveltonsantana/", 
         "politico_instagram": "", 
         "title": "ERIVELTON SANTANA", 
-        "politico_email": "dep.eriveltonsantana@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_erivelton"
+        "politico_email": "dep.eriveltonsantana@camara.leg.br"
     }, 
     "154": {
         "politico_profissao": "M\u00e9dico Veterin\u00e1rio, M\u00fasico", 
@@ -2865,8 +2715,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/erosbiondini/", 
         "politico_instagram": "https://www.instagram.com/erosbiondini/", 
         "title": "EROS BIONDINI", 
-        "politico_email": "dep.erosbiondini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/eros_1433"
+        "politico_email": "dep.erosbiondini@camara.leg.br"
     }, 
     "155": {
         "politico_profissao": "Administrador, Advogado, Professor Universit\u00e1rio", 
@@ -2884,8 +2733,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/esperidiaoamin/", 
         "politico_instagram": "", 
         "title": "ESPERIDI\u00c3O AMIN", 
-        "politico_email": "dep.esperidiaoamin@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/esperidiaoamin_"
+        "politico_email": "dep.esperidiaoamin@camara.leg.br"
     }, 
     "156": {
         "politico_profissao": "", 
@@ -2903,8 +2751,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/evair.vieirademelo/", 
         "politico_instagram": "", 
         "title": "EVAIR DE MELO", 
-        "politico_email": "dep.evairdemelo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/evairdemelo"
+        "politico_email": "dep.evairdemelo@camara.leg.br"
     }, 
     "157": {
         "politico_profissao": "Advogado(a),professor Universit\u00e1rio", 
@@ -2922,8 +2769,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/evandro.gussi/", 
         "politico_instagram": "", 
         "title": "EVANDRO GUSSI", 
-        "politico_email": "dep.evandrogussi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/evandrogussi"
+        "politico_email": "dep.evandrogussi@camara.leg.br"
     }, 
     "158": {
         "politico_profissao": "Professor de Educa\u00e7\u00e3o F\u00edsica", 
@@ -2941,8 +2787,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/evandrorogerio.roman/", 
         "politico_instagram": "https://www.instagram.com/evandroroman/", 
         "title": "EVANDRO ROMAN", 
-        "politico_email": "dep.evandroroman@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/roman_evandro"
+        "politico_email": "dep.evandroroman@camara.leg.br"
     }, 
     "159": {
         "politico_profissao": "", 
@@ -2960,8 +2805,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.expeditonetto/", 
         "politico_instagram": "", 
         "title": "EXPEDITO NETTO", 
-        "politico_email": "dep.expeditonetto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/netto_expedito"
+        "politico_email": "dep.expeditonetto@camara.leg.br"
     }, 
     "160": {
         "politico_profissao": "Advogado(a)", 
@@ -2979,8 +2823,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/EzequielFonsecaMT/", 
         "politico_instagram": "", 
         "title": "EZEQUIEL TEIXEIRA", 
-        "politico_email": "dep.ezequielteixeira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depezequiel"
+        "politico_email": "dep.ezequielteixeira@camara.leg.br"
     }, 
     "161": {
         "politico_profissao": "Administrador de Empresas", 
@@ -2998,8 +2841,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fabiofaria5555/", 
         "politico_instagram": "https://www.instagram.com/fabiofaria55/", 
         "title": "F\u00c1BIO FARIA", 
-        "politico_email": "dep.fabiofaria@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/fabiofaria5555"
+        "politico_email": "dep.fabiofaria@camara.leg.br"
     }, 
     "162": {
         "politico_profissao": "Engenheiro Civil", 
@@ -3017,8 +2859,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fabiogarcia4010", 
         "politico_instagram": "https://instagram.com/depfabiogarcia/", 
         "title": "FABIO GARCIA", 
-        "politico_email": "dep.fabiogarcia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/fabiogarcia4010"
+        "politico_email": "dep.fabiogarcia@camara.leg.br"
     }, 
     "163": {
         "politico_profissao": "", 
@@ -3036,8 +2877,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fabio.mitidieri.98/", 
         "politico_instagram": "", 
         "title": "F\u00c1BIO MITIDIERI", 
-        "politico_email": "dep.fabiomitidieri@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/FabioMitidieri1"
+        "politico_email": "dep.fabiomitidieri@camara.leg.br"
     }, 
     "164": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3055,8 +2895,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofabioramalho4311/", 
         "politico_instagram": "", 
         "title": "F\u00c1BIO RAMALHO", 
-        "politico_email": "dep.fabioramalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/_fabinhoramalho"
+        "politico_email": "dep.fabioramalho@camara.leg.br"
     }, 
     "165": {
         "politico_profissao": "", 
@@ -3074,8 +2913,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fabioreis1515", 
         "politico_instagram": "https://www.instagram.com/fabioreis1515", 
         "title": "FABIO REIS", 
-        "politico_email": "dep.fabioreis@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/fabio__reis"
+        "politico_email": "dep.fabioreis@camara.leg.br"
     }, 
     "166": {
         "politico_profissao": "Radialista, Apresentador de Televis\u00e3o, Pastor e Gestor P\u00fablico", 
@@ -3093,8 +2931,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/FabioSousaOficial/", 
         "politico_instagram": "", 
         "title": "F\u00c1BIO SOUSA", 
-        "politico_email": "dep.fabiosousa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depfabiosousa"
+        "politico_email": "dep.fabiosousa@camara.leg.br"
     }, 
     "167": {
         "politico_profissao": "Advogado(a)", 
@@ -3112,8 +2949,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/faustopinato/", 
         "politico_instagram": "", 
         "title": "FAUSTO PINATO", 
-        "politico_email": "dep.faustopinato@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/faustopinato10"
+        "politico_email": "dep.faustopinato@camara.leg.br"
     }, 
     "168": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3131,8 +2967,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/FelipeBornier/", 
         "politico_instagram": "https://www.instagram.com/felipebornier", 
         "title": "FELIPE BORNIER", 
-        "politico_email": "dep.felipebornier@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/felipebornierrj"
+        "politico_email": "dep.felipebornier@camara.leg.br"
     }, 
     "169": {
         "politico_profissao": "Advogado", 
@@ -3150,8 +2985,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/felipemaiarn", 
         "politico_instagram": "https://instagram.com/depfelipemaia", 
         "title": "FELIPE MAIA", 
-        "politico_email": "dep.felipemaia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depfelipemaia"
+        "politico_email": "dep.felipemaia@camara.leg.br"
     }, 
     "170": {
         "politico_profissao": "", 
@@ -3169,8 +3003,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/felixjunior1234/", 
         "politico_instagram": "", 
         "title": "F\u00c9LIX MENDON\u00c7A J\u00daNIOR", 
-        "politico_email": "dep.felixmendoncajunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/felixmendoncajr"
+        "politico_email": "dep.felixmendoncajunior@camara.leg.br"
     }, 
     "171": {
         "politico_profissao": "Administrador de Empresas", 
@@ -3188,8 +3021,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fernandofilhope", 
         "politico_instagram": "https://www.instagram.com/fbcfilho/", 
         "title": "FERNANDO COELHO FILHO", 
-        "politico_email": "dep.fernandocoelhofilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/fbcfilho"
+        "politico_email": "dep.fernandocoelhofilho@camara.leg.br"
     }, 
     "172": {
         "politico_profissao": "Delegado de Pol\u00edcia Federal", 
@@ -3207,8 +3039,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/FernandoFrancischiniBR/", 
         "politico_instagram": "https://www.instagram.com/fernando_francischini_/", 
         "title": "FERNANDO FRANCISCHINI", 
-        "politico_email": "dep.fernandofrancischini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/francischini_"
+        "politico_email": "dep.fernandofrancischini@camara.leg.br"
     }, 
     "173": {
         "politico_profissao": "", 
@@ -3226,8 +3057,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fernando.jordao", 
         "politico_instagram": "", 
         "title": "FERNANDO JORD\u00c3O", 
-        "politico_email": "dep.fernandojordao@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.fernandojordao@camara.leg.br"
     }, 
     "174": {
         "politico_profissao": "", 
@@ -3245,8 +3075,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fmonteiro2014", 
         "politico_instagram": "https://instagram.com/fernandomonteirope/", 
         "title": "FERNANDO MONTEIRO", 
-        "politico_email": "dep.fernandomonteiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/monteirofer"
+        "politico_email": "dep.fernandomonteiro@camara.leg.br"
     }, 
     "175": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3264,8 +3093,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofernandotorres", 
         "politico_instagram": "", 
         "title": "FERNANDO TORRES", 
-        "politico_email": "dep.fernandotorres@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/torrespsd5528"
+        "politico_email": "dep.fernandotorres@camara.leg.br"
     }, 
     "176": {
         "politico_profissao": "Professora de Educa\u00e7\u00e3o F\u00edsica", 
@@ -3283,8 +3111,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/flaviamoraisoficial", 
         "politico_instagram": "", 
         "title": "FL\u00c1VIA MORAIS", 
-        "politico_email": "dep.flaviamorais@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depflaviamorais"
+        "politico_email": "dep.flaviamorais@camara.leg.br"
     }, 
     "177": {
         "politico_profissao": "Engenheiro Civil", 
@@ -3302,8 +3129,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/flavianomelo15", 
         "politico_instagram": "", 
         "title": "FLAVIANO MELO", 
-        "politico_email": "dep.flavianomelo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/flaviano_melo"
+        "politico_email": "dep.flavianomelo@camara.leg.br"
     }, 
     "178": {
         "politico_profissao": "Apresentador de Televis\u00e3o,cantor,compositor,empres\u00e1rio,escritor,locutor", 
@@ -3321,8 +3147,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Flavinhocn/", 
         "politico_instagram": "https://www.instagram.com/flavinhocn", 
         "title": "FLAVINHO", 
-        "politico_email": "dep.flavinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/flavinhocn"
+        "politico_email": "dep.flavinho@camara.leg.br"
     }, 
     "180": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3340,8 +3165,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/chapadinha55", 
         "politico_instagram": "", 
         "title": "FRANCISCO CHAPADINHA", 
-        "politico_email": "dep.franciscochapadinha@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/chapadinha55"
+        "politico_email": "dep.franciscochapadinha@camara.leg.br"
     }, 
     "181": {
         "politico_profissao": "Apresentador de Televis\u00e3o, Locutor, Publicit\u00e1rio, Representante Comercial", 
@@ -3359,8 +3183,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepFranciscoFloriano", 
         "politico_instagram": "", 
         "title": "FRANCISCO FLORIANO", 
-        "politico_email": "dep.franciscofloriano@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_francisco"
+        "politico_email": "dep.franciscofloriano@camara.leg.br"
     }, 
     "182": {
         "politico_profissao": "pastor", 
@@ -3378,8 +3201,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Pastor-Franklin-Lima-1386517181671346/?fref=ts", 
         "politico_instagram": "", 
         "title": "FRANKLIN LIMA", 
-        "politico_email": "dep.franklinlima@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.franklinlima@camara.leg.br"
     }, 
     "183": {
         "politico_profissao": "Advogado", 
@@ -3397,8 +3219,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/gabrielguimaraesmg/", 
         "politico_instagram": "https://www.instagram.com/gabrielguimaraesmg/", 
         "title": "GABRIEL GUIMAR\u00c3ES", 
-        "politico_email": "dep.gabrielguimaraes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/gguimaraespt"
+        "politico_email": "dep.gabrielguimaraes@camara.leg.br"
     }, 
     "184": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3416,8 +3237,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Federal-Genecias-Noronha-213910975288105/", 
         "politico_instagram": "https://instagram.com/geneciasnoronha/", 
         "title": "GENECIAS NORONHA", 
-        "politico_email": "dep.geneciasnoronha@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depgenecias"
+        "politico_email": "dep.geneciasnoronha@camara.leg.br"
     }, 
     "185": {
         "politico_profissao": "Administradora de Empresas", 
@@ -3435,8 +3255,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/geovaniasarodrigues", 
         "politico_instagram": "https://www.instagram.com/geovaniasa", 
         "title": "GEOVANIA DE S\u00c1", 
-        "politico_email": "dep.geovaniadesa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/geovaniadesa"
+        "politico_email": "dep.geovaniadesa@camara.leg.br"
     }, 
     "186": {
         "politico_profissao": "M\u00e9dico e Gr\u00e1fico", 
@@ -3454,8 +3273,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/GeraldoResendeMS/", 
         "politico_instagram": "", 
         "title": "GERALDO RESENDE", 
-        "politico_email": "dep.geraldoresende@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_geraldo"
+        "politico_email": "dep.geraldoresende@camara.leg.br"
     }, 
     "187": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3473,8 +3291,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/giacobofernando", 
         "politico_instagram": "", 
         "title": "GIACOBO", 
-        "politico_email": "dep.giacobo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/giacobofernando"
+        "politico_email": "dep.giacobo@camara.leg.br"
     }, 
     "188": {
         "politico_profissao": "Advogado e Delegado de Pol\u00edcia", 
@@ -3492,15 +3309,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/gilbertonascimento.psc20/", 
         "politico_instagram": "https://www.instagram.com/gnascimento_20/", 
         "title": "GILBERTO NASCIMENTO", 
-        "politico_email": "dep.gilbertonascimento@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/comunicagr"
+        "politico_email": "dep.gilbertonascimento@camara.leg.br"
     }, 
     "189": {
         "politico_profissao": "Tecn\u00f3logo Em Cooperativismo", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "189", 
         "politico_partido": "PDT", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5468", 
         "politico_estado": "RS", 
@@ -3511,8 +3327,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadogiovanicherini", 
         "politico_instagram": "https://www.instagram.com/deputadogiovanicherini/", 
         "title": "GIOVANI CHERINI", 
-        "politico_email": "dep.giovanicherini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/giovanicherini"
+        "politico_email": "dep.giovanicherini@camara.leg.br"
     }, 
     "190": {
         "politico_profissao": "Economista", 
@@ -3530,8 +3345,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/G.Vecci45/", 
         "politico_instagram": "https://www.instagram.com/gvecci/", 
         "title": "GIUSEPPE VECCI", 
-        "politico_email": "dep.giuseppevecci@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depvecci45"
+        "politico_email": "dep.giuseppevecci@camara.leg.br"
     }, 
     "191": {
         "politico_profissao": "Comerciante e Gr\u00e1fico", 
@@ -3549,8 +3363,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/carimbao/", 
         "politico_instagram": "", 
         "title": "GIVALDO CARIMB\u00c3O", 
-        "politico_email": "dep.givaldocarimbao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/givaldocarimbao"
+        "politico_email": "dep.givaldocarimbao@camara.leg.br"
     }, 
     "192": {
         "politico_profissao": "Advogado(a)", 
@@ -3568,8 +3381,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/GivaldoVieiraES/", 
         "politico_instagram": "https://instagram.com/givaldovieira_es/", 
         "title": "GIVALDO VIEIRA", 
-        "politico_email": "dep.givaldovieira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/givaldovieira"
+        "politico_email": "dep.givaldovieira@camara.leg.br"
     }, 
     "193": {
         "politico_profissao": "Bacharel Em Direito", 
@@ -3587,8 +3399,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/glauber.braga1/", 
         "politico_instagram": "https://www.instagram.com/glauberbraga_oficial", 
         "title": "GLAUBER BRAGA", 
-        "politico_email": "dep.glauberbraga@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/glauber_braga"
+        "politico_email": "dep.glauberbraga@camara.leg.br"
     }, 
     "194": {
         "politico_profissao": "Advogado, Contador , Administrador de Empresas e Jornalista.", 
@@ -3606,8 +3417,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepGonzagaPatriota/", 
         "politico_instagram": "", 
         "title": "GONZAGA PATRIOTA", 
-        "politico_email": "dep.gonzagapatriota@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.gonzagapatriota@camara.leg.br"
     }, 
     "195": {
         "politico_profissao": "Fisioterapeuta", 
@@ -3625,8 +3435,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadagoretepereira", 
         "politico_instagram": "", 
         "title": "GORETE PEREIRA", 
-        "politico_email": "dep.goretepereira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/d_goretepereira"
+        "politico_email": "dep.goretepereira@camara.leg.br"
     }, 
     "196": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3644,8 +3453,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/goulartoficial", 
         "politico_instagram": "https://www.instagram.com/goulart_oficial/", 
         "title": "GOULART", 
-        "politico_email": "dep.goulart@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.goulart@camara.leg.br"
     }, 
     "197": {
         "politico_profissao": "Administrador de Empresas", 
@@ -3663,8 +3471,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoguilhermemussi", 
         "politico_instagram": "https://www.instagram.com/deputadoguilhermemussi", 
         "title": "GUILHERME MUSSI", 
-        "politico_email": "dep.guilhermemussi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/guilhermemussi"
+        "politico_email": "dep.guilhermemussi@camara.leg.br"
     }, 
     "198": {
         "politico_profissao": "Agricultor Familiar", 
@@ -3682,8 +3489,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/heitorschuchoficial", 
         "politico_instagram": "", 
         "title": "HEITOR SCHUCH", 
-        "politico_email": "dep.heitorschuch@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/heitorschuch"
+        "politico_email": "dep.heitorschuch@camara.leg.br"
     }, 
     "199": {
         "politico_profissao": "Professor(a)", 
@@ -3701,8 +3507,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/helder.salomao.313/", 
         "politico_instagram": "https://www.instagram.com/heldersalomao/", 
         "title": "HELDER SALOM\u00c3O", 
-        "politico_email": "dep.heldersalomao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/heldersalomao"
+        "politico_email": "dep.heldersalomao@camara.leg.br"
     }, 
     "200": {
         "politico_profissao": "Corretor de Im\u00f3veis", 
@@ -3720,8 +3525,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/HelioLeite2525/", 
         "politico_instagram": "", 
         "title": "H\u00c9LIO LEITE", 
-        "politico_email": "dep.helioleite@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/h_leite"
+        "politico_email": "dep.helioleite@camara.leg.br"
     }, 
     "201": {
         "politico_profissao": "M\u00e9dico e Administrador de Empresas", 
@@ -3739,8 +3543,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadohenriquefontana/", 
         "politico_instagram": "", 
         "title": "HENRIQUE FONTANA", 
-        "politico_email": "dep.henriquefontana@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/henriquefontana"
+        "politico_email": "dep.henriquefontana@camara.leg.br"
     }, 
     "202": {
         "politico_profissao": "Servidor P\u00fablico", 
@@ -3758,8 +3561,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/hfortespi/", 
         "politico_instagram": "http://instagram.com/heraclitofortes", 
         "title": "HER\u00c1CLITO FORTES", 
-        "politico_email": "dep.heraclitofortes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/heraclitopi"
+        "politico_email": "dep.heraclitofortes@camara.leg.br"
     }, 
     "203": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -3777,8 +3579,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/HerculanoPassosJr", 
         "politico_instagram": "", 
         "title": "HERCULANO PASSOS", 
-        "politico_email": "dep.herculanopassos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/herculanopassos"
+        "politico_email": "dep.herculanopassos@camara.leg.br"
     }, 
     "204": {
         "politico_profissao": "Contador", 
@@ -3796,8 +3597,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "HERMES PARCIANELLO", 
-        "politico_email": "dep.hermesparcianello@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.hermesparcianello@camara.leg.br"
     }, 
     "205": {
         "politico_profissao": "Agr\u00f4nomo", 
@@ -3815,8 +3615,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/heuler.cruvinel.7/", 
         "politico_instagram": "", 
         "title": "HEULER CRUVINEL", 
-        "politico_email": "dep.heulercruvinel@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/heuler5500"
+        "politico_email": "dep.heulercruvinel@camara.leg.br"
     }, 
     "206": {
         "politico_profissao": "", 
@@ -3834,8 +3633,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/hildorocha1", 
         "politico_instagram": "https://instagram.com/hildorocha/", 
         "title": "HILDO ROCHA", 
-        "politico_email": "dep.hildorocha@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/hildorocha"
+        "politico_email": "dep.hildorocha@camara.leg.br"
     }, 
     "207": {
         "politico_profissao": "M\u00e9dico Legista,m\u00e9dico(a)", 
@@ -3853,8 +3651,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoHiranGoncalves", 
         "politico_instagram": "", 
         "title": "HIRAN GON\u00c7ALVES", 
-        "politico_email": "dep.hirangoncalves@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.hirangoncalves@camara.leg.br"
     }, 
     "208": {
         "politico_profissao": "Comerciante", 
@@ -3872,8 +3669,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/hissa.abrahao/", 
         "politico_instagram": "https://www.instagram.com/hissaabrahao/", 
         "title": "HISSA ABRAH\u00c3O", 
-        "politico_email": "dep.hissaabrahao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/hissa_abrahao"
+        "politico_email": "dep.hissaabrahao@camara.leg.br"
     }, 
     "209": {
         "politico_profissao": "Advogado", 
@@ -3891,8 +3687,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadohugoleal", 
         "politico_instagram": "https://instagram.com/dephugoleal/", 
         "title": "HUGO LEAL", 
-        "politico_email": "dep.hugoleal@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dephugoleal"
+        "politico_email": "dep.hugoleal@camara.leg.br"
     }, 
     "210": {
         "politico_profissao": "Estudante Universit\u00e1rio", 
@@ -3910,8 +3705,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/hugomottapb/", 
         "politico_instagram": "https://instagram.com/hugomottapb", 
         "title": "HUGO MOTTA", 
-        "politico_email": "dep.hugomotta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/hugomottapb"
+        "politico_email": "dep.hugomotta@camara.leg.br"
     }, 
     "211": {
         "politico_profissao": "Advogado", 
@@ -3929,8 +3723,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/indiodacosta/", 
         "politico_instagram": "https://www.instagram.com/indio.dacosta/", 
         "title": "INDIO DA COSTA", 
-        "politico_email": "dep.indiodacosta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/indio"
+        "politico_email": "dep.indiodacosta@camara.leg.br"
     }, 
     "212": {
         "politico_profissao": "Empres\u00e1ria, Professor", 
@@ -3948,8 +3741,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/iracemaportella/", 
         "politico_instagram": "", 
         "title": "IRACEMA PORTELLA", 
-        "politico_email": "dep.iracemaportella@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/iracemaportela"
+        "politico_email": "dep.iracemaportella@camara.leg.br"
     }, 
     "213": {
         "politico_profissao": "Empres\u00e1rio, Produtor Rural", 
@@ -3967,8 +3759,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/irajaabreu/", 
         "politico_instagram": "https://instagram.com/iraja_abreu/", 
         "title": "IRAJ\u00c1 ABREU", 
-        "politico_email": "dep.irajaabreu@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/irajaabreu"
+        "politico_email": "dep.irajaabreu@camara.leg.br"
     }, 
     "214": {
         "politico_profissao": "Cantor,compositor,m\u00fasico", 
@@ -3986,8 +3777,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Irm\u00e3o-L\u00e1zaro-741329655946890/", 
         "politico_instagram": "", 
         "title": "IRM\u00c3O LAZARO", 
-        "politico_email": "dep.irmaolazaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/irmaolazaro"
+        "politico_email": "dep.irmaolazaro@camara.leg.br"
     }, 
     "215": {
         "politico_profissao": "Matem\u00e1tico e Engenheiro.", 
@@ -4005,8 +3795,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/IvanValentePSOL/", 
         "politico_instagram": "https://www.instagram.com/ivanvalentepsol", 
         "title": "IVAN VALENTE", 
-        "politico_email": "dep.ivanvalente@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_ivanvalente"
+        "politico_email": "dep.ivanvalente@camara.leg.br"
     }, 
     "216": {
         "politico_profissao": "Professor e Contador", 
@@ -4024,8 +3813,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/izalci/", 
         "politico_instagram": "https://www.instagram.com/izalci/", 
         "title": "IZALCI", 
-        "politico_email": "dep.izalci@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/izalcilucas"
+        "politico_email": "dep.izalci@camara.leg.br"
     }, 
     "217": {
         "politico_profissao": "Empres\u00e1rio, Engenheiro e Advogado", 
@@ -4043,8 +3831,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jaiminho.martins", 
         "politico_instagram": "", 
         "title": "JAIME MARTINS", 
-        "politico_email": "dep.jaimemartins@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jaiminhomartins"
+        "politico_email": "dep.jaimemartins@camara.leg.br"
     }, 
     "218": {
         "politico_profissao": "Militar", 
@@ -4062,8 +3849,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jairmessias.bolsonaro", 
         "politico_instagram": "https://www.instagram.com/jairmessiasbolsonaro/", 
         "title": "JAIR BOLSONARO", 
-        "politico_email": "dep.jairbolsonaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depbolsonaro"
+        "politico_email": "dep.jairbolsonaro@camara.leg.br"
     }, 
     "219": {
         "politico_profissao": "M\u00e9dico, M\u00fasico", 
@@ -4081,8 +3867,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sigajandira2", 
         "politico_instagram": "https://www.instagram.com/jfeghali", 
         "title": "JANDIRA FEGHALI", 
-        "politico_email": "dep.jandirafeghali@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jandira_feghali"
+        "politico_email": "dep.jandirafeghali@camara.leg.br"
     }, 
     "220": {
         "politico_profissao": "", 
@@ -4100,8 +3885,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Janete-Capiberibe-263657017084590/", 
         "politico_instagram": "https://instagram.com/janetecapi/", 
         "title": "JANETE CAPIBERIBE", 
-        "politico_email": "dep.janetecapiberibe@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/janetecapi"
+        "politico_email": "dep.janetecapiberibe@camara.leg.br"
     }, 
     "221": {
         "politico_profissao": "Advogado(a),funcion\u00e1rio P\u00fablico", 
@@ -4119,8 +3903,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JarbasVasconcelos/", 
         "politico_instagram": "", 
         "title": "JARBAS VASCONCELOS", 
-        "politico_email": "dep.jarbasvasconcelos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ejarbas15"
+        "politico_email": "dep.jarbasvasconcelos@camara.leg.br"
     }, 
     "222": {
         "politico_profissao": "Comunicador, Escritor, Jornalista, Professor Universit\u00e1rio", 
@@ -4138,8 +3921,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jean.wyllys/", 
         "politico_instagram": "https://www.instagram.com/jeanwyllys_real/", 
         "title": "JEAN WYLLYS", 
-        "politico_email": "dep.jeanwyllys@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jeanwyllys_real"
+        "politico_email": "dep.jeanwyllys@camara.leg.br"
     }, 
     "223": {
         "politico_profissao": "Ministro do Evangelho, Advogado, Tecnologo, Radialista, Bacharel Em Teologia", 
@@ -4157,8 +3939,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/PrJeffersonCampos/", 
         "politico_instagram": "https://instagram.com/depjefferson/", 
         "title": "JEFFERSON CAMPOS", 
-        "politico_email": "dep.jeffersoncampos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjefferson"
+        "politico_email": "dep.jeffersoncampos@camara.leg.br"
     }, 
     "224": {
         "politico_profissao": "Advogado", 
@@ -4176,8 +3957,7 @@ var deputados = {
         "politico_facebook": "https://twitter.com/jeronimogoergen", 
         "politico_instagram": "https://instagram.com/jeronimogoergen/", 
         "title": "JER\u00d4NIMO GOERGEN", 
-        "politico_email": "dep.jeronimogoergen@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.jeronimogoergen@camara.leg.br"
     }, 
     "225": {
         "politico_profissao": "", 
@@ -4195,8 +3975,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.jessicasales", 
         "politico_instagram": "", 
         "title": "J\u00c9SSICA SALES", 
-        "politico_email": "dep.jessicasales@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.jessicasales@camara.leg.br"
     }, 
     "226": {
         "politico_profissao": "", 
@@ -4214,8 +3993,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado.JHC/", 
         "politico_instagram": "https://www.instagram.com/deputadojhc", 
         "title": "JHC", 
-        "politico_email": "dep.jhc@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadojhc"
+        "politico_email": "dep.jhc@camara.leg.br"
     }, 
     "227": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -4233,8 +4011,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepJhonatanJesus/", 
         "politico_instagram": "https://instagram.com/jhonatandejesus/", 
         "title": "JHONATAN DE JESUS", 
-        "politico_email": "dep.jhonatandejesus@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jhonatan_djesus"
+        "politico_email": "dep.jhonatandejesus@camara.leg.br"
     }, 
     "228": {
         "politico_profissao": "Funcion\u00e1ria P\u00fablica", 
@@ -4252,8 +4029,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadajomoraes/", 
         "politico_instagram": "", 
         "title": "J\u00d4 MORAES", 
-        "politico_email": "dep.jomoraes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jomoraes"
+        "politico_email": "dep.jomoraes@camara.leg.br"
     }, 
     "229": {
         "politico_profissao": "Bacharel Em Ci\u00eancias F\u00edsicas e Naturais", 
@@ -4271,8 +4047,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JoaoArruda15/", 
         "politico_instagram": "https://www.instagram.com/joao_arruda/", 
         "title": "JO\u00c3O ARRUDA", 
-        "politico_email": "dep.joaoarruda@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joao_arruda"
+        "politico_email": "dep.joaoarruda@camara.leg.br"
     }, 
     "230": {
         "politico_profissao": "Delegado de Pol\u00edcia de Classe Especial", 
@@ -4290,8 +4065,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojoaocampos/", 
         "politico_instagram": "", 
         "title": "JO\u00c3O CAMPOS", 
-        "politico_email": "dep.joaocampos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjoaocampos"
+        "politico_email": "dep.joaocampos@camara.leg.br"
     }, 
     "231": {
         "politico_profissao": "Engenheiro Civil", 
@@ -4309,8 +4083,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Jo%25C3%25A3o-Carlos-Bacelar-543245952454205/", 
         "politico_instagram": "", 
         "title": "JO\u00c3O CARLOS BACELAR", 
-        "politico_email": "dep.joaocarlosbacelar@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joaocarlosbacelar@camara.leg.br"
     }, 
     "232": {
         "politico_profissao": "Empres\u00e1rio e Advogado", 
@@ -4328,8 +4101,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/joaocastelo", 
         "politico_instagram": "", 
         "title": "JO\u00c3O CASTELO", 
-        "politico_email": "dep.joaocastelo@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joaocastelo@camara.leg.br"
     }, 
     "233": {
         "politico_profissao": "Agricultor", 
@@ -4347,8 +4119,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojoaodaniel/", 
         "politico_instagram": "", 
         "title": "JO\u00c3O DANIEL", 
-        "politico_email": "dep.joaodaniel@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joaodanielpt"
+        "politico_email": "dep.joaodaniel@camara.leg.br"
     }, 
     "234": {
         "politico_profissao": "", 
@@ -4366,8 +4137,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JoaoDerlyOficial", 
         "politico_instagram": "https://www.instagram.com/joaoderly/", 
         "title": "JO\u00c3O DERLY", 
-        "politico_email": "dep.joaoderly@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joaoderly"
+        "politico_email": "dep.joaoderly@camara.leg.br"
     }, 
     "235": {
         "politico_profissao": "", 
@@ -4385,8 +4155,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/joaofernandocoutinho/", 
         "politico_instagram": "", 
         "title": "JO\u00c3O FERNANDO COUTINHO", 
-        "politico_email": "dep.joaofernandocoutinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joaofernandope"
+        "politico_email": "dep.joaofernandocoutinho@camara.leg.br"
     }, 
     "236": {
         "politico_profissao": "", 
@@ -4404,8 +4173,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JoaoGualbertoOficial", 
         "politico_instagram": "", 
         "title": "JO\u00c3O GUALBERTO", 
-        "politico_email": "dep.joaogualberto@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joaogualberto@camara.leg.br"
     }, 
     "237": {
         "politico_profissao": "Psic\u00f3logo", 
@@ -4423,8 +4191,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Jo%25C3%25A3o-Marcelo-1555-1648893302002419", 
         "politico_instagram": "", 
         "title": "JO\u00c3O MARCELO SOUZA", 
-        "politico_email": "dep.joaomarcelosouza@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joaomarcelosouza@camara.leg.br"
     }, 
     "238": {
         "politico_profissao": "Engenheiro,professor(a)", 
@@ -4442,8 +4209,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/joaopaulopapaoficial/", 
         "politico_instagram": "https://www.instagram.com/joaopaulopapaoficial/", 
         "title": "JO\u00c3O PAULO PAPA", 
-        "politico_email": "dep.joaopaulopapa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/CesarMessias_Ac"
+        "politico_email": "dep.joaopaulopapa@camara.leg.br"
     }, 
     "239": {
         "politico_profissao": "Empres\u00e1rio, Radialista", 
@@ -4461,8 +4227,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JoaoRodriguesprincipal", 
         "politico_instagram": "https://www.instagram.com/joaorodriguessc/", 
         "title": "JO\u00c3O RODRIGUES", 
-        "politico_email": "dep.joaorodrigues@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joaorodriguessc"
+        "politico_email": "dep.joaorodrigues@camara.leg.br"
     }, 
     "240": {
         "politico_profissao": "Arquiteto", 
@@ -4480,15 +4245,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/joaquimpassarinhooficial/", 
         "politico_instagram": "", 
         "title": "JOAQUIM PASSARINHO", 
-        "politico_email": "dep.joaquimpassarinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joaquimpassarin"
+        "politico_email": "dep.joaquimpassarinho@camara.leg.br"
     }, 
     "241": {
         "politico_profissao": "Radialista", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "241", 
         "politico_partido": "PRB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5807", 
         "politico_estado": "SE", 
@@ -4499,8 +4263,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jony.marcos.1", 
         "politico_instagram": "", 
         "title": "JONY MARCOS", 
-        "politico_email": "dep.jonymarcos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_jonymarcos"
+        "politico_email": "dep.jonymarcos@camara.leg.br"
     }, 
     "242": {
         "politico_profissao": "Engenheiro Mec\u00e2nico.", 
@@ -4518,8 +4281,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Jorge-Boeira-118820584879830/", 
         "politico_instagram": "", 
         "title": "JORGE BOEIRA", 
-        "politico_email": "dep.jorgeboeira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoboeira"
+        "politico_email": "dep.jorgeboeira@camara.leg.br"
     }, 
     "243": {
         "politico_profissao": "Engenheiro Civil", 
@@ -4537,8 +4299,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jorgecorterealpe/", 
         "politico_instagram": "https://www.instagram.com/jorgecreal/", 
         "title": "JORGE C\u00d4RTE REAL", 
-        "politico_email": "dep.jorgecortereal@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jorgecortereal"
+        "politico_email": "dep.jorgecortereal@camara.leg.br"
     }, 
     "244": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -4556,8 +4317,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depjorgesolla", 
         "politico_instagram": "", 
         "title": "JORGE SOLLA", 
-        "politico_email": "dep.jorgesolla@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjorgesolla"
+        "politico_email": "dep.jorgesolla@camara.leg.br"
     }, 
     "245": {
         "politico_profissao": "Engenheiro Civil", 
@@ -4575,8 +4335,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojorgetadeu/", 
         "politico_instagram": "https://instagram.com/deputadojorgetadeu/", 
         "title": "JORGE TADEU MUDALEN", 
-        "politico_email": "dep.jorgetadeumudalen@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jtadeumudalen"
+        "politico_email": "dep.jorgetadeumudalen@camara.leg.br"
     }, 
     "246": {
         "politico_profissao": "Advogado, Banc\u00e1rio", 
@@ -4594,8 +4353,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jorginhomello.sc/", 
         "politico_instagram": "", 
         "title": "JORGINHO MELLO", 
-        "politico_email": "dep.jorginhomello@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jorginhomello"
+        "politico_email": "dep.jorginhomello@camara.leg.br"
     }, 
     "247": {
         "politico_profissao": "Advogado e Engenheiro Civil", 
@@ -4613,8 +4371,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Joseairtoncirilo/", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 AIRTON CIRILO", 
-        "politico_email": "dep.joseairtoncirilo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/joseairtonpt"
+        "politico_email": "dep.joseairtoncirilo@camara.leg.br"
     }, 
     "248": {
         "politico_profissao": "M\u00e9dico", 
@@ -4632,8 +4389,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/tampinha1212/", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 AUGUSTO CURVO", 
-        "politico_email": "dep.joseaugustocurvo@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joseaugustocurvo@camara.leg.br"
     }, 
     "249": {
         "politico_profissao": "Professor Universit\u00e1rio e Engenheiro El\u00e9trico", 
@@ -4651,8 +4407,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/josecarlosaleluia/", 
         "politico_instagram": "https://instagram.com/josecarlosaleluia/", 
         "title": "JOS\u00c9 CARLOS ALELUIA", 
-        "politico_email": "dep.josecarlosaleluia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/aleluiacosta"
+        "politico_email": "dep.josecarlosaleluia@camara.leg.br"
     }, 
     "250": {
         "politico_profissao": "Administrador.", 
@@ -4670,8 +4425,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojosecarlosaraujo/", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 CARLOS ARA\u00daJO", 
-        "politico_email": "dep.josecarlosaraujo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjosecarlos"
+        "politico_email": "dep.josecarlosaraujo@camara.leg.br"
     }, 
     "251": {
         "politico_profissao": "", 
@@ -4689,8 +4443,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/josefogacapoa/", 
         "politico_instagram": "https://www.instagram.com/josefog/", 
         "title": "JOS\u00c9 FOGA\u00c7A", 
-        "politico_email": "dep.josefogaca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jose_fogaca"
+        "politico_email": "dep.josefogaca@camara.leg.br"
     }, 
     "252": {
         "politico_profissao": "Advogado", 
@@ -4708,8 +4461,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoJoseGuimaraes/", 
         "politico_instagram": "https://www.instagram.com/guimaraes1322", 
         "title": "JOS\u00c9 GUIMAR\u00c3ES", 
-        "politico_email": "dep.joseguimaraes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/Dep_Guimaraes"
+        "politico_email": "dep.joseguimaraes@camara.leg.br"
     }, 
     "253": {
         "politico_profissao": "Advogado", 
@@ -4727,8 +4479,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JoseMentorPT/", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 MENTOR", 
-        "politico_email": "dep.josementor@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jose_mentor"
+        "politico_email": "dep.josementor@camara.leg.br"
     }, 
     "254": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -4746,8 +4497,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojosenunes", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 NUNES", 
-        "politico_email": "dep.josenunes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/josenunesDep"
+        "politico_email": "dep.josenunes@camara.leg.br"
     }, 
     "255": {
         "politico_profissao": "Advogado", 
@@ -4765,8 +4515,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Jos%25C3%25A9-Ot%25C3%25A1vio-Germano-1427594324119758/", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 OT\u00c1VIO GERMANO", 
-        "politico_email": "dep.joseotaviogermano@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jotaviogermano"
+        "politico_email": "dep.joseotaviogermano@camara.leg.br"
     }, 
     "256": {
         "politico_profissao": "Advogado", 
@@ -4784,8 +4533,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/AgoraePriante/", 
         "politico_instagram": "https://www.instagram.com/prianteoficial/", 
         "title": "JOS\u00c9 PRIANTE", 
-        "politico_email": "dep.josepriante@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/prianteoficial"
+        "politico_email": "dep.josepriante@camara.leg.br"
     }, 
     "257": {
         "politico_profissao": "Administrador P\u00fablico,engenheiro", 
@@ -4803,8 +4551,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 REINALDO", 
-        "politico_email": "dep.josereinaldo@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.josereinaldo@camara.leg.br"
     }, 
     "258": {
         "politico_profissao": "M\u00e9dico", 
@@ -4822,8 +4569,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.joserocha", 
         "politico_instagram": "", 
         "title": "JOS\u00c9 ROCHA", 
-        "politico_email": "dep.joserocha@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joserocha@camara.leg.br"
     }, 
     "259": {
         "politico_profissao": "Administrador P\u00fablico, Metal\u00fargico", 
@@ -4841,8 +4587,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jose.stedile4080", 
         "politico_instagram": "https://instagram.com/josestedile/", 
         "title": "JOSE ST\u00c9DILE", 
-        "politico_email": "dep.josestedile@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/josestedile"
+        "politico_email": "dep.josestedile@camara.leg.br"
     }, 
     "260": {
         "politico_profissao": "Professora Universit\u00e1ria,psic\u00f3loga", 
@@ -4860,15 +4605,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/josinunesto/", 
         "politico_instagram": "https://instagram.com/josinunesto/", 
         "title": "JOSI NUNES", 
-        "politico_email": "dep.josinunes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/josinunesto"
+        "politico_email": "dep.josinunes@camara.leg.br"
     }, 
     "261": {
         "politico_profissao": "Pastor Evang\u00e9lico", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "261", 
         "politico_partido": "PTB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5505", 
         "politico_estado": "PA", 
@@ -4879,8 +4623,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/JosueBengtsonUmsocoracao", 
         "politico_instagram": "https://www.instagram.com/prjosuebengtson/", 
         "title": "JOSU\u00c9 BENGTSON", 
-        "politico_email": "dep.josuebengtson@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/josuebengtson"
+        "politico_email": "dep.josuebengtson@camara.leg.br"
     }, 
     "262": {
         "politico_profissao": "Cirurgi\u00e3o-dentista", 
@@ -4898,8 +4641,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jovairarantes1414", 
         "politico_instagram": "https://instagram.com/jovair_arantes", 
         "title": "JOVAIR ARANTES", 
-        "politico_email": "dep.jovairarantes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jovair1414"
+        "politico_email": "dep.jovairarantes@camara.leg.br"
     }, 
     "263": {
         "politico_profissao": "", 
@@ -4917,8 +4659,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadajozirocha/", 
         "politico_instagram": "", 
         "title": "JOZI ARA\u00daJO", 
-        "politico_email": "dep.joziaraujo@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joziaraujo@camara.leg.br"
     }, 
     "264": {
         "politico_profissao": "", 
@@ -4936,8 +4677,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/J\u00falia-Marinho-762808637093675/", 
         "politico_instagram": "", 
         "title": "J\u00daLIA MARINHO", 
-        "politico_email": "dep.juliamarinho@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.juliamarinho@camara.leg.br"
     }, 
     "265": {
         "politico_profissao": "Professor, Advogado e Produtor Rural", 
@@ -4955,8 +4695,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depfederaljuliocesar/", 
         "politico_instagram": "", 
         "title": "J\u00daLIO CESAR", 
-        "politico_email": "dep.juliocesar@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjuliocesarpi"
+        "politico_email": "dep.juliocesar@camara.leg.br"
     }, 
     "266": {
         "politico_profissao": "Consultor e Advogado", 
@@ -4974,8 +4713,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/julio.delgado.1654", 
         "politico_instagram": "", 
         "title": "J\u00daLIO DELGADO", 
-        "politico_email": "dep.juliodelgado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjuliodelgado"
+        "politico_email": "dep.juliodelgado@camara.leg.br"
     }, 
     "267": {
         "politico_profissao": "Administrador de Empresas, Professor", 
@@ -4993,8 +4731,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/juliolopesfanpagerj/", 
         "politico_instagram": "https://www.instagram.com/juliolopes_rio/", 
         "title": "JULIO LOPES", 
-        "politico_email": "dep.juliolopes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/juliolopes_rj"
+        "politico_email": "dep.juliolopes@camara.leg.br"
     }, 
     "268": {
         "politico_profissao": "Advogado(a)", 
@@ -5012,8 +4749,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/juniormarrecaoficial", 
         "politico_instagram": "https://www.instagram.com/juniormarreca/", 
         "title": "JUNIOR MARRECA", 
-        "politico_email": "dep.juniormarreca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/juniormarreca"
+        "politico_email": "dep.juniormarreca@camara.leg.br"
     }, 
     "269": {
         "politico_profissao": "Empres\u00e1rio,m\u00e9dico(a)", 
@@ -5031,8 +4767,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepJuscelinoFilho/", 
         "politico_instagram": "https://www.instagram.com/juscelinofilho", 
         "title": "JUSCELINO FILHO", 
-        "politico_email": "dep.juscelinofilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depjuscelino"
+        "politico_email": "dep.juscelinofilho@camara.leg.br"
     }, 
     "270": {
         "politico_profissao": "Advogado", 
@@ -5050,8 +4785,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jutahymagalhaesjr", 
         "politico_instagram": "", 
         "title": "JUTAHY JUNIOR", 
-        "politico_email": "dep.jutahyjunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jotacosme"
+        "politico_email": "dep.jutahyjunior@camara.leg.br"
     }, 
     "271": {
         "politico_profissao": "", 
@@ -5069,8 +4803,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadokaiomanicoba", 
         "politico_instagram": "https://instagram.com/dep.kaio", 
         "title": "KAIO MANI\u00c7OBA", 
-        "politico_email": "dep.kaiomanicoba@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/kaiocmmnf"
+        "politico_email": "dep.kaiomanicoba@camara.leg.br"
     }, 
     "272": {
         "politico_profissao": "Empres\u00e1ria, Escritor", 
@@ -5088,8 +4821,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/keikootadeputada", 
         "politico_instagram": "", 
         "title": "KEIKO OTA", 
-        "politico_email": "dep.keikoota@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/keikoota_"
+        "politico_email": "dep.keikoota@camara.leg.br"
     }, 
     "273": {
         "politico_profissao": "Administrador de Empresas", 
@@ -5107,8 +4839,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadolaerciooliveira/", 
         "politico_instagram": "", 
         "title": "LAERCIO OLIVEIRA", 
-        "politico_email": "dep.laerciooliveira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/laerciofederal"
+        "politico_email": "dep.laerciooliveira@camara.leg.br"
     }, 
     "274": {
         "politico_profissao": "Delegado de Pol\u00edcia", 
@@ -5126,8 +4857,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Laerte-Bessa-449211941872123/", 
         "politico_instagram": "", 
         "title": "LAERTE BESSA", 
-        "politico_email": "dep.laertebessa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/laerte_bessa"
+        "politico_email": "dep.laertebessa@camara.leg.br"
     }, 
     "275": {
         "politico_profissao": "Jornalista", 
@@ -5145,8 +4875,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Laudiviocarvalho/", 
         "politico_instagram": "", 
         "title": "LAUDIVIO CARVALHO", 
-        "politico_email": "dep.laudiviocarvalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/laudivioc"
+        "politico_email": "dep.laudiviocarvalho@camara.leg.br"
     }, 
     "277": {
         "politico_profissao": "Empres\u00e1rio, Pecuarista", 
@@ -5164,8 +4893,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.lazaro/", 
         "politico_instagram": "", 
         "title": "L\u00c1ZARO BOTELHO", 
-        "politico_email": "dep.lazarobotelho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/lazarobotelho"
+        "politico_email": "dep.lazarobotelho@camara.leg.br"
     }, 
     "278": {
         "politico_profissao": "Engenheira Civil", 
@@ -5183,8 +4911,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/LeandreOficial/", 
         "politico_instagram": "", 
         "title": "LEANDRE", 
-        "politico_email": "dep.leandre@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/leandredaideal"
+        "politico_email": "dep.leandre@camara.leg.br"
     }, 
     "279": {
         "politico_profissao": "M\u00e9dico", 
@@ -5202,8 +4929,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/falecomlelo", 
         "politico_instagram": "", 
         "title": "LELO COIMBRA", 
-        "politico_email": "dep.lelocoimbra@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/lelocoimbra_"
+        "politico_email": "dep.lelocoimbra@camara.leg.br"
     }, 
     "280": {
         "politico_profissao": "Advogado(a),professor de Direito", 
@@ -5221,8 +4947,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/leodopt1331/", 
         "politico_instagram": "https://instagram.com/leodebritoacre/", 
         "title": "LEO DE BRITO", 
-        "politico_email": "dep.leodebrito@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/leodopt"
+        "politico_email": "dep.leodebrito@camara.leg.br"
     }, 
     "281": {
         "politico_profissao": "Advogado", 
@@ -5240,8 +4965,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depleomonteiro", 
         "politico_instagram": "", 
         "title": "LEONARDO MONTEIRO", 
-        "politico_email": "dep.leonardomonteiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depleomonteiro"
+        "politico_email": "dep.leonardomonteiro@camara.leg.br"
     }, 
     "282": {
         "politico_profissao": "Agropecuarista e Bacharel de Direito.", 
@@ -5259,8 +4983,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/leonardopicciani15/", 
         "politico_instagram": "", 
         "title": "LEONARDO PICCIANI", 
-        "politico_email": "dep.leonardopicciani@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depleopicciani"
+        "politico_email": "dep.leonardopicciani@camara.leg.br"
     }, 
     "283": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -5278,8 +5001,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoleonardoquintao/", 
         "politico_instagram": "https://www.instagram.com/leonardoquintao/", 
         "title": "LEONARDO QUINT\u00c3O", 
-        "politico_email": "dep.leonardoquintao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/leonardoquintao"
+        "politico_email": "dep.leonardoquintao@camara.leg.br"
     }, 
     "284": {
         "politico_profissao": "Engenheiro Civil.", 
@@ -5297,8 +5019,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/9099leonidascristino", 
         "politico_instagram": "", 
         "title": "LE\u00d4NIDAS CRISTINO", 
-        "politico_email": "dep.leonidascristino@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/leonidas9099"
+        "politico_email": "dep.leonidascristino@camara.leg.br"
     }, 
     "285": {
         "politico_profissao": "Engenheiro Civil", 
@@ -5316,8 +5037,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MeyerFanPage/", 
         "politico_instagram": "", 
         "title": "LEOPOLDO MEYER", 
-        "politico_email": "dep.leopoldomeyer@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/leopoldo_meyer"
+        "politico_email": "dep.leopoldomeyer@camara.leg.br"
     }, 
     "286": {
         "politico_profissao": "Radialista e Comunicador.", 
@@ -5335,15 +5055,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadolincolnportela/", 
         "politico_instagram": "", 
         "title": "LINCOLN PORTELA", 
-        "politico_email": "dep.lincolnportela@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/lincoln_portela"
+        "politico_email": "dep.lincolnportela@camara.leg.br"
     }, 
     "287": {
         "politico_profissao": "Comerciante", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "287", 
         "politico_partido": "PRB", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5548", 
         "politico_estado": "RO", 
@@ -5354,8 +5073,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/LindomarGarcon1521/", 
         "politico_instagram": "", 
         "title": "LINDOMAR GAR\u00c7ON", 
-        "politico_email": "dep.lindomargarcon@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depgarcon"
+        "politico_email": "dep.lindomargarcon@camara.leg.br"
     }, 
     "289": {
         "politico_profissao": "Administrador de Empresas e Corretor de Seguros", 
@@ -5373,8 +5091,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/lucasvergilio7777", 
         "politico_instagram": "", 
         "title": "LUCAS VERGILIO", 
-        "politico_email": "dep.lucasvergilio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vergiliolucas77"
+        "politico_email": "dep.lucasvergilio@camara.leg.br"
     }, 
     "290": {
         "politico_profissao": "Engenheiro El\u00e9trico", 
@@ -5392,8 +5109,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadalucianaoficial", 
         "politico_instagram": "https://instagram.com/deputadaluciana/", 
         "title": "LUCIANA SANTOS", 
-        "politico_email": "dep.lucianasantos@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.lucianasantos@camara.leg.br"
     }, 
     "291": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -5411,8 +5127,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/LucianoDucci/", 
         "politico_instagram": "", 
         "title": "LUCIANO DUCCI", 
-        "politico_email": "dep.lucianoducci@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/lucianoducci"
+        "politico_email": "dep.lucianoducci@camara.leg.br"
     }, 
     "292": {
         "politico_profissao": "Engenheiro Eletricista", 
@@ -5430,8 +5145,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoluciomosquini", 
         "politico_instagram": "https://www.instagram.com/luciomosquini", 
         "title": "LUCIO MOSQUINI", 
-        "politico_email": "dep.luciomosquini@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luciomosquini"
+        "politico_email": "dep.luciomosquini@camara.leg.br"
     }, 
     "293": {
         "politico_profissao": "Administrador de Empresas", 
@@ -5449,8 +5163,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luciovale22/", 
         "politico_instagram": "", 
         "title": "L\u00daCIO VALE", 
-        "politico_email": "dep.luciovale@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/LucioVale22"
+        "politico_email": "dep.luciovale@camara.leg.br"
     }, 
     "294": {
         "politico_profissao": "Cacauicultor, Engenheiro Agr\u00f4nomo, Pecuarista", 
@@ -5468,8 +5181,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luciovieiralima", 
         "politico_instagram": "", 
         "title": "LUCIO VIEIRA LIMA", 
-        "politico_email": "dep.luciovieiralima@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.luciovieiralima@camara.leg.br"
     }, 
     "295": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo e Produtor Rural", 
@@ -5487,8 +5199,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoheinze/", 
         "politico_instagram": "", 
         "title": "LUIS CARLOS HEINZE", 
-        "politico_email": "dep.luiscarlosheinze@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadoheinze"
+        "politico_email": "dep.luiscarlosheinze@camara.leg.br"
     }, 
     "296": {
         "politico_profissao": "", 
@@ -5506,8 +5217,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luis.tibeii/", 
         "politico_instagram": "https://www.instagram.com/luistibe/", 
         "title": "LUIS TIB\u00c9", 
-        "politico_email": "dep.luistibe@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luistibe"
+        "politico_email": "dep.luistibe@camara.leg.br"
     }, 
     "297": {
         "politico_profissao": "Arquiteto, Corretor de Im\u00f3veis", 
@@ -5525,8 +5235,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luizcarlosbusatoptb", 
         "politico_instagram": "https://instagram.com/lcbusato/", 
         "title": "LUIZ CARLOS BUSATO", 
-        "politico_email": "dep.luizcarlosbusato@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/Deputado_Busato"
+        "politico_email": "dep.luizcarlosbusato@camara.leg.br"
     }, 
     "298": {
         "politico_profissao": "Economista e Professor", 
@@ -5544,8 +5253,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/hauly45/", 
         "politico_instagram": "", 
         "title": "LUIZ CARLOS HAULY", 
-        "politico_email": "dep.luizcarloshauly@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadohauly"
+        "politico_email": "dep.luizcarloshauly@camara.leg.br"
     }, 
     "299": {
         "politico_profissao": "", 
@@ -5563,8 +5271,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/LuizCarlosRamos/", 
         "politico_instagram": "", 
         "title": "LUIZ CARLOS RAMOS", 
-        "politico_email": "dep.luizcarlosramos@camara.leg.br", 
-        "politico_twitter": "https://www.twitter.com/lcrbr"
+        "politico_email": "dep.luizcarlosramos@camara.leg.br"
     }, 
     "300": {
         "politico_profissao": "Professor(a),t\u00e9cnico Agr\u00edcola", 
@@ -5582,8 +5289,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoluizclaudio", 
         "politico_instagram": "", 
         "title": "LUIZ CL\u00c1UDIO", 
-        "politico_email": "dep.luizclaudio@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.luizclaudio@camara.leg.br"
     }, 
     "301": {
         "politico_profissao": "Professor Adjunto", 
@@ -5601,8 +5307,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luizcoutopt/", 
         "politico_instagram": "", 
         "title": "LUIZ COUTO", 
-        "politico_email": "dep.luizcouto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luizcoutopt"
+        "politico_email": "dep.luizcouto@camara.leg.br"
     }, 
     "302": {
         "politico_profissao": "Engenheiro Mec\u00e2nico, Agropecuarista, Empres\u00e1rio - Administra\u00e7\u00e3o", 
@@ -5620,8 +5325,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoluizfernando/", 
         "politico_instagram": "", 
         "title": "LUIZ FERNANDO FARIA", 
-        "politico_email": "dep.luizfernandofaria@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depluizfernando"
+        "politico_email": "dep.luizfernandofaria@camara.leg.br"
     }, 
     "303": {
         "politico_profissao": "Publicit\u00e1rio", 
@@ -5639,8 +5343,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luizlauro.filho/", 
         "politico_instagram": "https://www.instagram.com/luizlaurofilho/", 
         "title": "LUIZ LAURO FILHO", 
-        "politico_email": "dep.luizlaurofilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luizlaurofilho"
+        "politico_email": "dep.luizlaurofilho@camara.leg.br"
     }, 
     "304": {
         "politico_profissao": "", 
@@ -5658,8 +5361,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/nishimoriluiz/", 
         "politico_instagram": "", 
         "title": "LUIZ NISHIMORI", 
-        "politico_email": "dep.luiznishimori@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luiznishimori"
+        "politico_email": "dep.luiznishimori@camara.leg.br"
     }, 
     "305": {
         "politico_profissao": "Delineador Naval", 
@@ -5677,8 +5379,7 @@ var deputados = {
         "politico_facebook": "https://twitter.com/depluizsergio", 
         "politico_instagram": "", 
         "title": "LUIZ S\u00c9RGIO", 
-        "politico_email": "dep.luizsergio@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.luizsergio@camara.leg.br"
     }, 
     "306": {
         "politico_profissao": "Assistente Social", 
@@ -5696,8 +5397,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luizaerundina/", 
         "politico_instagram": "https://www.instagram.com/luizaerundina/", 
         "title": "LUIZA ERUNDINA", 
-        "politico_email": "dep.luizaerundina@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/luiza_erundina"
+        "politico_email": "dep.luizaerundina@camara.leg.br"
     }, 
     "307": {
         "politico_profissao": "Professora Universit\u00e1ria", 
@@ -5715,8 +5415,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/luizianneinstitucional", 
         "politico_instagram": "", 
         "title": "LUIZIANNE LINS", 
-        "politico_email": "dep.luiziannelins@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/1313luizianne"
+        "politico_email": "dep.luiziannelins@camara.leg.br"
     }, 
     "308": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -5734,8 +5433,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Macedo-332526423613752/", 
         "politico_instagram": "https://www.instagram.com/deputadomacedo/", 
         "title": "MACEDO", 
-        "politico_email": "dep.macedo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/DeputadoMacedo"
+        "politico_email": "dep.macedo@camara.leg.br"
     }, 
     "309": {
         "politico_profissao": "Empres\u00e1ria", 
@@ -5753,8 +5451,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MagdaMofattoH/", 
         "politico_instagram": "", 
         "title": "MAGDA MOFATTO", 
-        "politico_email": "dep.magdamofatto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/Magdamofatto"
+        "politico_email": "dep.magdamofatto@camara.leg.br"
     }, 
     "310": {
         "politico_profissao": "", 
@@ -5772,8 +5469,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MainhaOficial", 
         "politico_instagram": "", 
         "title": "MAINHA", 
-        "politico_email": "dep.mainha@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.mainha@camara.leg.br"
     }, 
     "311": {
         "politico_profissao": "", 
@@ -5791,8 +5487,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/olimpio.major/", 
         "politico_instagram": "https://www.instagram.com/majorolimpio/", 
         "title": "MAJOR OLIMPIO", 
-        "politico_email": "dep.majorolimpio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/majorolimpio"
+        "politico_email": "dep.majorolimpio@camara.leg.br"
     }, 
     "312": {
         "politico_profissao": "M\u00e9dico", 
@@ -5810,8 +5505,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/henriquemandetta", 
         "politico_instagram": "https://www.instagram.com/henriquemandetta/", 
         "title": "MANDETTA", 
-        "politico_email": "dep.mandetta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_mandetta"
+        "politico_email": "dep.mandetta@camara.leg.br"
     }, 
     "313": {
         "politico_profissao": "M\u00e9dico", 
@@ -5829,8 +5523,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ManoelJuniorOficial/", 
         "politico_instagram": "https://instagram.com/depmanoeljunior/", 
         "title": "MANOEL JUNIOR", 
-        "politico_email": "dep.manoeljunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depmanoeljunior"
+        "politico_email": "dep.manoeljunior@camara.leg.br"
     }, 
     "314": {
         "politico_profissao": "Psic\u00f3loga, Publicit\u00e1ria", 
@@ -5848,8 +5541,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/maragabrilli/", 
         "politico_instagram": "https://www.instagram.com/maragabrilli/", 
         "title": "MARA GABRILLI", 
-        "politico_email": "dep.maragabrilli@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/maragabrilli"
+        "politico_email": "dep.maragabrilli@camara.leg.br"
     }, 
     "316": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -5867,8 +5559,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marceloalvaroantonio/", 
         "politico_instagram": "https://www.instagram.com/marceloalvaroantonio", 
         "title": "MARCELO \u00c1LVARO ANT\u00d4NIO", 
-        "politico_email": "dep.marceloalvaroantonio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marceloalvaroan"
+        "politico_email": "dep.marceloalvaroantonio@camara.leg.br"
     }, 
     "317": {
         "politico_profissao": "Jornalista", 
@@ -5886,8 +5577,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marceloaro/", 
         "politico_instagram": "https://www.instagram.com/marceloaro/", 
         "title": "MARCELO ARO", 
-        "politico_email": "dep.marceloaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marceloaro"
+        "politico_email": "dep.marceloaro@camara.leg.br"
     }, 
     "318": {
         "politico_profissao": "Advogado(a),m\u00e9dico(a)", 
@@ -5905,8 +5595,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marcelobelinatimartins/", 
         "politico_instagram": "https://www.instagram.com/marcelobelinati_/", 
         "title": "MARCELO BELINATI", 
-        "politico_email": "dep.marcelobelinati@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcelobelinati"
+        "politico_email": "dep.marcelobelinati@camara.leg.br"
     }, 
     "319": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -5924,8 +5613,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomarcelomatos/", 
         "politico_instagram": "https://instagram.com/deputadomarcelomatos/", 
         "title": "MARCELO MATOS", 
-        "politico_email": "dep.marcelomatos@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.marcelomatos@camara.leg.br"
     }, 
     "320": {
         "politico_profissao": "Bacharel Em Direito", 
@@ -5943,8 +5631,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marcelo.squassoni", 
         "politico_instagram": "", 
         "title": "MARCELO SQUASSONI", 
-        "politico_email": "dep.marcelosquassoni@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.marcelosquassoni@camara.leg.br"
     }, 
     "321": {
         "politico_profissao": "Administrador", 
@@ -5962,8 +5649,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marcioalvino/", 
         "politico_instagram": "", 
         "title": "MARCIO ALVINO", 
-        "politico_email": "dep.marcioalvino@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.marcioalvino@camara.leg.br"
     }, 
     "322": {
         "politico_profissao": "Radialista", 
@@ -5981,8 +5667,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederalmarciomarinho/", 
         "politico_instagram": "https://www.instagram.com/mcmmarinho/", 
         "title": "M\u00c1RCIO MARINHO", 
-        "politico_email": "dep.marciomarinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dpmarciomarinho"
+        "politico_email": "dep.marciomarinho@camara.leg.br"
     }, 
     "323": {
         "politico_profissao": "Industri\u00e1rio (metal\u00fargico)", 
@@ -6000,8 +5685,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depmarcomaia", 
         "politico_instagram": "", 
         "title": "MARCO MAIA", 
-        "politico_email": "dep.marcomaia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depmarcomaia"
+        "politico_email": "dep.marcomaia@camara.leg.br"
     }, 
     "324": {
         "politico_profissao": "Engenheiro, Funcion\u00e1rio P\u00fablico", 
@@ -6019,8 +5703,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/matebaldi", 
         "politico_instagram": "", 
         "title": "MARCO TEBALDI", 
-        "politico_email": "dep.marcotebaldi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mtebaldi"
+        "politico_email": "dep.marcotebaldi@camara.leg.br"
     }, 
     "325": {
         "politico_profissao": "Agricultor", 
@@ -6038,8 +5721,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomarcon/", 
         "politico_instagram": "", 
         "title": "MARCON", 
-        "politico_email": "dep.marcon@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depmarcon"
+        "politico_email": "dep.marcon@camara.leg.br"
     }, 
     "326": {
         "politico_profissao": "M\u00e9dico", 
@@ -6057,8 +5739,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/george.hilton.9469?fref=ts", 
         "politico_instagram": "", 
         "title": "GEORGE HILTON", 
-        "politico_email": "dep.georgehilton@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.georgehilton@camara.leg.br"
     }, 
     "327": {
         "politico_profissao": "Economista e Empres\u00e1rio na \u00c1rea Pecuarista", 
@@ -6076,8 +5757,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MarcosAbrao/", 
         "politico_instagram": "https://www.instagram.com/marcosabraororiz", 
         "title": "MARCOS ABR\u00c3O", 
-        "politico_email": "dep.marcosabrao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcosabraor"
+        "politico_email": "dep.marcosabrao@camara.leg.br"
     }, 
     "328": {
         "politico_profissao": "M\u00e9dico, Professor de Medicina, M\u00e9dico do Trabalho", 
@@ -6095,8 +5775,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomarcosmontes/", 
         "politico_instagram": "", 
         "title": "MARCOS MONTES", 
-        "politico_email": "dep.marcosmontes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depmarcosmontes"
+        "politico_email": "dep.marcosmontes@camara.leg.br"
     }, 
     "329": {
         "politico_profissao": "", 
@@ -6114,8 +5793,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepMarcosReategui", 
         "politico_instagram": "https://www.instagram.com/depmarcosreategui/", 
         "title": "MARCOS REATEGUI", 
-        "politico_email": "dep.marcosreategui@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcos_reategui"
+        "politico_email": "dep.marcosreategui@camara.leg.br"
     }, 
     "330": {
         "politico_profissao": "", 
@@ -6133,8 +5811,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depmarcosrogerio/", 
         "politico_instagram": "", 
         "title": "MARCOS ROG\u00c9RIO", 
-        "politico_email": "dep.marcosrogerio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcosrogeriodf"
+        "politico_email": "dep.marcosrogerio@camara.leg.br"
     }, 
     "331": {
         "politico_profissao": "Jornalista,publicit\u00e1rio", 
@@ -6152,8 +5829,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marcosrottaoficial/", 
         "politico_instagram": "https://instagram.com/marcos_rotta/", 
         "title": "MARCOS ROTTA", 
-        "politico_email": "dep.marcosrotta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcosrotta"
+        "politico_email": "dep.marcosrotta@camara.leg.br"
     }, 
     "332": {
         "politico_profissao": "Advogado(a)", 
@@ -6171,8 +5847,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoMarcosSoares/", 
         "politico_instagram": "", 
         "title": "MARCOS SOARES", 
-        "politico_email": "dep.marcossoares@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcossoaresdep"
+        "politico_email": "dep.marcossoares@camara.leg.br"
     }, 
     "333": {
         "politico_profissao": "Economista, Professor Universit\u00e1rio", 
@@ -6190,8 +5865,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depmarcuspestana", 
         "politico_instagram": "", 
         "title": "MARCUS PESTANA", 
-        "politico_email": "dep.marcuspestana@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcus_pestana"
+        "politico_email": "dep.marcuspestana@camara.leg.br"
     }, 
     "334": {
         "politico_profissao": "Advogado", 
@@ -6209,8 +5883,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.marcusvicente", 
         "politico_instagram": "", 
         "title": "MARCUS VICENTE", 
-        "politico_email": "dep.marcusvicente@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcusvicentes"
+        "politico_email": "dep.marcusvicente@camara.leg.br"
     }, 
     "335": {
         "politico_profissao": "", 
@@ -6228,8 +5901,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jfmargarida", 
         "politico_instagram": "", 
         "title": "MARGARIDA SALOM\u00c3O", 
-        "politico_email": "dep.margaridasalomao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/jfmargarida"
+        "politico_email": "dep.margaridasalomao@camara.leg.br"
     }, 
     "336": {
         "politico_profissao": "Professora", 
@@ -6247,8 +5919,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Maria-Do-Ros\u00e1rio-Nunes-154111111330577/", 
         "politico_instagram": "", 
         "title": "MARIA DO ROS\u00c1RIO", 
-        "politico_email": "dep.mariadorosario@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/_mariadorosario"
+        "politico_email": "dep.mariadorosario@camara.leg.br"
     }, 
     "337": {
         "politico_profissao": "Advogada", 
@@ -6266,8 +5937,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadamariahelena", 
         "politico_instagram": "", 
         "title": "MARIA HELENA", 
-        "politico_email": "dep.mariahelena@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.mariahelena@camara.leg.br"
     }, 
     "338": {
         "politico_profissao": "Bacharela Em Direito,m\u00e9dica", 
@@ -6285,8 +5955,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marianacarvalho45", 
         "politico_instagram": "", 
         "title": "MARIANA CARVALHO", 
-        "politico_email": "dep.marianacarvalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marianapsdb"
+        "politico_email": "dep.marianacarvalho@camara.leg.br"
     }, 
     "339": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -6304,8 +5973,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marinaldo.rosendo/", 
         "politico_instagram": "https://instagram.com/marinaldorosendo/", 
         "title": "MARINALDO ROSENDO", 
-        "politico_email": "dep.marinaldorosendo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marinaldorosend"
+        "politico_email": "dep.marinaldorosendo@camara.leg.br"
     }, 
     "340": {
         "politico_profissao": "Psic\u00f3loga, T\u00e9cnica Em Assuntos Educacionais, Professora e Servidora P\u00fablica", 
@@ -6323,8 +5991,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MarinhaRaupp", 
         "politico_instagram": "", 
         "title": "MARINHA RAUPP", 
-        "politico_email": "dep.marinharaupp@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depmarinharaupp"
+        "politico_email": "dep.marinharaupp@camara.leg.br"
     }, 
     "341": {
         "politico_profissao": "Medico", 
@@ -6342,8 +6009,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomarioheringer", 
         "politico_instagram": "http://instagram.com/marioheringer", 
         "title": "M\u00c1RIO HERINGER", 
-        "politico_email": "dep.marioheringer@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mario_heringer"
+        "politico_email": "dep.marioheringer@camara.leg.br"
     }, 
     "342": {
         "politico_profissao": "Bacharel Em Direito", 
@@ -6361,8 +6027,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depmarionegromontejr/", 
         "politico_instagram": "", 
         "title": "M\u00c1RIO NEGROMONTE JR.", 
-        "politico_email": "dep.marionegromontejr@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depnegromontejr"
+        "politico_email": "dep.marionegromontejr@camara.leg.br"
     }, 
     "344": {
         "politico_profissao": "", 
@@ -6380,8 +6045,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MarxBeltrao", 
         "politico_instagram": "", 
         "title": "MARX BELTR\u00c3O", 
-        "politico_email": "dep.marxbeltrao@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.marxbeltrao@camara.leg.br"
     }, 
     "345": {
         "politico_profissao": "Servidor P\u00fablico", 
@@ -6399,8 +6063,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/mauricioquintella", 
         "politico_instagram": "", 
         "title": "MAUR\u00cdCIO QUINTELLA LESSA", 
-        "politico_email": "dep.mauricioquintellalessa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depquintella"
+        "politico_email": "dep.mauricioquintellalessa@camara.leg.br"
     }, 
     "346": {
         "politico_profissao": "Diretor de Empresas", 
@@ -6418,8 +6081,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomauromariani/", 
         "politico_instagram": "", 
         "title": "MAURO MARIANI", 
-        "politico_email": "dep.mauromariani@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mauro_mariani"
+        "politico_email": "dep.mauromariani@camara.leg.br"
     }, 
     "347": {
         "politico_profissao": "", 
@@ -6437,8 +6099,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/mauropereirapmdb/", 
         "politico_instagram": "", 
         "title": "MAURO PEREIRA", 
-        "politico_email": "dep.mauropereira@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.mauropereira@camara.leg.br"
     }, 
     "348": {
         "politico_profissao": "", 
@@ -6456,8 +6117,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/max.maurofilho/", 
         "politico_instagram": "https://www.instagram.com/maxmaurofilho/", 
         "title": "MAX FILHO", 
-        "politico_email": "dep.maxfilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/maxmaurofilho"
+        "politico_email": "dep.maxfilho@camara.leg.br"
     }, 
     "349": {
         "politico_profissao": "Administrador de Empresas", 
@@ -6475,8 +6135,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/mendoncafilhoPE", 
         "politico_instagram": "https://www.instagram.com/mendonca2525/", 
         "title": "MENDON\u00c7A FILHO", 
-        "politico_email": "dep.mendoncafilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mendonca_filho"
+        "politico_email": "dep.mendoncafilho@camara.leg.br"
     }, 
     "350": {
         "politico_profissao": "Advogado(a)", 
@@ -6494,8 +6153,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/miguelmhaddad/", 
         "politico_instagram": "", 
         "title": "MIGUEL HADDAD", 
-        "politico_email": "dep.miguelhaddad@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/miguelmhaddad"
+        "politico_email": "dep.miguelhaddad@camara.leg.br"
     }, 
     "351": {
         "politico_profissao": "Corretor de Im\u00f3veis", 
@@ -6513,8 +6171,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/miguellombardi.deputadofederal/", 
         "politico_instagram": "", 
         "title": "MIGUEL LOMBARDI", 
-        "politico_email": "dep.miguellombardi@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.miguellombardi@camara.leg.br"
     }, 
     "352": {
         "politico_profissao": "Economista", 
@@ -6532,8 +6189,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederalmiltonmonti/", 
         "politico_instagram": "https://www.instagram.com/milton_monti/", 
         "title": "MILTON MONTI", 
-        "politico_email": "dep.miltonmonti@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.miltonmonti@camara.leg.br"
     }, 
     "353": {
         "politico_profissao": "Advogado", 
@@ -6551,8 +6207,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Miro.teixeirapros90/", 
         "politico_instagram": "", 
         "title": "MIRO TEIXEIRA", 
-        "politico_email": "dep.miroteixeira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/miroteixeira"
+        "politico_email": "dep.miroteixeira@camara.leg.br"
     }, 
     "354": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -6570,8 +6225,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomisaelvarella/", 
         "politico_instagram": "https://www.instagram.com/misaelvarella/", 
         "title": "MISAEL VARELLA", 
-        "politico_email": "dep.misaelvarella@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.misaelvarella@camara.leg.br"
     }, 
     "355": {
         "politico_profissao": "Comerciante", 
@@ -6589,8 +6243,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadojoseolimpio/", 
         "politico_instagram": "", 
         "title": "MISSION\u00c1RIO JOS\u00c9 OLIMPIO", 
-        "politico_email": "dep.missionariojoseolimpio@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.missionariojoseolimpio@camara.leg.br"
     }, 
     "356": {
         "politico_profissao": "", 
@@ -6608,8 +6261,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MoemaGramacho/", 
         "politico_instagram": "", 
         "title": "MOEMA GRAMACHO", 
-        "politico_email": "dep.moemagramacho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/moemagramacho"
+        "politico_email": "dep.moemagramacho@camara.leg.br"
     }, 
     "357": {
         "politico_profissao": "Delegado de Pol\u00edcia Federal", 
@@ -6627,8 +6279,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/MoroniTorgan/", 
         "politico_instagram": "", 
         "title": "MORONI TORGAN", 
-        "politico_email": "dep.moronitorgan@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadomoroni"
+        "politico_email": "dep.moronitorgan@camara.leg.br"
     }, 
     "358": {
         "politico_profissao": "Administrador,professor de Geografia,professor de Hist\u00f3ria", 
@@ -6646,8 +6297,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/moses2323/", 
         "politico_instagram": "https://instagram.com/mosesrodrigues/", 
         "title": "MOSES RODRIGUES", 
-        "politico_email": "dep.mosesrodrigues@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depfederalmoses"
+        "politico_email": "dep.mosesrodrigues@camara.leg.br"
     }, 
     "359": {
         "politico_profissao": "Advogado", 
@@ -6665,8 +6315,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/nelsonmarchezan/", 
         "politico_instagram": "", 
         "title": "NELSON MARCHEZAN JUNIOR", 
-        "politico_email": "dep.nelsonmarchezanjunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marchezan_"
+        "politico_email": "dep.nelsonmarchezanjunior@camara.leg.br"
     }, 
     "360": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -6684,8 +6333,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marquezelli1434", 
         "politico_instagram": "https://www.instagram.com/marquezelli1434/", 
         "title": "NELSON MARQUEZELLI", 
-        "politico_email": "dep.nelsonmarquezelli@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marquezellinews"
+        "politico_email": "dep.nelsonmarquezelli@camara.leg.br"
     }, 
     "361": {
         "politico_profissao": "Agropecuarista", 
@@ -6703,8 +6351,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "NELSON MEURER", 
-        "politico_email": "dep.nelsonmeurer@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.nelsonmeurer@camara.leg.br"
     }, 
     "362": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -6722,8 +6369,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/nelsonpadovani.com.br", 
         "politico_instagram": "", 
         "title": "NELSON PADOVANI", 
-        "politico_email": "dep.nelsonpadovani@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.nelsonpadovani@camara.leg.br"
     }, 
     "363": {
         "politico_profissao": "", 
@@ -6741,8 +6387,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Newton-Cardoso-J\u00fanior-650863341637642/", 
         "politico_instagram": "https://www.instagram.com/newtoncardosojr/", 
         "title": "NEWTON CARDOSO JR", 
-        "politico_email": "dep.newtoncardosojr@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/newton1510"
+        "politico_email": "dep.newtoncardosojr@camara.leg.br"
     }, 
     "364": {
         "politico_profissao": "", 
@@ -6760,8 +6405,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/jpkleinubing/?fref=ts", 
         "politico_instagram": "", 
         "title": "JO\u00c3O PAULO KLEINUBING", 
-        "politico_email": "dep.joaopaulokleinubing@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.joaopaulokleinubing@camara.leg.br"
     }, 
     "365": {
         "politico_profissao": "", 
@@ -6779,8 +6423,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/nilsonleitao", 
         "politico_instagram": "", 
         "title": "NILSON LEIT\u00c3O", 
-        "politico_email": "dep.nilsonleitao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/nilson_leitao"
+        "politico_email": "dep.nilsonleitao@camara.leg.br"
     }, 
     "366": {
         "politico_profissao": "Professor", 
@@ -6798,8 +6441,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Nilson-Pinto-354764524584734/", 
         "politico_instagram": "", 
         "title": "NILSON PINTO", 
-        "politico_email": "dep.nilsonpinto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depnilsonpinto"
+        "politico_email": "dep.nilsonpinto@camara.leg.br"
     }, 
     "367": {
         "politico_profissao": "Coordenador de Projetos", 
@@ -6817,8 +6459,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/niltotattosp/", 
         "politico_instagram": "", 
         "title": "NILTO TATTO", 
-        "politico_email": "dep.niltotatto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/niltonsalomao"
+        "politico_email": "dep.niltotatto@camara.leg.br"
     }, 
     "368": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -6836,8 +6477,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoniltoncapixaba/", 
         "politico_instagram": "Suplente", 
         "title": "NILTON CAPIXABA", 
-        "politico_email": "dep.niltoncapixaba@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/odelmoleao"
+        "politico_email": "dep.niltoncapixaba@camara.leg.br"
     }, 
     "369": {
         "politico_profissao": "Produtor Rural e Banc\u00e1rio", 
@@ -6855,8 +6495,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/odelmoleao", 
         "politico_instagram": "https://www.instagram.com/odoricomonteiro/", 
         "title": "ODELMO LE\u00c3O", 
-        "politico_email": "dep.odelmoleao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/odoricomonteiro"
+        "politico_email": "dep.odelmoleao@camara.leg.br"
     }, 
     "370": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -6874,8 +6513,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/odoricoamonteiro/", 
         "politico_instagram": "https://instagram.com/onyxlorenzoni/", 
         "title": "ODORICO MONTEIRO", 
-        "politico_email": "dep.odoricomonteiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/onyxlorenzoni"
+        "politico_email": "dep.odoricomonteiro@camara.leg.br"
     }, 
     "371": {
         "politico_profissao": "Veterinario", 
@@ -6893,8 +6531,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/onyx.lorenzoni/", 
         "politico_instagram": "", 
         "title": "ONYX LORENZONI", 
-        "politico_email": "dep.onyxlorenzoni@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/orlandosilva_jr"
+        "politico_email": "dep.onyxlorenzoni@camara.leg.br"
     }, 
     "372": {
         "politico_profissao": "", 
@@ -6912,8 +6549,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/orlandosilvasp/", 
         "politico_instagram": "", 
         "title": "ORLANDO SILVA", 
-        "politico_email": "dep.orlandosilva@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/osmar_serraglio"
+        "politico_email": "dep.orlandosilva@camara.leg.br"
     }, 
     "373": {
         "politico_profissao": "Advogado", 
@@ -6931,8 +6567,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoOsmarSerraglio/", 
         "politico_instagram": "", 
         "title": "OSMAR SERRAGLIO", 
-        "politico_email": "dep.osmarserraglio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/osmarterra"
+        "politico_email": "dep.osmarserraglio@camara.leg.br"
     }, 
     "374": {
         "politico_profissao": "M\u00e9dico", 
@@ -6950,8 +6585,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoOsmarTerra", 
         "politico_instagram": "", 
         "title": "OSMAR TERRA", 
-        "politico_email": "dep.osmarterra@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/otavioleite"
+        "politico_email": "dep.osmarterra@camara.leg.br"
     }, 
     "375": {
         "politico_profissao": "Advogado e Professor de Direito", 
@@ -6969,8 +6603,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/OtavioLeite/", 
         "politico_instagram": "", 
         "title": "OTAVIO LEITE", 
-        "politico_email": "dep.otavioleite@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_padrejoao"
+        "politico_email": "dep.otavioleite@camara.leg.br"
     }, 
     "376": {
         "politico_profissao": "Sacerdote Cat\u00f3lico", 
@@ -6988,8 +6621,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/padrejoao/", 
         "politico_instagram": "", 
         "title": "PADRE JO\u00c3O", 
-        "politico_email": "dep.padrejoao@camara.leg.br", 
-        "politico_twitter": "https://www.twitter.com/deppaeslandim"
+        "politico_email": "dep.padrejoao@camara.leg.br"
     }, 
     "377": {
         "politico_profissao": "Professor e Advogado", 
@@ -7007,8 +6639,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/paes.landim.56/", 
         "politico_instagram": "", 
         "title": "PAES LANDIM", 
-        "politico_email": "dep.paeslandim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deppastoreurico"
+        "politico_email": "dep.paeslandim@camara.leg.br"
     }, 
     "378": {
         "politico_profissao": "Comerci\u00e1rio, Comunicador de R\u00e1dio", 
@@ -7026,8 +6657,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Federal-Pastor-Eurico-203543366481082/", 
         "politico_instagram": "", 
         "title": "PASTOR EURICO", 
-        "politico_email": "dep.pastoreurico@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.pastoreurico@camara.leg.br"
     }, 
     "379": {
         "politico_profissao": "Engenheiro Civil, Professor", 
@@ -7045,8 +6675,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/pauderneytomazavelino/", 
         "politico_instagram": "https://www.instagram.com/pauderney/", 
         "title": "PAUDERNEY AVELINO", 
-        "politico_email": "dep.pauderneyavelino@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pauderney"
+        "politico_email": "dep.pauderneyavelino@camara.leg.br"
     }, 
     "380": {
         "politico_profissao": "", 
@@ -7064,8 +6693,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/paulaodopt", 
         "politico_instagram": "https://www.instagram.com/paulaodopt/", 
         "title": "PAUL\u00c3O", 
-        "politico_email": "dep.paulao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/paulaodopt"
+        "politico_email": "dep.paulao@camara.leg.br"
     }, 
     "381": {
         "politico_profissao": "Advogado", 
@@ -7083,8 +6711,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/abiackelpaulo/", 
         "politico_instagram": "", 
         "title": "PAULO ABI-ACKEL", 
-        "politico_email": "dep.pauloabiackel@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pauloabiackel"
+        "politico_email": "dep.pauloabiackel@camara.leg.br"
     }, 
     "382": {
         "politico_profissao": "Administrador de Empresas,engenheiro Civil", 
@@ -7102,8 +6729,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/pauloazi/", 
         "politico_instagram": "https://www.instagram.com/deppauloazi/", 
         "title": "PAULO AZI", 
-        "politico_email": "dep.pauloazi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pauloazi"
+        "politico_email": "dep.pauloazi@camara.leg.br"
     }, 
     "383": {
         "politico_profissao": "Engenheiro Mec\u00e2nico", 
@@ -7121,8 +6747,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadopaulofeijo/", 
         "politico_instagram": "https://instagram.com/feijofederal/", 
         "title": "PAULO FEIJ\u00d3", 
-        "politico_email": "dep.paulofeijo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/paulofeijo2288"
+        "politico_email": "dep.paulofeijo@camara.leg.br"
     }, 
     "384": {
         "politico_profissao": "M\u00e9dico", 
@@ -7140,8 +6765,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Paulo-Foletto-184948081656256/", 
         "politico_instagram": "https://www.instagram.com/foletto4040/", 
         "title": "PAULO FOLETTO", 
-        "politico_email": "dep.paulofoletto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadofoletto"
+        "politico_email": "dep.paulofoletto@camara.leg.br"
     }, 
     "385": {
         "politico_profissao": "Ministro do Evangelho", 
@@ -7159,8 +6783,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadopaulofreire/", 
         "politico_instagram": "", 
         "title": "PAULO FREIRE", 
-        "politico_email": "dep.paulofreire@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/df_paulofreire"
+        "politico_email": "dep.paulofreire@camara.leg.br"
     }, 
     "386": {
         "politico_profissao": "Administrador e Consultor", 
@@ -7178,8 +6801,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/paulohenrique.lustosa.3", 
         "politico_instagram": "", 
         "title": "PAULO HENRIQUE LUSTOSA", 
-        "politico_email": "dep.paulohenriquelustosa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/paulohelustosa"
+        "politico_email": "dep.paulohenriquelustosa@camara.leg.br"
     }, 
     "387": {
         "politico_profissao": "Administrador de Empresas", 
@@ -7197,8 +6819,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/dep.paulo.magalhaes", 
         "politico_instagram": "", 
         "title": "PAULO MAGALH\u00c3ES", 
-        "politico_email": "dep.paulomagalhaes@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.paulomagalhaes@camara.leg.br"
     }, 
     "388": {
         "politico_profissao": "Engenheiro Civil, Industrial", 
@@ -7216,8 +6837,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/paulosmaluf", 
         "politico_instagram": "https://www.instagram.com/paulosalimmaluf/", 
         "title": "PAULO MALUF", 
-        "politico_email": "dep.paulomaluf@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/paulosalimmaluf"
+        "politico_email": "dep.paulomaluf@camara.leg.br"
     }, 
     "389": {
         "politico_profissao": "", 
@@ -7235,8 +6855,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/profile.php?id=100009157101003&fref=ts", 
         "politico_instagram": "", 
         "title": "PAULO MARTINS", 
-        "politico_email": "dep.paulomartins@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.paulomartins@camara.leg.br"
     }, 
     "390": {
         "politico_profissao": "Sindicalista, Controlador de Qualidade, Metal\u00fargico", 
@@ -7254,8 +6873,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/paulinho.face", 
         "politico_instagram": "https://www.instagram.com/dep_paulinho/", 
         "title": "PAULO PEREIRA DA SILVA", 
-        "politico_email": "dep.paulopereiradasilva@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_paulinho"
+        "politico_email": "dep.paulopereiradasilva@camara.leg.br"
     }, 
     "391": {
         "politico_profissao": "T\u00e9cnico Agr\u00edcola e Jornalista", 
@@ -7273,8 +6891,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederal/", 
         "politico_instagram": "", 
         "title": "PAULO PIMENTA", 
-        "politico_email": "dep.paulopimenta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadofederal"
+        "politico_email": "dep.paulopimenta@camara.leg.br"
     }, 
     "392": {
         "politico_profissao": "Advogado", 
@@ -7292,15 +6909,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoPauloTeixeira/", 
         "politico_instagram": "https://www.instagram.com/pauloteixeira13/", 
         "title": "PAULO TEIXEIRA", 
-        "politico_email": "dep.pauloteixeira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pauloteixeira13"
+        "politico_email": "dep.pauloteixeira@camara.leg.br"
     }, 
     "393": {
         "politico_profissao": "Engenheiro Civil", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "393", 
         "politico_partido": "PMDB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5406", 
         "politico_estado": "GO", 
@@ -7311,8 +6927,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DEPUTADOFEDERALPEDROCHAVESPMDB", 
         "politico_instagram": "", 
         "title": "PEDRO CHAVES", 
-        "politico_email": "dep.pedrochaves@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depsimaopedro"
+        "politico_email": "dep.pedrochaves@camara.leg.br"
     }, 
     "394": {
         "politico_profissao": "Engenheiro Civil e Banc\u00e1rio", 
@@ -7330,8 +6945,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Pedro-Fernandes-337091196480678/", 
         "politico_instagram": "", 
         "title": "PEDRO FERNANDES", 
-        "politico_email": "dep.pedrofernandes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/oPedroFernandes"
+        "politico_email": "dep.pedrofernandes@camara.leg.br"
     }, 
     "395": {
         "politico_profissao": "Professor Universit\u00e1rio", 
@@ -7349,8 +6963,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/PedroUczai/", 
         "politico_instagram": "", 
         "title": "PEDRO UCZAI", 
-        "politico_email": "dep.pedrouczai@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/uczai"
+        "politico_email": "dep.pedrouczai@camara.leg.br"
     }, 
     "396": {
         "politico_profissao": "", 
@@ -7368,8 +6981,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/pedrovilela.al/", 
         "politico_instagram": "https://www.instagram.com/vilelapedro", 
         "title": "PEDRO VILELA", 
-        "politico_email": "dep.pedrovilela@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vilelapedro"
+        "politico_email": "dep.pedrovilela@camara.leg.br"
     }, 
     "397": {
         "politico_profissao": "M\u00e9dico", 
@@ -7387,8 +6999,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sigapepevargas/", 
         "politico_instagram": "", 
         "title": "PEPE VARGAS", 
-        "politico_email": "dep.pepevargas@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sigapepevargas"
+        "politico_email": "dep.pepevargas@camara.leg.br"
     }, 
     "398": {
         "politico_profissao": "Advogado e Banc\u00e1rio", 
@@ -7406,8 +7017,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/pompeodemattosPDT/", 
         "politico_instagram": "https://instagram.com/deputadopompeo/", 
         "title": "POMPEO DE MATTOS", 
-        "politico_email": "dep.pompeodemattos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pompeodemattos"
+        "politico_email": "dep.pompeodemattos@camara.leg.br"
     }, 
     "399": {
         "politico_profissao": "Conferencista, Empres\u00e1rio, Pastor Evang\u00e9lico", 
@@ -7425,8 +7035,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/PastorMarcoFeliciano", 
         "politico_instagram": "https://www.instagram.com/marcofeliciano/", 
         "title": "PR. MARCO FELICIANO", 
-        "politico_email": "dep.pr.marcofeliciano@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/marcofeliciano"
+        "politico_email": "dep.pr.marcofeliciano@camara.leg.br"
     }, 
     "400": {
         "politico_profissao": "Professor", 
@@ -7444,8 +7053,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/VictorioGalliOficial/", 
         "politico_instagram": "", 
         "title": "PROFESSOR VICT\u00d3RIO GALLI", 
-        "politico_email": "dep.professorvictoriogalli@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.professorvictoriogalli@camara.leg.br"
     }, 
     "401": {
         "politico_profissao": "Professora Universit\u00e1ria", 
@@ -7463,8 +7071,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/profdorinha", 
         "politico_instagram": "https://instagram.com/profdorinha/", 
         "title": "PROFESSORA DORINHA SEABRA REZENDE", 
-        "politico_email": "dep.professoradorinhaseabrarezende@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/profdorinha"
+        "politico_email": "dep.professoradorinhaseabrarezende@camara.leg.br"
     }, 
     "402": {
         "politico_profissao": "Professora de Portugu\u00eas, Servidora P\u00fablico Estadual", 
@@ -7482,8 +7089,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadafederalprofessoramarcivania/", 
         "politico_instagram": "", 
         "title": "PROFESSORA MARCIVANIA", 
-        "politico_email": "dep.professoramarcivania@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.professoramarcivania@camara.leg.br"
     }, 
     "403": {
         "politico_profissao": "Engenheiro", 
@@ -7501,8 +7107,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rafaelmottarn/", 
         "politico_instagram": "https://instagram.com/rafaelmottarn", 
         "title": "RAFAEL MOTTA", 
-        "politico_email": "dep.rafaelmotta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rafaelmottarn"
+        "politico_email": "dep.rafaelmotta@camara.leg.br"
     }, 
     "404": {
         "politico_profissao": "M\u00e9dico", 
@@ -7520,8 +7125,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/raimundo.matos/", 
         "politico_instagram": "", 
         "title": "RAIMUNDO GOMES DE MATOS", 
-        "politico_email": "dep.raimundogomesdematos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/raimundo_matos"
+        "politico_email": "dep.raimundogomesdematos@camara.leg.br"
     }, 
     "405": {
         "politico_profissao": "M\u00e9dica", 
@@ -7539,8 +7143,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/raquelmuniz", 
         "politico_instagram": "https://www.instagram.com/raquel.muniz/", 
         "title": "RAQUEL MUNIZ", 
-        "politico_email": "dep.raquelmuniz@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.raquelmuniz@camara.leg.br"
     }, 
     "406": {
         "politico_profissao": "Outros", 
@@ -7558,8 +7161,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RaulJungmann/", 
         "politico_instagram": "https://www.instagram.com/raul_jungmann/", 
         "title": "RAUL JUNGMANN", 
-        "politico_email": "dep.rauljungmann@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/raul_jungmann"
+        "politico_email": "dep.rauljungmann@camara.leg.br"
     }, 
     "407": {
         "politico_profissao": "Economista", 
@@ -7577,8 +7179,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ReginaldoLopesOficial/", 
         "politico_instagram": "https://instagram.com/reginaldolopesptmg/", 
         "title": "REGINALDO LOPES", 
-        "politico_email": "dep.reginaldolopes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/reginaldolopes"
+        "politico_email": "dep.reginaldolopes@camara.leg.br"
     }, 
     "408": {
         "politico_profissao": "", 
@@ -7596,8 +7197,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RemidioMonaiRR/", 
         "politico_instagram": "https://www.instagram.com/remidiomonai/", 
         "title": "REM\u00cdDIO MONAI", 
-        "politico_email": "dep.remidiomonai@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/remidiomonai"
+        "politico_email": "dep.remidiomonai@camara.leg.br"
     }, 
     "409": {
         "politico_profissao": "Advogada", 
@@ -7615,8 +7215,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/renataabreu1919/", 
         "politico_instagram": "https://www.instagram.com/renataabreuoficial/", 
         "title": "RENATA ABREU", 
-        "politico_email": "dep.renataabreu@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.renataabreu@camara.leg.br"
     }, 
     "410": {
         "politico_profissao": "Administrador, Assessor Pol\u00edtico, Industri\u00e1rio, Professor e Auxiliar de Escrit\u00f3rio", 
@@ -7634,8 +7233,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/renatomolling/", 
         "politico_instagram": "https://www.instagram.com/renatomolling/", 
         "title": "RENATO MOLLING", 
-        "politico_email": "dep.renatomolling@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/renatomolling"
+        "politico_email": "dep.renatomolling@camara.leg.br"
     }, 
     "411": {
         "politico_profissao": "Administrador de Empresas", 
@@ -7653,15 +7251,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadorenzobraz/", 
         "politico_instagram": "", 
         "title": "RENZO BRAZ", 
-        "politico_email": "dep.renzobraz@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadorenzo"
+        "politico_email": "dep.renzobraz@camara.leg.br"
     }, 
     "412": {
         "politico_profissao": "Engenheiro Civil e Empres\u00e1rio", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "412", 
         "politico_partido": "PP", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5412", 
         "politico_estado": "PR", 
@@ -7672,8 +7269,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RicardoBarrosOficial/", 
         "politico_instagram": "", 
         "title": "RICARDO BARROS", 
-        "politico_email": "dep.ricardobarros@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ricardobarrospp"
+        "politico_email": "dep.ricardobarros@camara.leg.br"
     }, 
     "413": {
         "politico_profissao": "Economista, Empres\u00e1rio", 
@@ -7691,8 +7287,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ricardoizaroficial/", 
         "politico_instagram": "https://www.instagram.com/ricardoizar/", 
         "title": "RICARDO IZAR", 
-        "politico_email": "dep.ricardoizar@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ricardoizar"
+        "politico_email": "dep.ricardoizar@camara.leg.br"
     }, 
     "414": {
         "politico_profissao": "", 
@@ -7710,8 +7305,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ricardoteobaldooficial", 
         "politico_instagram": "https://www.instagram.com/ricardoteobaldooficial/", 
         "title": "RICARDO TEOBALDO", 
-        "politico_email": "dep.ricardoteobaldo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/psdbricardo45"
+        "politico_email": "dep.ricardoteobaldo@camara.leg.br"
     }, 
     "415": {
         "politico_profissao": "Advogado.", 
@@ -7729,8 +7323,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ricardotripoli", 
         "politico_instagram": "https://www.instagram.com/tripolioficial/", 
         "title": "RICARDO TRIPOLI", 
-        "politico_email": "dep.ricardotripoli@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ricardotripoli"
+        "politico_email": "dep.ricardotripoli@camara.leg.br"
     }, 
     "416": {
         "politico_profissao": "", 
@@ -7748,8 +7341,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RobertoAlvesPRB", 
         "politico_instagram": "", 
         "title": "ROBERTO ALVES", 
-        "politico_email": "dep.robertoalves@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/RobertoAlvesPRB"
+        "politico_email": "dep.robertoalves@camara.leg.br"
     }, 
     "417": {
         "politico_profissao": "Agropecuarista, Industrial, Advogado, Comerciante e T\u00e9cnico em Latic\u00ednios", 
@@ -7767,8 +7359,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/robertobalestraequipe/", 
         "politico_instagram": "https://instagram.com/mandatobalestra/", 
         "title": "ROBERTO BALESTRA", 
-        "politico_email": "dep.robertobalestra@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mandatobalestra"
+        "politico_email": "dep.robertobalestra@camara.leg.br"
     }, 
     "418": {
         "politico_profissao": "Professor Universit\u00e1rio", 
@@ -7786,27 +7377,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/robertopereirabritto/", 
         "politico_instagram": "", 
         "title": "ROBERTO BRITTO", 
-        "politico_email": "dep.robertobritto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deprobertobritt"
-    }, 
-    "419": {
-        "politico_profissao": "Advogado", 
-        "politico_whatsapp": "", 
-        "politico_id_planilha": "419", 
-        "politico_partido": "PPS", 
-        "politico_impeachment": "FAVOR", 
-        "politico_comissao": false, 
-        "3215-5475": "3215-5242", 
-        "politico_estado": "SP", 
-        "politico_picture": "420.jpg", 
-        "politico_mulher": "N\u00c3O", 
-        "politico_cargo": "DF", 
-        "politico_anexo": "4", 
-        "politico_facebook": "https://www.facebook.com/DepRobertoFreire/", 
-        "politico_instagram": "", 
-        "title": "ROBERTO FREIRE", 
-        "politico_email": "dep.robertofreire@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/freire_roberto"
+        "politico_email": "dep.robertobritto@camara.leg.br"
     }, 
     "420": {
         "politico_profissao": "Administrador", 
@@ -7824,8 +7395,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RobertoGoesAmapa/", 
         "politico_instagram": "", 
         "title": "ROBERTO G\u00d3ES", 
-        "politico_email": "dep.robertogoes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ascomrg"
+        "politico_email": "dep.robertogoes@camara.leg.br"
     }, 
     "421": {
         "politico_profissao": "Administrador,corretor de Im\u00f3veis", 
@@ -7843,8 +7413,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/robertosalesoficial/", 
         "politico_instagram": "", 
         "title": "ROBERTO SALES", 
-        "politico_email": "dep.robertosales@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depzeroberto"
+        "politico_email": "dep.robertosales@camara.leg.br"
     }, 
     "422": {
         "politico_profissao": "Bacharel Em Direito,jornalista,oficial da Pol\u00edcia Militar", 
@@ -7862,8 +7431,7 @@ var deputados = {
         "politico_facebook": "https://twitter.com/major_rocha45", 
         "politico_instagram": "https://www.instagram.com/majorrocha45/", 
         "title": "ROCHA", 
-        "politico_email": "dep.rocha@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.rocha@camara.leg.br"
     }, 
     "423": {
         "politico_profissao": "Advogado e Administrador de Empresas", 
@@ -7881,8 +7449,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rodrigodecastro45/", 
         "politico_instagram": "https://instagram.com/rodrigocastro45/", 
         "title": "RODRIGO DE CASTRO", 
-        "politico_email": "dep.rodrigodecastro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rodrigocastro45"
+        "politico_email": "dep.rodrigodecastro@camara.leg.br"
     }, 
     "424": {
         "politico_profissao": "Banc\u00e1rio", 
@@ -7900,8 +7467,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RodrigoMaiaRJ/", 
         "politico_instagram": "https://instagram.com/rodrigomaiarj/", 
         "title": "RODRIGO MAIA", 
-        "politico_email": "dep.rodrigomaia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deprodrigomaia"
+        "politico_email": "dep.rodrigomaia@camara.leg.br"
     }, 
     "425": {
         "politico_profissao": "Cirurgi\u00e3o-dentista", 
@@ -7919,8 +7485,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rodrigomartins4120391/", 
         "politico_instagram": "", 
         "title": "RODRIGO MARTINS", 
-        "politico_email": "dep.rodrigomartins@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rodrigopsb"
+        "politico_email": "dep.rodrigomartins@camara.leg.br"
     }, 
     "426": {
         "politico_profissao": "Advogado(a)", 
@@ -7938,8 +7503,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RodrigoPacheco1515/", 
         "politico_instagram": "", 
         "title": "RODRIGO PACHECO", 
-        "politico_email": "dep.rodrigopacheco@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.rodrigopacheco@camara.leg.br"
     }, 
     "427": {
         "politico_profissao": "", 
@@ -7957,8 +7521,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rogeriosmarinho/?fref=photo", 
         "politico_instagram": "", 
         "title": "ROG\u00c9RIO MARINHO", 
-        "politico_email": "dep.rogeriomarinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rogeriosmarinho"
+        "politico_email": "dep.rogeriomarinho@camara.leg.br"
     }, 
     "428": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo", 
@@ -7976,8 +7539,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadopeninha/", 
         "politico_instagram": "", 
         "title": "ROG\u00c9RIO PENINHA MENDON\u00c7A", 
-        "politico_email": "dep.rogeriopeninhamendonca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadopeninha"
+        "politico_email": "dep.rogeriopeninhamendonca@camara.leg.br"
     }, 
     "429": {
         "politico_profissao": "M\u00fasico, Advogado", 
@@ -7995,15 +7557,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RogerioRossoOficial/", 
         "politico_instagram": "https://www.instagram.com/rogeriorosso/", 
         "title": "ROG\u00c9RIO ROSSO", 
-        "politico_email": "dep.rogeriorosso@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.rogeriorosso@camara.leg.br"
     }, 
     "430": {
         "politico_profissao": "Servidor P\u00fablico", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "430", 
         "politico_partido": "PSD", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5411", 
         "politico_estado": "PB", 
@@ -8014,8 +7575,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/R%C3%B4mulo-Gouveia-701538999871261/", 
         "politico_instagram": "https://www.instagram.com/romulogouveiapb", 
         "title": "R\u00d4MULO GOUVEIA", 
-        "politico_email": "dep.romulogouveia@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/romulogouveia"
+        "politico_email": "dep.romulogouveia@camara.leg.br"
     }, 
     "431": {
         "politico_profissao": "Advogado", 
@@ -8033,8 +7593,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RonaldoBenedet/", 
         "politico_instagram": "", 
         "title": "RONALDO BENEDET", 
-        "politico_email": "dep.ronaldobenedet@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ronaldo_benedet"
+        "politico_email": "dep.ronaldobenedet@camara.leg.br"
     }, 
     "432": {
         "politico_profissao": "Empres\u00e1rio de Transporte", 
@@ -8052,8 +7611,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/RonaldoCarlettoOficial", 
         "politico_instagram": "https://www.instagram.com/ronaldocarletto/", 
         "title": "RONALDO CARLETTO", 
-        "politico_email": "dep.ronaldocarletto@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.ronaldocarletto@camara.leg.br"
     }, 
     "433": {
         "politico_profissao": "Advogado", 
@@ -8071,8 +7629,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ronaldofonsecaoficial/", 
         "politico_instagram": "https://www.instagram.com/depronaldo/", 
         "title": "RONALDO FONSECA", 
-        "politico_email": "dep.ronaldofonseca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depronaldo"
+        "politico_email": "dep.ronaldofonseca@camara.leg.br"
     }, 
     "434": {
         "politico_profissao": "Engenheiro Civil", 
@@ -8090,8 +7647,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Ronaldo-Lessa-139755579370881/", 
         "politico_instagram": "", 
         "title": "RONALDO LESSA", 
-        "politico_email": "dep.ronaldolessa@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ronaldolessapdt"
+        "politico_email": "dep.ronaldolessa@camara.leg.br"
     }, 
     "435": {
         "politico_profissao": "M\u00fasico,radialista", 
@@ -8109,8 +7665,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoronaldomartins", 
         "politico_instagram": "https://instagram.com/ronaldomartins1010/", 
         "title": "RONALDO MARTINS", 
-        "politico_email": "dep.ronaldomartins@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ronaldoprb10"
+        "politico_email": "dep.ronaldomartins@camara.leg.br"
     }, 
     "436": {
         "politico_profissao": "Administrador de Empresas", 
@@ -8128,8 +7683,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ronaldonogueirarn/", 
         "politico_instagram": "https://www.instagram.com/ronaldonogueira_rn/", 
         "title": "RONALDO NOGUEIRA", 
-        "politico_email": "dep.ronaldonogueira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ronaldornrn"
+        "politico_email": "dep.ronaldonogueira@camara.leg.br"
     }, 
     "437": {
         "politico_profissao": "Servidor P\u00fablico Estadual", 
@@ -8147,8 +7701,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/roneynemerdf/", 
         "politico_instagram": "", 
         "title": "R\u00d4NEY NEMER", 
-        "politico_email": "dep.roneynemer@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/roneynemer"
+        "politico_email": "dep.roneynemer@camara.leg.br"
     }, 
     "438": {
         "politico_profissao": "Bacharela Em Direito", 
@@ -8166,8 +7719,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rosangelasgomesrj/", 
         "politico_instagram": "https://www.instagram.com/rosangelacurado/", 
         "title": "ROSANGELA GOMES", 
-        "politico_email": "dep.rosangelagomes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rosangelacurado"
+        "politico_email": "dep.rosangelagomes@camara.leg.br"
     }, 
     "439": {
         "politico_profissao": "Professor", 
@@ -8185,8 +7737,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rubensbuenopps/", 
         "politico_instagram": "", 
         "title": "RUBENS BUENO", 
-        "politico_email": "dep.rubensbueno@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rubensbuenopps"
+        "politico_email": "dep.rubensbueno@camara.leg.br"
     }, 
     "440": {
         "politico_profissao": "Professor Universit\u00e1rio e Consultor Jur\u00eddico", 
@@ -8204,8 +7755,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rubensotoni/", 
         "politico_instagram": "https://www.instagram.com/rubensotoni", 
         "title": "RUBENS OTONI", 
-        "politico_email": "dep.rubensotoni@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rubensotoni"
+        "politico_email": "dep.rubensotoni@camara.leg.br"
     }, 
     "441": {
         "politico_profissao": "Advogado(a)", 
@@ -8223,8 +7773,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deprubenspereirajr/", 
         "politico_instagram": "https://www.instagram.com/rubenspereirajr/", 
         "title": "RUBENS PEREIRA J\u00daNIOR", 
-        "politico_email": "dep.rubenspereirajunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/rubenspereirajr"
+        "politico_email": "dep.rubenspereirajunior@camara.leg.br"
     }, 
     "442": {
         "politico_profissao": "M\u00e9dico", 
@@ -8242,8 +7791,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/saguasfederal", 
         "politico_instagram": "", 
         "title": "S\u00c1GUAS MORAES", 
-        "politico_email": "dep.saguasmoraes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/saguasmoraes"
+        "politico_email": "dep.saguasmoraes@camara.leg.br"
     }, 
     "443": {
         "politico_profissao": "Engenheiro Civil", 
@@ -8261,8 +7809,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoFederalSamuelMoreira", 
         "politico_instagram": "https://www.instagram.com/depsamuelmoreira/", 
         "title": "SAMUEL MOREIRA", 
-        "politico_email": "dep.samuelmoreira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/samuelmoreira"
+        "politico_email": "dep.samuelmoreira@camara.leg.br"
     }, 
     "444": {
         "politico_profissao": "Radialista e Advogado", 
@@ -8280,8 +7827,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sandesjunior/", 
         "politico_instagram": "https://instagram.com/sandesjunior/", 
         "title": "SANDES J\u00daNIOR", 
-        "politico_email": "dep.sandesjunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sandes_junior"
+        "politico_email": "dep.sandesjunior@camara.leg.br"
     }, 
     "445": {
         "politico_profissao": "Advogado", 
@@ -8299,8 +7845,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depsandroalex/", 
         "politico_instagram": "", 
         "title": "SANDRO ALEX", 
-        "politico_email": "dep.sandroalex@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sandroalex2323"
+        "politico_email": "dep.sandroalex@camara.leg.br"
     }, 
     "446": {
         "politico_profissao": "Professor Universit\u00e1rio e M\u00e9dico", 
@@ -8318,8 +7863,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Saraiva-Felipe-552014011498511/", 
         "politico_instagram": "", 
         "title": "SARAIVA FELIPE", 
-        "politico_email": "dep.saraivafelipe@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.saraivafelipe@camara.leg.br"
     }, 
     "447": {
         "politico_profissao": "Advogado", 
@@ -8337,8 +7881,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sarneyfilho/", 
         "politico_instagram": "https://www.instagram.com/sarneyfilho/", 
         "title": "SARNEY FILHO", 
-        "politico_email": "dep.sarneyfilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sarneyfilho"
+        "politico_email": "dep.sarneyfilho@camara.leg.br"
     }, 
     "448": {
         "politico_profissao": "Administrador de Empresas, Bacharel Em Direito", 
@@ -8356,8 +7899,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depfederalsergiobrito/", 
         "politico_instagram": "", 
         "title": "S\u00c9RGIO BRITO", 
-        "politico_email": "dep.sergiobrito@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.sergiobrito@camara.leg.br"
     }, 
     "449": {
         "politico_profissao": "Comerciante", 
@@ -8375,8 +7917,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depsergiomoraes/", 
         "politico_instagram": "", 
         "title": "S\u00c9RGIO MORAES", 
-        "politico_email": "dep.sergiomoraes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depsergiomoraes"
+        "politico_email": "dep.sergiomoraes@camara.leg.br"
     }, 
     "450": {
         "politico_profissao": "Cantor", 
@@ -8394,8 +7935,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadosergioreis/", 
         "politico_instagram": "", 
         "title": "S\u00c9RGIO REIS", 
-        "politico_email": "dep.sergioreis@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sergioreis"
+        "politico_email": "dep.sergioreis@camara.leg.br"
     }, 
     "451": {
         "politico_profissao": "Advogado(a)", 
@@ -8413,8 +7953,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sergiosouza1512/", 
         "politico_instagram": "", 
         "title": "SERGIO SOUZA", 
-        "politico_email": "dep.sergiosouza@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/_sergiosouza"
+        "politico_email": "dep.sergiosouza@camara.leg.br"
     }, 
     "452": {
         "politico_profissao": "", 
@@ -8432,8 +7971,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/vidigalsergio/", 
         "politico_instagram": "", 
         "title": "SERGIO VIDIGAL", 
-        "politico_email": "dep.sergiovidigal@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vidigalsergio"
+        "politico_email": "dep.sergiovidigal@camara.leg.br"
     }, 
     "453": {
         "politico_profissao": "Psic\u00f3loga", 
@@ -8451,8 +7989,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sheridan4545/", 
         "politico_instagram": "", 
         "title": "SH\u00c9RIDAN", 
-        "politico_email": "dep.sheridan@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depsheridan"
+        "politico_email": "dep.sheridan@camara.leg.br"
     }, 
     "454": {
         "politico_profissao": "Geogr\u00e1fo", 
@@ -8470,8 +8007,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sibamachado1313/", 
         "politico_instagram": "", 
         "title": "SIB\u00c1 MACHADO", 
-        "politico_email": "dep.sibamachado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/sibamachado13"
+        "politico_email": "dep.sibamachado@camara.leg.br"
     }, 
     "455": {
         "politico_profissao": "Empres\u00e1rio e Produtor Rural", 
@@ -8489,8 +8025,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/silasbrasileiro/", 
         "politico_instagram": "", 
         "title": "SILAS BRASILEIRO", 
-        "politico_email": "dep.silasbrasileiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/silasbrasileir"
+        "politico_email": "dep.silasbrasileiro@camara.leg.br"
     }, 
     "456": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -8508,8 +8043,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DepSilas/", 
         "politico_instagram": "https://www.instagram.com/depsilascamara/", 
         "title": "SILAS C\u00c2MARA", 
-        "politico_email": "dep.silascamara@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/silascamara_"
+        "politico_email": "dep.silascamara@camara.leg.br"
     }, 
     "457": {
         "politico_profissao": "", 
@@ -8527,8 +8061,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/silasfreirepi/", 
         "politico_instagram": "", 
         "title": "SILAS FREIRE", 
-        "politico_email": "dep.silasfreire@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/silasfreire"
+        "politico_email": "dep.silasfreire@camara.leg.br"
     }, 
     "458": {
         "politico_profissao": "", 
@@ -8546,8 +8079,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoSilvioCosta", 
         "politico_instagram": "", 
         "title": "SILVIO COSTA", 
-        "politico_email": "dep.silviocosta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/silvio_cfilho"
+        "politico_email": "dep.silviocosta@camara.leg.br"
     }, 
     "459": {
         "politico_profissao": "Jornalista e Empres\u00e1rio", 
@@ -8565,8 +8097,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/SilvioTorresPSDB/", 
         "politico_instagram": "https://www.instagram.com/silviotorres_/", 
         "title": "SILVIO TORRES", 
-        "politico_email": "dep.silviotorres@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/_silviotorres_"
+        "politico_email": "dep.silviotorres@camara.leg.br"
     }, 
     "460": {
         "politico_profissao": "Professor e Advogado", 
@@ -8584,8 +8115,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoSimaoSessim", 
         "politico_instagram": "", 
         "title": "SIM\u00c3O SESSIM", 
-        "politico_email": "dep.simaosessim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/simao_sessim"
+        "politico_email": "dep.simaosessim@camara.leg.br"
     }, 
     "461": {
         "politico_profissao": "", 
@@ -8603,8 +8133,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Simone-Morgado-385219224834647/", 
         "politico_instagram": "https://www.instagram.com/simonemorgado_", 
         "title": "SIMONE MORGADO", 
-        "politico_email": "dep.simonemorgado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/simone_morgado"
+        "politico_email": "dep.simonemorgado@camara.leg.br"
     }, 
     "462": {
         "politico_profissao": "", 
@@ -8622,8 +8151,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sorayasantos1513/", 
         "politico_instagram": "", 
         "title": "SORAYA SANTOS", 
-        "politico_email": "dep.sorayasantos@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.sorayasantos@camara.leg.br"
     }, 
     "463": {
         "politico_profissao": "Te\u00f3logo", 
@@ -8641,15 +8169,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sostenescavalcante", 
         "politico_instagram": "https://www.instagram.com/depsostenes/", 
         "title": "S\u00d3STENES CAVALCANTE", 
-        "politico_email": "dep.sostenescavalcante@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depsostenes"
+        "politico_email": "dep.sostenescavalcante@camara.leg.br"
     }, 
     "464": {
         "politico_profissao": "Administrador e Ministro do Evangelho", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "464", 
         "politico_partido": "PSD", 
-        "politico_impeachment": "CONTRA", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5341", 
         "politico_estado": "MG", 
@@ -8660,8 +8187,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/PastorStefanoAguiar/", 
         "politico_instagram": "", 
         "title": "STEFANO AGUIAR", 
-        "politico_email": "dep.stefanoaguiar@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depstefano"
+        "politico_email": "dep.stefanoaguiar@camara.leg.br"
     }, 
     "465": {
         "politico_profissao": "", 
@@ -8679,8 +8205,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/subtenentegonzaga/", 
         "politico_instagram": "", 
         "title": "SUBTENENTE GONZAGA", 
-        "politico_email": "dep.subtenentegonzaga@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/subgonzagamg"
+        "politico_email": "dep.subtenentegonzaga@camara.leg.br"
     }, 
     "466": {
         "politico_profissao": "Procurador", 
@@ -8698,8 +8223,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/TadeuAlencar4020/", 
         "politico_instagram": "https://www.instagram.com/deputadotadeualencar/", 
         "title": "TADEU ALENCAR", 
-        "politico_email": "dep.tadeualencar@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.tadeualencar@camara.leg.br"
     }, 
     "467": {
         "politico_profissao": "Professor, Empres\u00e1rio e Ministro Evang\u00e9lico", 
@@ -8717,8 +8241,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadotakayama", 
         "politico_instagram": "", 
         "title": "TAKAYAMA", 
-        "politico_email": "dep.takayama@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pastortakayama"
+        "politico_email": "dep.takayama@camara.leg.br"
     }, 
     "468": {
         "politico_profissao": "", 
@@ -8736,8 +8259,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/tenentelucio1", 
         "politico_instagram": "", 
         "title": "TENENTE L\u00daCIO", 
-        "politico_email": "dep.tenentelucio@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deptenentelucio"
+        "politico_email": "dep.tenentelucio@camara.leg.br"
     }, 
     "469": {
         "politico_profissao": "", 
@@ -8755,8 +8277,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/terezacristinams/", 
         "politico_instagram": "", 
         "title": "TEREZA CRISTINA", 
-        "politico_email": "dep.terezacristina@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/tereza_20456"
+        "politico_email": "dep.terezacristina@camara.leg.br"
     }, 
     "470": {
         "politico_profissao": "", 
@@ -8774,8 +8295,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/TiaEron/", 
         "politico_instagram": "https://www.instagram.com/tiaeron", 
         "title": "TIA ERON", 
-        "politico_email": "dep.tiaeron@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/tiaeron"
+        "politico_email": "dep.tiaeron@camara.leg.br"
     }, 
     "471": {
         "politico_profissao": "Ator", 
@@ -8793,8 +8313,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/tiriricaPR", 
         "politico_instagram": "https://www.instagram.com/tiriricanaweb/", 
         "title": "TIRIRICA", 
-        "politico_email": "dep.tiririca@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/tiriricanaweb"
+        "politico_email": "dep.tiririca@camara.leg.br"
     }, 
     "472": {
         "politico_profissao": "Comerciante", 
@@ -8812,8 +8331,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/toninho.pinheiro.3/", 
         "politico_instagram": "", 
         "title": "TONINHO PINHEIRO", 
-        "politico_email": "dep.toninhopinheiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pinheirotoninho"
+        "politico_email": "dep.toninhopinheiro@camara.leg.br"
     }, 
     "473": {
         "politico_profissao": "Engenheiro Civil", 
@@ -8831,8 +8349,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoToninhoWandscheer/", 
         "politico_instagram": "", 
         "title": "TONINHO WANDSCHEER", 
-        "politico_email": "dep.toninhowandscheer@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadotoninho"
+        "politico_email": "dep.toninhowandscheer@camara.leg.br"
     }, 
     "474": {
         "politico_profissao": "Estudante Universit\u00e1rio", 
@@ -8850,8 +8367,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ulduricojunior3637", 
         "politico_instagram": "https://instagram.com/ulduricojunior/", 
         "title": "ULDURICO JUNIOR", 
-        "politico_email": "dep.ulduricojunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/UlduricoJunior"
+        "politico_email": "dep.ulduricojunior@camara.leg.br"
     }, 
     "475": {
         "politico_profissao": "Administrador de Empresas", 
@@ -8869,8 +8385,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/ValadaresFilho/", 
         "politico_instagram": "https://www.instagram.com/valadaresfilho", 
         "title": "VALADARES FILHO", 
-        "politico_email": "dep.valadaresfilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/valadares_filho"
+        "politico_email": "dep.valadaresfilho@camara.leg.br"
     }, 
     "476": {
         "politico_profissao": "Engenheiro Agr\u00f4nomo", 
@@ -8888,8 +8403,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadovaldircolatto", 
         "politico_instagram": "", 
         "title": "VALDIR COLATTO", 
-        "politico_email": "dep.valdircolatto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/colattodeputado"
+        "politico_email": "dep.valdircolatto@camara.leg.br"
     }, 
     "477": {
         "politico_profissao": "Agricultor", 
@@ -8907,8 +8421,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/falavalmir", 
         "politico_instagram": "https://www.instagram.com/depvalmir/", 
         "title": "VALMIR ASSUN\u00c7\u00c3O", 
-        "politico_email": "dep.valmirassuncao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depvalmir"
+        "politico_email": "dep.valmirassuncao@camara.leg.br"
     }, 
     "478": {
         "politico_profissao": "", 
@@ -8926,8 +8439,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/valmir.prascidelli/", 
         "politico_instagram": "https://www.instagram.com/valmirprascidelli/", 
         "title": "VALMIR PRASCIDELLI", 
-        "politico_email": "dep.valmirprascidelli@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/prascidelli"
+        "politico_email": "dep.valmirprascidelli@camara.leg.br"
     }, 
     "479": {
         "politico_profissao": "Advogado, Vendedor Aut\u00f4nomo, Vendedor, Auxiliar de Escrit\u00f3rio, Engraxate, Defensor P\u00fablico e Professor de Direito", 
@@ -8945,8 +8457,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/valtenirpereiraoficial", 
         "politico_instagram": "", 
         "title": "VALTENIR PEREIRA", 
-        "politico_email": "dep.valtenirpereira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depvaltenir"
+        "politico_email": "dep.valtenirpereira@camara.leg.br"
     }, 
     "480": {
         "politico_profissao": "Banc\u00e1rio e Funcion\u00e1rio P\u00fablico", 
@@ -8964,8 +8475,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/vanderfazmais", 
         "politico_instagram": "https://www.instagram.com/vanderfazmais/", 
         "title": "VANDER LOUBET", 
-        "politico_email": "dep.vanderloubet@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vanderfazmais"
+        "politico_email": "dep.vanderloubet@camara.leg.br"
     }, 
     "481": {
         "politico_profissao": "", 
@@ -8983,15 +8493,14 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadomacris", 
         "politico_instagram": "https://www.instagram.com/vanderleimacris/", 
         "title": "VANDERLEI MACRIS", 
-        "politico_email": "dep.vanderleimacris@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vanderleimacris"
+        "politico_email": "dep.vanderleimacris@camara.leg.br"
     }, 
     "482": {
         "politico_profissao": "Advogado(a)", 
         "politico_whatsapp": "", 
         "politico_id_planilha": "482", 
         "politico_partido": "PMDB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "FAVOR", 
         "politico_comissao": false, 
         "3215-5475": "3215-5833", 
         "politico_estado": "PB", 
@@ -9002,8 +8511,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/venezianocomvoce/", 
         "politico_instagram": "", 
         "title": "VENEZIANO VITAL DO R\u00caGO", 
-        "politico_email": "dep.venezianovitaldorego@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mobiliza15"
+        "politico_email": "dep.venezianovitaldorego@camara.leg.br"
     }, 
     "483": {
         "politico_profissao": "Advogado, Cientista Pol\u00edtico e Jornalista", 
@@ -9021,8 +8529,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoVicenteArruda/", 
         "politico_instagram": "", 
         "title": "VICENTE ARRUDA", 
-        "politico_email": "dep.vicentearruda@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.vicentearruda@camara.leg.br"
     }, 
     "484": {
         "politico_profissao": "Advogado, Comerciante", 
@@ -9040,8 +8547,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadovicentecandido", 
         "politico_instagram": "", 
         "title": "VICENTE CANDIDO", 
-        "politico_email": "dep.vicentecandido@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vicente_candido"
+        "politico_email": "dep.vicentecandido@camara.leg.br"
     }, 
     "485": {
         "politico_profissao": "Bacharel Em Direito e Metal\u00fargico.", 
@@ -9059,8 +8565,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoFederalVicentinho/", 
         "politico_instagram": "", 
         "title": "VICENTINHO", 
-        "politico_email": "dep.vicentinho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vicentinhopt"
+        "politico_email": "dep.vicentinho@camara.leg.br"
     }, 
     "486": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -9078,8 +8583,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/VicentinhoJr/", 
         "politico_instagram": "https://www.instagram.com/vicentinhojunior/", 
         "title": "VICENTINHO J\u00daNIOR", 
-        "politico_email": "dep.vicentinhojunior@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vicentinhojr"
+        "politico_email": "dep.vicentinhojunior@camara.leg.br"
     }, 
     "487": {
         "politico_profissao": "Advogado(a)", 
@@ -9097,8 +8601,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/victormendesma/", 
         "politico_instagram": "https://www.instagram.com/victormendesma/", 
         "title": "VICTOR MENDES", 
-        "politico_email": "dep.victormendes@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/victormendesma"
+        "politico_email": "dep.victormendes@camara.leg.br"
     }, 
     "488": {
         "politico_profissao": "Administrador de Empresas, Advogado, Radialista, Jornalista", 
@@ -9116,8 +8619,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/viniciuscarvalhooficial/", 
         "politico_instagram": "https://instagram.com/viniciuscarvalhoprb/", 
         "title": "VINICIUS CARVALHO", 
-        "politico_email": "dep.viniciuscarvalho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/viniciusfederal"
+        "politico_email": "dep.viniciuscarvalho@camara.leg.br"
     }, 
     "489": {
         "politico_profissao": "Contador", 
@@ -9135,8 +8637,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoviniciusgurgel/", 
         "politico_instagram": "", 
         "title": "VINICIUS GURGEL", 
-        "politico_email": "dep.viniciusgurgel@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.viniciusgurgel@camara.leg.br"
     }, 
     "490": {
         "politico_profissao": "M\u00e9dico(a)", 
@@ -9154,8 +8655,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/vitorlippi/", 
         "politico_instagram": "", 
         "title": "VITOR LIPPI", 
-        "politico_email": "dep.vitorlippi@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/depvitorlippi"
+        "politico_email": "dep.vitorlippi@camara.leg.br"
     }, 
     "491": {
         "politico_profissao": "", 
@@ -9173,8 +8673,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/vitorvalimfanpage", 
         "politico_instagram": "", 
         "title": "VITOR VALIM", 
-        "politico_email": "dep.vitorvalim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/vitorvalim"
+        "politico_email": "dep.vitorvalim@camara.leg.br"
     }, 
     "492": {
         "politico_profissao": "", 
@@ -9192,8 +8691,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wadihdamous/", 
         "politico_instagram": "", 
         "title": "WADIH DAMOUS", 
-        "politico_email": "dep.wadihdamous@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/wadih_damous"
+        "politico_email": "dep.wadihdamous@camara.leg.br"
     }, 
     "493": {
         "politico_profissao": "", 
@@ -9211,8 +8709,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wadsonribeiro65/", 
         "politico_instagram": "https://instagram.com/wadsonribeiro65/", 
         "title": "WADSON RIBEIRO", 
-        "politico_email": "dep.wadsonribeiro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/wadson_ribeiro"
+        "politico_email": "dep.wadsonribeiro@camara.leg.br"
     }, 
     "494": {
         "politico_profissao": "Economista", 
@@ -9230,8 +8727,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadowaldenorpereira/", 
         "politico_instagram": "", 
         "title": "WALDENOR PEREIRA", 
-        "politico_email": "dep.waldenorpereira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/waldenorpereira"
+        "politico_email": "dep.waldenorpereira@camara.leg.br"
     }, 
     "495": {
         "politico_profissao": "M\u00e9dico Veterin\u00e1rio", 
@@ -9249,8 +8745,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/fapagewaldirmaranhao/", 
         "politico_instagram": "https://instagram.com/waldirmaranhao/", 
         "title": "WALDIR MARANH\u00c3O", 
-        "politico_email": "dep.waldirmaranhao@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/waldirmaranhao"
+        "politico_email": "dep.waldirmaranhao@camara.leg.br"
     }, 
     "496": {
         "politico_profissao": "Administrador", 
@@ -9268,8 +8763,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/Deputado-Walter-Alves-457272360980075/", 
         "politico_instagram": "https://www.instagram.com/walteralvesrn", 
         "title": "WALTER ALVES", 
-        "politico_email": "dep.walteralves@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/walteralvesrn"
+        "politico_email": "dep.walteralves@camara.leg.br"
     }, 
     "497": {
         "politico_profissao": "", 
@@ -9287,8 +8781,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/washingtonreisoficial/", 
         "politico_instagram": "", 
         "title": "WASHINGTON REIS", 
-        "politico_email": "dep.washingtonreis@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/wreis_oficial"
+        "politico_email": "dep.washingtonreis@camara.leg.br"
     }, 
     "498": {
         "politico_profissao": "Bacharel Em Filosofia", 
@@ -9306,8 +8799,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/WelitonPrado", 
         "politico_instagram": "", 
         "title": "WELITON PRADO", 
-        "politico_email": "dep.welitonprado@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pradoweliton"
+        "politico_email": "dep.welitonprado@camara.leg.br"
     }, 
     "499": {
         "politico_profissao": "N\u00e3o Informada", 
@@ -9325,8 +8817,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadowellingtonroberto/", 
         "politico_instagram": "https://www.instagram.com/wellingtonrobertopb/", 
         "title": "WELLINGTON ROBERTO", 
-        "politico_email": "dep.wellingtonroberto@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_wellington"
+        "politico_email": "dep.wellingtonroberto@camara.leg.br"
     }, 
     "500": {
         "politico_profissao": "", 
@@ -9344,8 +8835,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wevertonrocha12/", 
         "politico_instagram": "", 
         "title": "WEVERTON ROCHA", 
-        "politico_email": "dep.wevertonrocha@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.wevertonrocha@camara.leg.br"
     }, 
     "501": {
         "politico_profissao": "Policial Civil, Engenheiro Mec\u00e2nico, Bacharel Em Direito", 
@@ -9363,8 +8853,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/pedrocloficial/?fref=ts", 
         "politico_instagram": "", 
         "title": "PEDRO CUNHA LIMA", 
-        "politico_email": "dep.pedrocunhalima@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pedroocl"
+        "politico_email": "dep.pedrocunhalima@camara.leg.br"
     }, 
     "502": {
         "politico_profissao": "", 
@@ -9382,8 +8871,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wsbeserra/", 
         "politico_instagram": "", 
         "title": "WILSON BESERRA", 
-        "politico_email": "dep.wilsonbeserra@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.wilsonbeserra@camara.leg.br"
     }, 
     "503": {
         "politico_profissao": "", 
@@ -9401,8 +8889,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wilsonfilhodep/", 
         "politico_instagram": "https://www.instagram.com/wilsonsantiagofilho/", 
         "title": "WILSON FILHO", 
-        "politico_email": "dep.wilsonfilho@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/wilsonfilho_"
+        "politico_email": "dep.wilsonfilho@camara.leg.br"
     }, 
     "504": {
         "politico_profissao": "Locutor e Comentarista de Radio e Televisao e Radialista", 
@@ -9420,8 +8907,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadowlad/", 
         "politico_instagram": "https://instagram.com/deputadowlad/", 
         "title": "WLADIMIR COSTA", 
-        "politico_email": "dep.wladimircosta@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/deputadowlad"
+        "politico_email": "dep.wladimircosta@camara.leg.br"
     }, 
     "505": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -9439,8 +8925,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/wolney.queiroz.1?fref=ts", 
         "politico_instagram": "https://www.instagram.com/wolneyqueiroz/", 
         "title": "WOLNEY QUEIROZ", 
-        "politico_email": "dep.wolneyqueiroz@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/mandatowolney"
+        "politico_email": "dep.wolneyqueiroz@camara.leg.br"
     }, 
     "507": {
         "politico_profissao": "Engenheiro Civil", 
@@ -9458,8 +8943,7 @@ var deputados = {
         "politico_facebook": "https://www.instagram.com/depzecarlospt/", 
         "politico_instagram": "https://instagram.com/buffon45222/", 
         "title": "Z\u00c9 CARLOS", 
-        "politico_email": "dep.zecarlos@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/dep_zecarlospt"
+        "politico_email": "dep.zecarlos@camara.leg.br"
     }, 
     "508": {
         "politico_profissao": "Agricultor", 
@@ -9477,8 +8961,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/zegeraldofederal", 
         "politico_instagram": "", 
         "title": "Z\u00c9 GERALDO", 
-        "politico_email": "dep.zegeraldo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/zegeraldopt13"
+        "politico_email": "dep.zegeraldo@camara.leg.br"
     }, 
     "509": {
         "politico_profissao": "Agricultor, Agr\u00f4nomo, Extensionista Rural", 
@@ -9496,8 +8979,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederalzesilva/", 
         "politico_instagram": "", 
         "title": "Z\u00c9 SILVA", 
-        "politico_email": "dep.zesilva@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/ZeSilva_"
+        "politico_email": "dep.zesilva@camara.leg.br"
     }, 
     "510": {
         "politico_profissao": "", 
@@ -9515,8 +8997,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/zecacavalcantiPTB/", 
         "politico_instagram": "https://www.instagram.com/zecacavalcanti/", 
         "title": "ZECA CAVALCANTI", 
-        "politico_email": "dep.zecacavalcanti@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.zecacavalcanti@camara.leg.br"
     }, 
     "511": {
         "politico_profissao": "Empres\u00e1rio", 
@@ -9534,8 +9015,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadofederalzecadirceu/", 
         "politico_instagram": "https://www.instagram.com/zecadirceu/", 
         "title": "ZECA DIRCEU", 
-        "politico_email": "dep.zecadirceu@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/zeca_dirceu"
+        "politico_email": "dep.zecadirceu@camara.leg.br"
     }, 
     "512": {
         "politico_profissao": "Banc\u00e1rio", 
@@ -9553,8 +9033,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/zecadopt13/", 
         "politico_instagram": "https://www.instagram.com/zecadopt/", 
         "title": "ZECA DO PT", 
-        "politico_email": "dep.zecadopt@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/zecadopt"
+        "politico_email": "dep.zecadopt@camara.leg.br"
     }, 
     "513": {
         "politico_profissao": "M\u00e9dica", 
@@ -9572,8 +9051,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/depzenaidemaia", 
         "politico_instagram": "https://www.instagram.com/dep.zenaidemaia/", 
         "title": "ZENAIDE MAIA", 
-        "politico_email": "dep.zenaidemaia@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.zenaidemaia@camara.leg.br"
     }, 
     "1001": {
         "politico_profissao": "", 
@@ -9591,8 +9069,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/CesarSouzaJuniorFLN/?fref=ts", 
         "politico_instagram": "", 
         "title": "C\u00c9SAR SOUZA", 
-        "politico_email": "dep.cezarsouza@camara.leg.br", 
-        "politico_twitter": "http://twitter.com/CesarSouzaJr_"
+        "politico_email": "dep.cezarsouza@camara.leg.br"
     }, 
     "1002": {
         "politico_profissao": "", 
@@ -9610,8 +9087,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/deputadoarnaldojardim/", 
         "politico_instagram": "", 
         "title": "ARNALDO JARDIM", 
-        "politico_email": "dep.arnaldojardim@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/search?q=Arnaldo%20Jardim&src=tyah"
+        "politico_email": "dep.arnaldojardim@camara.leg.br"
     }, 
     "1003": {
         "politico_profissao": "", 
@@ -9629,8 +9105,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/florianopesaro45/posts/1007623522663546:0", 
         "politico_instagram": "http://linkis.com/www.instagram.com/p/22yWC", 
         "title": "FLORIANO PESARO", 
-        "politico_email": "dep.florianopesaro@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/Floriano45"
+        "politico_email": "dep.florianopesaro@camara.leg.br"
     }, 
     "1004": {
         "politico_profissao": "", 
@@ -9648,8 +9123,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/rio.pedropaulo/", 
         "politico_instagram": "", 
         "title": "PEDRO PAULO", 
-        "politico_email": "dep.pedropaulo@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/pedropaulo"
+        "politico_email": "dep.pedropaulo@camara.leg.br"
     }, 
     "1005": {
         "politico_profissao": "", 
@@ -9667,8 +9141,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/celsopansera/?fref=ts", 
         "politico_instagram": "", 
         "title": "CELSO PANSERA", 
-        "politico_email": "dep.celsopansera@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/search?q=CELSO%20PANSERA&src=typd"
+        "politico_email": "dep.celsopansera@camara.leg.br"
     }, 
     "1006": {
         "politico_profissao": "", 
@@ -9686,8 +9159,7 @@ var deputados = {
         "politico_facebook": "", 
         "politico_instagram": "", 
         "title": "MARCELO CASTRO", 
-        "politico_email": "dep.marcelocastro@camara.leg.br", 
-        "politico_twitter": ""
+        "politico_email": "dep.marcelocastro@camara.leg.br"
     }, 
     "1007": {
         "politico_profissao": "", 
@@ -9705,8 +9177,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/sergio.zveiter/?fref=ts", 
         "politico_instagram": "", 
         "title": "SERGIO ZVEITER", 
-        "politico_email": "dep.sergiozveiter@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/search?q=SERGIO%20ZVEITER&src=typd"
+        "politico_email": "dep.sergiozveiter@camara.leg.br"
     }, 
     "1008": {
         "politico_profissao": "", 
@@ -9724,8 +9195,7 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/DeputadoSamuelMoreira/?fref=ts", 
         "politico_instagram": "", 
         "title": "SAMUEL MOREIRA", 
-        "politico_email": "dep.samuelmoreira@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/samuelmoreira"
+        "politico_email": "dep.samuelmoreira@camara.leg.br"
     }, 
     "1009": {
         "politico_profissao": "", 
@@ -9743,7 +9213,24 @@ var deputados = {
         "politico_facebook": "https://www.facebook.com/marcoantonio.nevescabral/?fref=ts", 
         "politico_instagram": "", 
         "title": "MARCO ANT\u00d4NIO CABRAL", 
-        "politico_email": "ep.marcoantoniocabral@camara.leg.br", 
-        "politico_twitter": "https://twitter.com/search?q=MARCO%20ANTONIO%20CABRAL&src=typd"
+        "politico_email": "ep.marcoantoniocabral@camara.leg.br"
+    }, 
+    "1010": {
+        "politico_profissao": "", 
+        "politico_whatsapp": "", 
+        "politico_id_planilha": "1010", 
+        "politico_partido": "DEM", 
+        "politico_impeachment": "FAVOR", 
+        "politico_comissao": false, 
+        "3215-5475": "3215-5242", 
+        "politico_estado": "SP", 
+        "politico_picture": "", 
+        "politico_mulher": "", 
+        "politico_cargo": "", 
+        "politico_anexo": "", 
+        "politico_facebook": "https://www.facebook.com/ricardo.garcia.mira?fref=ts", 
+        "politico_instagram": "", 
+        "title": "RODRIGO GARCIA", 
+        "politico_email": "dep.rodrigogarcia@camara.leg.br"
     }
 }
