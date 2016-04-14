@@ -11,6 +11,10 @@ $(document).ready(function() {
     if (partido && partido[partido.length-1] == '/') {
         partido = partido.substring(0, partido.length-1)
     }
+    var mulher = getURLParameter('mulher')
+    if (mulher) {
+        mulher = parseInt(mulher.substring(0, 1))
+    }
     var favor = [];
     var favor_comissao = [];
     var contra = [];
@@ -25,6 +29,9 @@ $(document).ready(function() {
             continue;
         }
         if (partido && deputados[i].politico_partido != partido) {
+            continue;
+        }
+        if (mulher && deputados[i].politico_mulher != 'SIM'){
             continue;
         }
         precisa += 1;
