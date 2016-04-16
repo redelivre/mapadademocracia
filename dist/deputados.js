@@ -1318,7 +1318,7 @@ var deputados = {
         "politico_whatsapp": "", 
         "politico_id_planilha": "76", 
         "politico_partido": "PTdoB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "CONTRA", 
         "politico_comissao": false, 
         "3215-5475": "3215-5803", 
         "politico_estado": "RJ", 
