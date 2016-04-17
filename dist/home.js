@@ -47,7 +47,7 @@ $(document).ready(function() {
                 favor_comissao.push(deputados[i]);
             }
         }
-        if (deputados[i].politico_impeachment == 'CONTRA') {
+        if (deputados[i].politico_impeachment == 'CONTRA' || deputados[i].politico_impeachment == 'AUSENTE') {
             contra.push(deputados[i]);
             if (deputados[i].politico_comissao) {
                 contra_comissao.push(deputados[i]);
