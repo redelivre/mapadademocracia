@@ -1,7 +1,7 @@
 var deputados = {
     "2048": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9116 7765", 
         "politico_id_planilha": "2048", 
         "politico_partido": "PR", 
         "politico_impeachment": "FAVOR", 
@@ -19,7 +19,7 @@ var deputados = {
     }, 
     "2049": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9227 1010", 
         "politico_id_planilha": "2049", 
         "politico_partido": "PRB", 
         "politico_impeachment": "FAVOR", 
@@ -37,7 +37,7 @@ var deputados = {
     }, 
     "2050": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8217 2930", 
         "politico_id_planilha": "2050", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "FAVOR", 
@@ -55,7 +55,7 @@ var deputados = {
     }, 
     "2051": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9187 2153", 
         "politico_id_planilha": "2051", 
         "politico_partido": "PSD", 
         "politico_impeachment": "INDECISO", 
@@ -73,10 +73,10 @@ var deputados = {
     }, 
     "2052": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9303 0719", 
         "politico_id_planilha": "2052", 
         "politico_partido": "PSD", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "CONTRA", 
         "title": "Otto Alencar", 
         "politico_estado": "BA", 
         "politico_picture": "", 
@@ -91,7 +91,7 @@ var deputados = {
     }, 
     "2053": {
         "politico_profissao": "", 
-        "politico_whatsapp": "6199760944", 
+        "politico_whatsapp": "061-9976 0944", 
         "politico_id_planilha": "2053", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -109,7 +109,7 @@ var deputados = {
     }, 
     "2054": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9993 9131", 
         "politico_id_planilha": "2054", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -127,7 +127,7 @@ var deputados = {
     }, 
     "2055": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-0330 4250", 
         "politico_id_planilha": "2055", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -145,7 +145,7 @@ var deputados = {
     }, 
     "2056": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8294 0807", 
         "politico_id_planilha": "2056", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -163,7 +163,7 @@ var deputados = {
     }, 
     "2057": {
         "politico_profissao": "", 
-        "politico_whatsapp": "6196177653", 
+        "politico_whatsapp": "061-9225 6306", 
         "politico_id_planilha": "2057", 
         "politico_partido": "REDE", 
         "politico_impeachment": "INDECISO", 
@@ -289,7 +289,7 @@ var deputados = {
     }, 
     "2064": {
         "politico_profissao": "", 
-        "politico_whatsapp": "6191924589", 
+        "politico_whatsapp": "061-91924 589", 
         "politico_id_planilha": "2064", 
         "politico_partido": "PSB", 
         "politico_impeachment": "INDECISO", 
@@ -487,7 +487,7 @@ var deputados = {
     }, 
     "2075": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8103 5000", 
         "politico_id_planilha": "2075", 
         "politico_partido": "PCdoB", 
         "politico_impeachment": "CONTRA", 
@@ -505,7 +505,7 @@ var deputados = {
     }, 
     "2076": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9231 2222", 
         "politico_id_planilha": "2076", 
         "politico_partido": "PR", 
         "politico_impeachment": "INDECISO", 
@@ -523,7 +523,7 @@ var deputados = {
     }, 
     "2077": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9943 2380", 
         "politico_id_planilha": "2077", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "FAVOR", 
@@ -541,7 +541,7 @@ var deputados = {
     }, 
     "2078": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8401 7888", 
         "politico_id_planilha": "2078", 
         "politico_partido": "S/Partido", 
         "politico_impeachment": "INDECISO", 
@@ -559,7 +559,7 @@ var deputados = {
     }, 
     "2079": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9121 1230", 
         "politico_id_planilha": "2079", 
         "politico_partido": "PR", 
         "politico_impeachment": "INDECISO", 
@@ -577,7 +577,7 @@ var deputados = {
     }, 
     "2080": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8294 0800", 
         "politico_id_planilha": "2080", 
         "politico_partido": "PP", 
         "politico_impeachment": "FAVOR", 
@@ -595,7 +595,7 @@ var deputados = {
     }, 
     "2081": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8105 1522", 
         "politico_id_planilha": "2081", 
         "politico_partido": "PTB", 
         "politico_impeachment": "FAVOR", 
@@ -667,7 +667,7 @@ var deputados = {
     }, 
     "2004": {
         "politico_profissao": "", 
-        "politico_whatsapp": "061-81161116", 
+        "politico_whatsapp": "061-8116 1116", 
         "politico_id_planilha": "2004", 
         "politico_partido": "PV", 
         "politico_impeachment": "FAVOR", 
@@ -685,7 +685,7 @@ var deputados = {
     }, 
     "2005": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9987 4784", 
         "politico_id_planilha": "2005", 
         "politico_partido": "PP", 
         "politico_impeachment": "FAVOR", 
@@ -703,7 +703,7 @@ var deputados = {
     }, 
     "2006": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8124 9573", 
         "politico_id_planilha": "2006", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -721,7 +721,7 @@ var deputados = {
     }, 
     "2007": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9101 0731", 
         "politico_id_planilha": "2007", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -739,7 +739,7 @@ var deputados = {
     }, 
     "2008": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8116 4746", 
         "politico_id_planilha": "2008", 
         "politico_partido": "PSB", 
         "politico_impeachment": "FAVOR", 
@@ -757,7 +757,7 @@ var deputados = {
     }, 
     "2009": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8594 2027", 
         "politico_id_planilha": "2009", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -775,7 +775,7 @@ var deputados = {
     }, 
     "2010": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "082-99823 0011", 
         "politico_id_planilha": "2010", 
         "politico_partido": "PP", 
         "politico_impeachment": "INDECISO", 
@@ -793,7 +793,7 @@ var deputados = {
     }, 
     "2011": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8107 0914", 
         "politico_id_planilha": "2011", 
         "politico_partido": "PR", 
         "politico_impeachment": "FAVOR", 
@@ -811,7 +811,7 @@ var deputados = {
     }, 
     "2012": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8258 2828", 
         "politico_id_planilha": "2012", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -829,7 +829,7 @@ var deputados = {
     }, 
     "2013": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8109 7777", 
         "politico_id_planilha": "2013", 
         "politico_partido": "PP", 
         "politico_impeachment": "FAVOR", 
@@ -847,7 +847,7 @@ var deputados = {
     }, 
     "2014": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9674 2005", 
         "politico_id_planilha": "2014", 
         "politico_partido": "PPS", 
         "politico_impeachment": "FAVOR", 
@@ -865,7 +865,7 @@ var deputados = {
     }, 
     "2015": {
         "politico_profissao": "", 
-        "politico_whatsapp": "047-88282645", 
+        "politico_whatsapp": "047-8828 2645", 
         "politico_id_planilha": "2015", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -883,7 +883,7 @@ var deputados = {
     }, 
     "2016": {
         "politico_profissao": "", 
-        "politico_whatsapp": "048-99337501", 
+        "politico_whatsapp": "048-9933 7501", 
         "politico_id_planilha": "2016", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "FAVOR", 
@@ -901,7 +901,7 @@ var deputados = {
     }, 
     "2017": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8118 3231", 
         "politico_id_planilha": "2017", 
         "politico_partido": "DEM", 
         "politico_impeachment": "FAVOR", 
@@ -919,7 +919,7 @@ var deputados = {
     }, 
     "2018": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9828 8838", 
         "politico_id_planilha": "2018", 
         "politico_partido": "S/Partido", 
         "politico_impeachment": "FAVOR", 
@@ -937,7 +937,7 @@ var deputados = {
     }, 
     "2019": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8441 9690", 
         "politico_id_planilha": "2019", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -955,10 +955,10 @@ var deputados = {
     }, 
     "2020": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "081-99122 1015", 
         "politico_id_planilha": "2020", 
         "politico_partido": "PTB", 
-        "politico_impeachment": "INDECISO", 
+        "politico_impeachment": "CONTRA", 
         "title": "Douglas Cintra", 
         "politico_estado": "PE", 
         "politico_picture": "", 
@@ -973,7 +973,7 @@ var deputados = {
     }, 
     "2021": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9283 6650", 
         "politico_id_planilha": "2021", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -991,7 +991,7 @@ var deputados = {
     }, 
     "2022": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "079-99922 4220", 
         "politico_id_planilha": "2022", 
         "politico_partido": "PSC", 
         "politico_impeachment": "FAVOR", 
@@ -1009,7 +1009,7 @@ var deputados = {
     }, 
     "2023": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9343 4484", 
         "politico_id_planilha": "2023", 
         "politico_partido": "PTB", 
         "politico_impeachment": "INDECISO", 
@@ -1027,7 +1027,7 @@ var deputados = {
     }, 
     "2024": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8122 1115", 
         "politico_id_planilha": "2024", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -1045,7 +1045,7 @@ var deputados = {
     }, 
     "2025": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8118 0013", 
         "politico_id_planilha": "2025", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1063,7 +1063,7 @@ var deputados = {
     }, 
     "2026": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "081-99668 0035", 
         "politico_id_planilha": "2026", 
         "politico_partido": "PSB", 
         "politico_impeachment": "FAVOR", 
@@ -1081,7 +1081,7 @@ var deputados = {
     }, 
     "2027": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8159 5115", 
         "politico_id_planilha": "2027", 
         "politico_partido": "PTC", 
         "politico_impeachment": "INDECISO", 
@@ -1099,7 +1099,7 @@ var deputados = {
     }, 
     "2028": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9951 4517", 
         "politico_id_planilha": "2028", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -1117,7 +1117,7 @@ var deputados = {
     }, 
     "2029": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8401 5555", 
         "politico_id_planilha": "2029", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "FAVOR", 
@@ -1135,7 +1135,7 @@ var deputados = {
     }, 
     "2030": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9346 5480", 
         "politico_id_planilha": "2030", 
         "politico_partido": "PP", 
         "politico_impeachment": "FAVOR", 
@@ -1153,7 +1153,7 @@ var deputados = {
     }, 
     "2031": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9554 7843", 
         "politico_id_planilha": "2031", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1171,7 +1171,7 @@ var deputados = {
     }, 
     "2032": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9963 4694", 
         "politico_id_planilha": "2032", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -1189,7 +1189,7 @@ var deputados = {
     }, 
     "2033": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8118 3828", 
         "politico_id_planilha": "2033", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1207,7 +1207,7 @@ var deputados = {
     }, 
     "2034": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9353 0826", 
         "politico_id_planilha": "2034", 
         "politico_partido": "PP", 
         "politico_impeachment": "INDECISO", 
@@ -1225,7 +1225,7 @@ var deputados = {
     }, 
     "2035": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8111 7936", 
         "politico_id_planilha": "2035", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -1243,7 +1243,7 @@ var deputados = {
     }, 
     "2036": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8602 6603", 
         "politico_id_planilha": "2036", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "INDECISO", 
@@ -1261,7 +1261,7 @@ var deputados = {
     }, 
     "2037": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8224 0333", 
         "politico_id_planilha": "2037", 
         "politico_partido": "PSB", 
         "politico_impeachment": "CONTRA", 
@@ -1279,7 +1279,7 @@ var deputados = {
     }, 
     "2038": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8153 6488", 
         "politico_id_planilha": "2038", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1297,7 +1297,7 @@ var deputados = {
     }, 
     "2039": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8153 6488", 
         "politico_id_planilha": "2039", 
         "politico_partido": "DEM", 
         "politico_impeachment": "FAVOR", 
@@ -1315,7 +1315,7 @@ var deputados = {
     }, 
     "2040": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9111 0153", 
         "politico_id_planilha": "2040", 
         "politico_partido": "PMDB", 
         "politico_impeachment": "FAVOR", 
@@ -1333,7 +1333,7 @@ var deputados = {
     }, 
     "2041": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9128 8775", 
         "politico_id_planilha": "2041", 
         "politico_partido": "PSD", 
         "politico_impeachment": "FAVOR", 
@@ -1351,7 +1351,7 @@ var deputados = {
     }, 
     "2042": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "085-9987 1331", 
         "politico_id_planilha": "2042", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1369,7 +1369,7 @@ var deputados = {
     }, 
     "2043": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9182 7856", 
         "politico_id_planilha": "2043", 
         "politico_partido": "PSDB", 
         "politico_impeachment": "FAVOR", 
@@ -1387,7 +1387,7 @@ var deputados = {
     }, 
     "2044": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "051-9986 7858", 
         "politico_id_planilha": "2044", 
         "politico_partido": "PDT", 
         "politico_impeachment": "FAVOR", 
@@ -1405,7 +1405,7 @@ var deputados = {
     }, 
     "2045": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-8111 4766", 
         "politico_id_planilha": "2045", 
         "politico_partido": "PSB", 
         "politico_impeachment": "CONTRA", 
@@ -1423,7 +1423,7 @@ var deputados = {
     }, 
     "2046": {
         "politico_profissao": "", 
-        "politico_whatsapp": "6181779900", 
+        "politico_whatsapp": "061-8177 9900", 
         "politico_id_planilha": "2046", 
         "politico_partido": "PT", 
         "politico_impeachment": "CONTRA", 
@@ -1441,7 +1441,7 @@ var deputados = {
     }, 
     "2047": {
         "politico_profissao": "", 
-        "politico_whatsapp": "", 
+        "politico_whatsapp": "061-9649 0044", 
         "politico_id_planilha": "2047", 
         "politico_partido": "PSB", 
         "politico_impeachment": "FAVOR", 
