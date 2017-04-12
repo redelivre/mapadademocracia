@@ -3,7 +3,11 @@
 import json, urllib
 
 #fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1H_cnrYN6GjkTNynyL4PpJLMdIP-kaLrrOdtyukrwcAs/export?format=tsv&id=1H_cnrYN6GjkTNynyL4PpJLMdIP-kaLrrOdtyukrwcAs&gid=198072564')
-fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1QEz226JQEEN61kRUtzQ3VwAH0wpb7OM8kEm8lkUatgk/export?format=tsv')
+
+# mapa da democracia
+# fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1QEz226JQEEN61kRUtzQ3VwAH0wpb7OM8kEm8lkUatgk/export?format=tsv')
+
+fh = urllib.urlopen('https://docs.google.com/spreadsheets/d/1NhLBgNKJVfIa_NtnEoQdSU8l9GAdRrYRfcJNqpGf2UQ/export?format=tsv')
 
 labels = fh.readline().strip().split('\t')
 
@@ -19,12 +23,11 @@ for line in fh:
             continue
         line_data[label] = pieces[i].strip()
 
-
     try:
         ide = int(line_data['politico_id_planilha'])
     except:
         raise Exception("Erro de ID na linha %d" % n)
-        
+
     if already.get(ide, None) is not None:
         raise Exception("ID %d repetido na linha %d" % (ide, n))
     already[ide] = True
