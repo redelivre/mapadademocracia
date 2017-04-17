@@ -22,15 +22,15 @@ $(document).ready(function() {
 
         if (deputado.politico_impeachment == 'INDECISO') {
             posicao.text('INDECISO');
-            posicao_sufixo.text(' em relação ao Golpe');
+            posicao_sufixo.text(' em relação à reforma da previdência');
         }
         if (deputado.politico_impeachment == 'FAVOR') {
             posicao.text('A FAVOR');
-            posicao_sufixo.text(' do Golpe');
+            posicao_sufixo.text(' da reforma da previdência');
         }
         if (deputado.politico_impeachment == 'CONTRA') {
             posicao.text('CONTRA');
-            posicao_sufixo.text(' o Golpe');
+            posicao_sufixo.text(' a reforma da previdência');
         }
 
         var facebook = $('#facebook-deputado');
