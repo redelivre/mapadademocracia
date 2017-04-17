@@ -55,10 +55,11 @@ $(document).ready(function() {
         var email = $('#email-deputado');
         if (deputado.politico_email) {
             var email_body = '';
+            var deputado_formatado = deputado.title.replace(/\b\w/g, function(l){ return l.toUpperCase() });
             if(deputado.politico_mulher == 'SIM') {
-              email_body = 'Excelentíssima Senhora Deputada Federal ' + deputado.title + ',%0D%0A%0D%0A\n';
+              email_body = 'Excelentíssima Senhora Deputada Federal ' + deputado_formatado + ',%0D%0A%0D%0A\n';
             } else {
-              email_body = 'Excelentíssimo Senhor Deputado Federal ' + deputado.title + ',%0D%0A%0D%0A\n';
+              email_body = 'Excelentíssimo Senhor Deputado Federal ' + deputado_formatado + ',%0D%0A%0D%0A\n';
             }
 
             email_body += 'Gostaria de contar com o apoio de V.Exa. no sentido de garantir que não sejam retirados direitos dos trabalhadores brasileiros na reforma da Previdência Social (PEC 287/16) patrocinada pelo governo federal, rejeitando na íntegra a proposta governamental.%0D%0A%0D%0A\n' +
