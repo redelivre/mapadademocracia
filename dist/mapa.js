@@ -203,9 +203,9 @@ $(function(){
 		opacity: '.9'
 	}).html(
 		"<strong class='js-estado'></strong>" +
-		"<div class='js-favor'><label>golpistas</label>: <span></span></div>" +
+		"<div class='js-favor'><label>contra a aposentadoria</label>: <span></span></div>" +
 		"<div class='js-contra'><label>democratas</label>: <span></span></div>" +
-		"<div class='js-indeciso'><label>indecisos</label>: <span></span></div>"
+		"<div class='js-indeciso'><label>defendem a aposentadoria</label>: <span></span></div>"
 	);
 	$modal.appendTo($(document.body));
 
