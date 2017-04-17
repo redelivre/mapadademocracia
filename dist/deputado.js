@@ -55,7 +55,7 @@ $(document).ready(function() {
         var email = $('#email-deputado');
         if (deputado.politico_email) {
             var email_body = '';
-            var deputado_formatado = deputado.title.replace(/\b\w/g, function(l){ return l.toUpperCase() });
+            var deputado_formatado = deputado.title.toLowerCase().replace(/\b\w/g, function(l){ return l.toUpperCase() });
             if(deputado.politico_mulher == 'SIM') {
               email_body = 'Excelentíssima Senhora Deputada Federal ' + deputado_formatado + ',%0D%0A%0D%0A\n';
             } else {
