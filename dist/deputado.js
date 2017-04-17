@@ -67,7 +67,7 @@ $(document).ready(function() {
             'Acompanharei seu voto!%0D%0A%0D%0A\n' +
             'Cordialmente,%0D%0A%0D%0A\n';
 
-            var url_email = 'mailto:' + deputado.politico_email + '?bcc=mapadademocracia@culturalivre.org&subject=Excelentissimo Deputado Federal&body=' + email_body;
+            var url_email = 'mailto:' + deputado.politico_email + '?bcc=mapadademocracia@culturalivre.org&subject=Reforma da Previdência&body=' + email_body;
             email.attr('href', url_email);
         } else {
             email.hide();
