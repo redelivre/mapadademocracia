@@ -11,7 +11,7 @@ $(document).ready(function() {
         pessoa.text(deputado.title);
 
         var foto = $('#imagem-deputado').find('img');
-        foto.attr('src', 'http://mapadademocracia.org.br/files/fotos/' + deputado.politico_id_planilha + '.jpg')
+        foto.attr('src', 'http://placardaprevidencia.com.br/files/fotos/' + deputado.politico_id_planilha + '.jpg')
         foto.attr('alt', deputado.title)
 
         var partido = $('#partido-deputado').find('h1');
@@ -45,7 +45,7 @@ $(document).ready(function() {
         if (deputado.politico_twitter) {
             var parts = deputado.politico_twitter.split("/");
             var twitter_alias = parts[parts.length - 1];
-            var twitter_url = 'https://twitter.com/intent/tweet?text=@' + twitter_alias + ' Vote%20%20Contra%20o%20Impeachment de%20Dilma.%20N%C3%A3o%20h%C3%A1%20nenhuma%20base%20legal%20para%20afast%C3%A1-la.&hashtags=GolpeNuncaMais&url=http%3A//mapadademocracia.org.br'
+            var twitter_url = 'https://twitter.com/intent/tweet?text=@' + twitter_alias + ' Vote%20%20Contra%20o%20Impeachment de%20Dilma.%20N%C3%A3o%20h%C3%A1%20nenhuma%20base%20legal%20para%20afast%C3%A1-la.&hashtags=GolpeNuncaMais&url=http%3A//placardaprevidencia.com.br'
             twitter.attr('href', twitter_url);
             // var msg_twitter = $('#posicao-deputado');
         } else {
