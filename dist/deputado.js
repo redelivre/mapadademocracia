@@ -54,14 +54,19 @@ $(document).ready(function() {
 
         var email = $('#email-deputado');
         if (deputado.politico_email) {
-            var email_body = 'Exmo. Deputado(a) ' + deputado.title + ',%0D%0A%0D%0A\n' +
-                'Nossa democracia está em risco! A conduta política no judiciário brasileiro e as arbitrariedades na condução da Lava Jato estão colocando sob ameaça nosso estado democrático de direito. A investigação que deveria ser um processo formalmente jurídico, a cada dia, deixa mais evidente sua natureza política e o objetivo de abrir caminhos para o golpe.%0D%0A%0D%0A\n' +
-                'O processo de impeachment tem de ser denunciado e enfrentado, tendo em vista que extrapola os termos da legalidade. O impeachment é um processo de punição por crime de responsabilidade, no entanto não há provas de que tais crimes tenham sido cometidos no governo Dilma Rousseff.%0D%0A%0D%0A\n' +
-                'A Presidenta é acusada, por aqueles que defendem seu afastamento de ter cometido pedaladas fiscais. De fato, a conduta, que visa a dar certa aura de equilíbrio às contas públicas em momentos de aperto de caixa, não é boa prática de finança pública. No entanto, não se configura como crime de responsabilidade. Observe que 16 dos 27 governadores do país que também teriam cometido pedalas fiscais não estão respondendo por processos de impeachment, deixando claro o caráter golpista.%0D%0A%0D%0A\n' +
-                'No nosso país o processo de impeachment não deve ser utilizado quando a população se sente insatisfeita com o não cumprimento de promessas eleitorais, quando a oposição não aceita os resultados obtidos nas urnas e também não é o foro adequado para estabelecer uma catarse contra o estado endêmico de corrupção nacional.%0D%0A%0D%0A\n' +
-                'O processo está sendo tocado a toque de caixa pelo deputado Eduardo Cunha sob o qual existem investigações de desvio de dinheiro e contas na suíça, em uma comissão com 34 investigados pelo Supremo Tribunal Federal. Caso aprovada a votação irá para a Câmara dos Deputados onde 271 deputados enfrentam acusações que vão da fraude ao homicídio.%0D%0A%0D%0A\n' +
-                'Aprovar o impeachment da presidenta significa escrever na história um episódio de golpe, protagonizado pelo judiciário, validado pelo congresso e inflamado pela mídia. Promover o impeachment da presidente é abrir um precedente para que o direito de presunção de inocência seja determinado pela opinião pública e não pela lei.%0D%0A%0D%0A%0D%0A\n\n' +
-                '#ContraOImpeachment #GolpeNuncaMais%0D%0A%0D%0A\n';
+            var email_body = '';
+            if(deputados[i].politico_mulher == 'SIM') {
+              email_body = 'Excelentíssima Senhora Deputada Federal ' + deputado.title + ',%0D%0A%0D%0A\n';
+            } else {
+              email_body = 'Excelentíssimo Senhor Deputado Federal ' + deputado.title + ',%0D%0A%0D%0A\n';
+            }
+
+            email_body += 'Gostaria de contar com o apoio de V.Exa. no sentido de garantir que não sejam retirados direitos dos trabalhadores brasileiros na reforma da Previdência Social (PEC 287/16) patrocinada pelo governo federal, rejeitando na íntegra a proposta governamental.%0D%0A%0D%0A\n' +
+            'Entendo que é urgente e necessária uma ampla e profunda discussão acerca da arrecadação do Sistema de Seguridade Social Brasileiro e a desvinculação das receitas da União (DRU), de modo a apurar a real existência de déficit da Previdência no País, divulgado pelo governo em sua campanha como justificativa para as reformas.%0D%0A%0D%0A\n' +
+            'Assim sendo, quero contar com seu apoio para rejeitar qualquer proposta de retirada dos direitos dos trabalhadores.%0D%0A%0D%0A%0D%0A\n\n' +
+            'Acompanharei seu voto!%0D%0A%0D%0A\n' +
+            'Cordialmente,%0D%0A%0D%0A\n';
+
             var url_email = 'mailto:' + deputado.politico_email + '?bcc=mapadademocracia@culturalivre.org&subject=Excelentissimo Deputado Federal&body=' + email_body;
             email.attr('href', url_email);
         } else {
