@@ -37,24 +37,24 @@ $(document).ready(function() {
         precisa += 1;
         if (deputados[i].politico_impeachment == 'INDECISO') {
             indeciso.push(deputados[i]);
-            if (deputados[i].politico_comissao) {
+            if (deputados[i].politico_comissao.toLowerCase() == 'sim') {
                 indeciso_comissao.push(deputados[i]);
             }
         }
         if (deputados[i].politico_impeachment == 'FAVOR') {
             favor.push(deputados[i]);
-            if (deputados[i].politico_comissao) {
+            if (deputados[i].politico_comissao.toLowerCase() == 'sim') {
                 favor_comissao.push(deputados[i]);
             }
         }
         if (deputados[i].politico_impeachment == 'CONTRA' || deputados[i].politico_impeachment == 'AUSENTE') {
             contra.push(deputados[i]);
-            if (deputados[i].politico_comissao) {
+            if (deputados[i].politico_comissao.toLowerCase() == 'sim') {
                 contra_comissao.push(deputados[i]);
             }
         }
         todos.push(deputados[i])
-        if (deputados[i].politico_comissao) {
+        if (deputados[i].politico_comissao.toLowerCase() == 'sim') {
             todos_comissao.push(deputados[i]);
         }
     }
