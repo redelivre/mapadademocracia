@@ -3352,7 +3352,7 @@ var deputados = {
         "politico_whatsapp": "", 
         "politico_id_planilha": "188", 
         "politico_partido": "PMDB", 
-        "politico_impeachment": "FAVOR", 
+        "politico_impeachment": "CONTRA", 
         "politico_comissao": "n\u00e3o", 
         "3215-5475": "3215-5905", 
         "politico_estado": "MS", 
